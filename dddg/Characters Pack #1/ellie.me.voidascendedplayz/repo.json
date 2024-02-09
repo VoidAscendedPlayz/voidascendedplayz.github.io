@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "id": "ellie.me.voidascendedplayz",
+        "name": "Ellie",
+        "characters": [
+            "Ellie"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/ellie.me.voidascendedplayz/index.json",
+        "description": "Created by Me in December 2023",
+        "preview": [
+            "http://localhost:4716/repo/ellie.me.voidascendedplayz/a.png",
+            "http://localhost:4716/repo/ellie.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": [],
+        "repoUrl": "https://voidascendedplayz.github.io/dddg/Characters Pack #1/ellie.me.voidascendedplayz/repo.json"
+    },
+    "authors": {}
+}
