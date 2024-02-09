@@ -1,0 +1,30 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Vaia"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/vaia.me.voidascendedplayz/index.json",
+        "description": "[ A Vaia was Created in January 2024 ]",
+        "id": "vaia.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Vaia [Beta Version]",
+        "preview": [
+            "http://localhost:4716/repo/vaia.me.voidascendedplayz/1l.png",
+            "http://localhost:4716/repo/vaia.me.voidascendedplayz/1r.png",
+            "http://localhost:4716/repo/vaia.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {
+        "VoidAscendedPlayz": {
+            "reddit": "Opening-Hyena4180"
+        }
+    }
+}
