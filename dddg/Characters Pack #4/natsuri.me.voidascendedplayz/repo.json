@@ -1,0 +1,29 @@
+{
+    "pack": {
+        "id": "natsuri.me.voidascendedplayz",
+        "name": "Natsuri",
+        "characters": [
+            "Natsuri [Fusion Series | Beta Version]"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/natsuri.me.voidascendedplayz/index.json",
+        "description": "[ Released on October 29-30, 2023 ]",
+        "preview": [
+            "http://localhost:4716/repo/natsuri.me.voidascendedplayz/a.png",
+            "http://localhost:4716/repo/natsuri.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": [],
+        "repoUrl": "https://voidascendedplayz.github.io/dddg/Characters Pack #4/natsuri.me.voidascendedplayz/repo.json"
+    },
+    "authors": {
+        "VoidAscendedPlayz": {
+            "reddit": "Opening-Hyena4180",
+            "youtube": "@VoidAscendedPlayz"
+        }
+    }
+}
