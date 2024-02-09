@@ -1,0 +1,30 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Mizumi"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/mizumi.me.voidascendedplayz/index.json",
+        "description": "Created by Cyrke, Chibi by SlightlySimple",
+        "id": "mizumi.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Mizumi",
+        "preview": [
+            "http://localhost:4716/repo/mizumi.me.voidascendedplayz/a.png",
+            "http://localhost:4716/repo/mizumi.me.voidascendedplayz/1l.png",
+            "http://localhost:4716/repo/mizumi.me.voidascendedplayz/1r.png"
+        ],
+        "searchWords": [],
+        "repoUrl": "https://voidascendedplayz.github.io/dddg/Characters Pack #4/mizumi.me.voidascendedplayz/repo.json",
+        "source": "https://discord.gg/G9U8p9Sy"
+    },
+    "authors": {
+        "VoidAscendedPlayz": {
+            "reddit": "Opening-Hyena4180"
+        }
+    }
+}
