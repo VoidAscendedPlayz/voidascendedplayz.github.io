@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedplayz"
+        ],
+        "characters": [
+            "Violet"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/violet.me.voidascendedplayz/index.json",
+        "description": "<a href='https://www.reddit.com/user/Opening-Hyena4180'>Created</a> by VoidAscendedplayz on Reddit",
+        "id": "violet.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Violet",
+        "preview": [
+            "http://localhost:4716/repo/violet.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": [],
+        "source": "https://www.reddit.com/user/Opening-Hyena4180"
+    },
+    "authors": {
+        "VoidAscendedplayz": {}
+    }
+}
