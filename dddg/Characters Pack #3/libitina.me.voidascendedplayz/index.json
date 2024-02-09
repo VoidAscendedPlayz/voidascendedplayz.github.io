@@ -1,0 +1,312 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "libitina.me.voidascendedplayz",
+    "packCredits": "<a href=\"https://www.reddit.com/user/Opening-Hyena4180/\">Created</a> by <a href=\"https://www.reddit.com/user/Opening-Hyena4180\">VoidAscendedPlayz</a>",
+    "packName": "Libitina",
+    "source": "https://www.reddit.com/user/Opening-Hyena4180/",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.libitina",
+            "label": "Libitina",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./pose1/a.png"
+                        ],
+                        [
+                            "./pose1/b.png"
+                        ],
+                        [
+                            "./pose1/c.png"
+                        ],
+                        [
+                            "./pose1/d.png"
+                        ],
+                        [
+                            "./pose1/e.png"
+                        ],
+                        [
+                            "./pose1/f.png"
+                        ],
+                        [
+                            "./pose1/g.png"
+                        ],
+                        [
+                            "./pose1/h.png"
+                        ],
+                        [
+                            "./pose1/i.png"
+                        ],
+                        [
+                            "./pose1/j.png"
+                        ],
+                        [
+                            "./pose1/k.png"
+                        ],
+                        [
+                            "./pose1/l.png"
+                        ],
+                        [
+                            "./pose1/m.png"
+                        ],
+                        [
+                            "./pose1/n.png"
+                        ],
+                        [
+                            "./pose1/o.png"
+                        ],
+                        [
+                            "./pose1/p.png"
+                        ],
+                        [
+                            "./pose1/q.png"
+                        ],
+                        [
+                            "./pose1/r.png"
+                        ],
+                        [
+                            "./pose1/s.png"
+                        ],
+                        [
+                            "./pose1/t.png"
+                        ],
+                        [
+                            "./pose1/v.png"
+                        ],
+                        [
+                            "./pose1/w.png"
+                        ],
+                        [
+                            "./pose1/x.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./pose2/a.png"
+                        ],
+                        [
+                            "./pose2/b.png"
+                        ],
+                        [
+                            "./pose2/c.png"
+                        ],
+                        [
+                            "./pose2/d.png"
+                        ],
+                        [
+                            "./pose2/e.png"
+                        ],
+                        [
+                            "./pose2/f.png"
+                        ],
+                        [
+                            "./pose2/g.png"
+                        ],
+                        [
+                            "./pose2/h.png"
+                        ],
+                        [
+                            "./pose2/i.png"
+                        ],
+                        [
+                            "./pose2/j.png"
+                        ],
+                        [
+                            "./pose2/k.png"
+                        ],
+                        [
+                            "./pose2/l.png"
+                        ],
+                        [
+                            "./pose2/m.png"
+                        ],
+                        [
+                            "./pose2/n.png"
+                        ],
+                        [
+                            "./pose2/o.png"
+                        ],
+                        [
+                            "./pose2/p.png"
+                        ],
+                        [
+                            "./pose2/q.png"
+                        ],
+                        [
+                            "./pose2/r.png"
+                        ],
+                        [
+                            "./pose2/s.png"
+                        ],
+                        [
+                            "./pose2/t.png"
+                        ],
+                        [
+                            "./pose2/v.png"
+                        ],
+                        [
+                            "./pose2/w.png"
+                        ],
+                        [
+                            "./pose2/x.png"
+                        ]
+                    ]
+                },
+                "right": {
+                    "variants": [
+                        [
+                            "./pose3/a.png"
+                        ],
+                        [
+                            "./pose3/b.png"
+                        ],
+                        [
+                            "./pose3/c.png"
+                        ],
+                        [
+                            "./pose3/d.png"
+                        ],
+                        [
+                            "./pose3/e.png"
+                        ],
+                        [
+                            "./pose3/f.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose1/1.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/2.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/3.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "costume_1",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose1/1b.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/2b.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/3b.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
