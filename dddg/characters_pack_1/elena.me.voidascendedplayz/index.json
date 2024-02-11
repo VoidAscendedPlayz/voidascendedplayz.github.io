@@ -1,0 +1,337 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "elena.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Elena",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "id": "ddlc.plus.elena.me",
+    "name": "Elena",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./a.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./a1.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./a2.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./b.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./b2.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./c.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./c1.png"
+        },
+        {
+            "name": "Pose 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./d.png"
+        },
+        {
+            "name": "Pose 9",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./d1.png"
+        },
+        {
+            "name": "Pose 10",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./e.png"
+        },
+        {
+            "name": "Pose 11",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./e1.png"
+        },
+        {
+            "name": "Pose 12",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./f.png"
+        },
+        {
+            "name": "Pose 13",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./f1.png"
+        },
+        {
+            "name": "Pose 14",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./f2.png"
+        },
+        {
+            "name": "Pose 15",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./g.png"
+        },
+        {
+            "name": "Pose 16",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./g1.png"
+        },
+        {
+            "name": "Pose 17",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./h.png"
+        },
+        {
+            "name": "Pose 18",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./i.png"
+        },
+        {
+            "name": "Pose 19",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./i1.png"
+        },
+        {
+            "name": "Pose 20",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./i2.png"
+        },
+        {
+            "name": "Pose 21",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./j.png"
+        },
+        {
+            "name": "Pose 22",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./j1.png"
+        },
+        {
+            "name": "Pose 23",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./j2.png"
+        },
+        {
+            "name": "Pose 24",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./k.png"
+        },
+        {
+            "name": "Pose 25",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./k1.png"
+        },
+        {
+            "name": "Pose 26",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./l.png"
+        },
+        {
+            "name": "Pose 27",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./l1.png"
+        },
+        {
+            "name": "Pose 28",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./l2.png"
+        },
+        {
+            "name": "Pose 29",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./l3.png"
+        },
+        {
+            "name": "Pose 30",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./m.png"
+        },
+        {
+            "name": "Pose 31",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./m1.png"
+        },
+        {
+            "name": "Pose 32",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./n.png"
+        },
+        {
+            "name": "Pose 33",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./b1.png"
+        },
+        {
+            "name": "Pose 34",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./n2.png"
+        },
+        {
+            "name": "Pose 35",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./o.png"
+        },
+        {
+            "name": "Pose 36",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./o1.png"
+        },
+        {
+            "name": "Pose 37",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./p.png"
+        },
+        {
+            "name": "Pose 38",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./q.png"
+        },
+        {
+            "name": "Pose 39",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./r.png"
+        }
+    ]
+}
