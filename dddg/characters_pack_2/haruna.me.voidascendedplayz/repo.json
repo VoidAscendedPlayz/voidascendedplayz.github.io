@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Haruna"],
+    "dddg2Path": "https://novamonika.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/index.json",
+    "description": "<a href='https://www.reddit.com/user/Opening-Hyena4180'>Created</a> by VoidAscendedplayz on Reddit",
+    "id": "haruna.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Haruna",
+    "preview": [
+      "https://novamonika.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/preview.png"
+    ],
+    "searchWords": [],
+    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+  },
+  "authors": {
+    "VoidAscendedplayz": {}
+  }
+}
