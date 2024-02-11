@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedPlayz"],
+    "characters": ["Le Jacob [Beta Version]"],
+    "dddg2Path": "https://novamonika.github.io/dddg/characters_pack_3/lejacob.me.voidascendedplayz/index.json",
+    "description": "Le Jacob are now in DDDG when i created in December 2023. Thank you!",
+    "id": "lejacob.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Le Jacob",
+    "preview": [
+      "https://novamonika.github.io/dddg/characters_pack_3/lejacob.me.voidascendedplayz/preview.png"
+    ],
+    "searchWords": [],
+    "source": ""
+  },
+  "authors": {
+    "JohnRDVSMarston": {
+      "Reddit": "Opening-Hyena4180"
+    }
+  }
+}
