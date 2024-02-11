@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedPlayz"],
+    "characters": ["Kuninobu"],
+    "dddg2Path": "https://novamonika.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/index.json",
+    "description": "A Kuninobu was Created in December 2023",
+    "id": "kuninobu.me.voidascendedplayz",
+    "kind": ["Characters", "Sprites"],
+    "name": "Kuninobu",
+    "preview": [
+      "https://novamonika.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/1l.png",
+      "https://novamonika.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/1r.png",
+      "https://novamonika.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "source": ""
+  },
+  "authors": {
+    "VoidAscendedPlayz": {
+      "reddit": "Opening-Hyena4180"
+    }
+  }
+}
