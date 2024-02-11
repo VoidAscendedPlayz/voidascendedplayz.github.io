@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedPlayz"],
+    "characters": ["Bowsuki"],
+    "dddg2Path": "https://novamonika.github.io/dddg/characters_pack_1/bowsuki.me.voidascendedplayz/index.json",
+    "description": "a Bowsuki Created by Me in DDDG, in only DDLC Wholesome Sunshine Mod",
+    "id": "bowsuki.me.voidascendedplayz",
+    "kind": ["Characters", "Sprites"],
+    "name": "Bowsuki",
+    "preview": [
+      "https://novamonika.github.io/dddg/characters_pack_1/bowsuki.me.voidascendedplayz/1l.png",
+      "https://novamonika.github.io/dddg/characters_pack_1/bowsuki.me.voidascendedplayz/1r.png",
+      "https://novamonika.github.io/dddg/characters_pack_1/bowsuki.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "source": ""
+  },
+  "authors": {
+    "VoidAscendedPlayz": {
+      "reddit": "Opening-Hyena4180"
+    }
+  }
+}
