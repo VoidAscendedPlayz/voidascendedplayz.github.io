@@ -1,0 +1,180 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "green_amy.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "green_amy.me",
+            "label": "Amy",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./a.png"
+                    ],
+                    [
+                        "./b.png"
+                    ],
+                    [
+                        "./c.png"
+                    ],
+                    [
+                        "./c1.png"
+                    ],
+                    [
+                        "./c2.png"
+                    ],
+                    [
+                        "./c3.png"
+                    ],
+                    [
+                        "./c4.png"
+                    ],
+                    [
+                        "./c5.png"
+                    ],
+                    [
+                        "./c6.png"
+                    ],
+                    [
+                        "./c7.png"
+                    ],
+                    [
+                        "./c8.png"
+                    ],
+                    [
+                        "./c9.png"
+                    ],
+                    [
+                        "./c10.png"
+                    ],
+                    [
+                        "./c11.png"
+                    ],
+                    [
+                        "./c12.png"
+                    ],
+                    [
+                        "./c13.png"
+                    ],
+                    [
+                        "./d.png"
+                    ],
+                    [
+                        "./e.png"
+                    ],
+                    [
+                        "./f.png"
+                    ],
+                    [
+                        "./g.png"
+                    ],
+                    [
+                        "./h.png"
+                    ],
+                    [
+                        "./i.png"
+                    ],
+                    [
+                        "./j.png"
+                    ],
+                    [
+                        "./k.png"
+                    ],
+                    [
+                        "./l.png"
+                    ],
+                    [
+                        "./m.png"
+                    ],
+                    [
+                        "./n.png"
+                    ],
+                    [
+                        "./o.png"
+                    ],
+                    [
+                        "./p.png"
+                    ],
+                    [
+                        "./q.png"
+                    ],
+                    [
+                        "./r.png"
+                    ],
+                    [
+                        "./s.png"
+                    ],
+                    [
+                        "./t.png"
+                    ],
+                    [
+                        "./u.png"
+                    ],
+                    [
+                        "./v.png"
+                    ],
+                    [
+                        "./w.png"
+                    ],
+                    [
+                        "./x.png"
+                    ],
+                    [
+                        "./y.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "shirt",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
