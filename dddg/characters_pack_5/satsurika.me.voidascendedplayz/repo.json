@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "id": "satsurika.me.voidascendedplayz",
+    "name": "Satsurika",
+    "characters": ["Satsurika"],
+    "authors": ["VoidAscendedPlayz"],
+    "kind": ["Characters"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/satsurika.me.voidascendedplayz/index.json",
+    "description": "Satsurika is now on DDLC for Fusion Mod Series.",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/satsurika.me.voidascendedplayz/a.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/satsurika.me.voidascendedplayz/1.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
+}
