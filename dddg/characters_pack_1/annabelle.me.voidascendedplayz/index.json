@@ -1,0 +1,89 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "annabelle.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Annabelle",
+    "authors": [],
+    "id": "ddlc.plus.annabelle.me",
+    "name": "Annabelle",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./a1.png",
+            "./b.png",
+            "./b1.png",
+            "./c.png",
+            "./c1.png",
+            "./d.png",
+            "./d1.png",
+            "./e.png",
+            "./e1.png",
+            "./f.png",
+            "./f1.png",
+            "./g.png",
+            "./g1.png",
+            "./h.png",
+            "./h1.png",
+            "./i.png",
+            "./i1.png",
+            "./j.png",
+            "./j1.png",
+            "./k.png",
+            "./k1.png",
+            "./l.png",
+            "./l1.png",
+            "./m.png",
+            "./m1.png",
+            "./n1.png",
+            "./o.png",
+            "./o1.png",
+            "./p.png",
+            "./p1.png",
+            "./q.png",
+            "./q1.png",
+            "./r.png",
+            "./r1.png",
+            "./s.png",
+            "./s1.png",
+            "./t.png",
+            "./t1.png",
+            "./u.png",
+            "./u1.png",
+            "./v.png",
+            "./v1.png",
+            "./w.png",
+            "./w1.png",
+            "./x.png",
+            "./x1.png",
+            "./y.png",
+            "./y1.png",
+            "./z.png",
+            "./z1.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "id": "alice_monika.voidascendedplayz",
+    "name": "Alice Monika",
+    "characters": ["Alice Monika"],
+    "authors": ["VoidAscendedPlayz"],
+    "kind": ["Characters"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/alice_monika.voidascendedplayz/index.json",
+    "description": "yup. its just for real Alice Monika in this time.",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/alice_monika.voidascendedplayz/a.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/alice_monika.voidascendedplayz/1.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {
+    "VoidAscendedPlayz": {
+      "reddit": "Opening-Hyena4180"
+    }
+  }
+}
