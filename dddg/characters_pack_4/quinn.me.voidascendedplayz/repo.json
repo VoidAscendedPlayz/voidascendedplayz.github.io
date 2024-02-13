@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "id": "quinn.me.voidascendedplayz",
+    "name": "Quinn",
+    "characters": ["Quinn"],
+    "authors": ["VoidAscendedPlayz"],
+    "kind": ["Characters"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/quinn.me.voidascendedplayz/index.json",
+    "description": "[ Created in January 2024 ]",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/quinn.me.voidascendedplayz/a.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/quinn.me.voidascendedplayz/1.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
+}
