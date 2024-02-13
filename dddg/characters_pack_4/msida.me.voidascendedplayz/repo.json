@@ -1,0 +1,17 @@
+{
+  "pack": {
+    "id": "msida.me.voidascendedplayz",
+    "name": "Ms. Ida",
+    "characters": ["Ms. Ida"],
+    "authors": ["VoidAscendedPlayz"],
+    "kind": ["Characters"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/msida.me.voidascendedplayz/index.json",
+    "description": "[ Created in January 2024 ]",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/msida.me.voidascendedplayz/a.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/msida.me.voidascendedplayz/1.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
+}
