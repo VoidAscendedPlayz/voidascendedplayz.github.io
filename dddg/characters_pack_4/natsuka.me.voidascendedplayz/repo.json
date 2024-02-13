@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedPlayz"],
+    "characters": ["Natsuka"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuka.me.voidascendedplayz/index.json",
+    "description": "A Natsuka was Created in December 2023",
+    "id": "natsuka.me.voidascendedplayz",
+    "kind": ["Characters", "Sprites"],
+    "name": "Natsuka",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuka.me.voidascendedplayz/1l.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuka.me.voidascendedplayz/1r.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuka.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "source": ""
+  },
+  "authors": {
+    "VoidAscendedPlayz": {
+      "reddit": "Opening-Hyena4180"
+    }
+  }
+}
