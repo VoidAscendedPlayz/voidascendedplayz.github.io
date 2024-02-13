@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "id": "libitina.me.voidascendedplayz",
+    "name": "Libitina",
+    "characters": ["Libitina"],
+    "authors": ["VoidAscendedPlayz"],
+    "kind": ["Characters"],
+    "source": "https://www.reddit.com/r/DDLCMods/comments/16pm909",
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/libitina.me.voidascendedplayz/index.json",
+    "description": "<a href=\"https://www.reddit.com/soqntz/\">Created</a> by <a href=\"https://www.reddit.com/user/Opening-Hyena4180\">VoidAscendedPlayz</a>",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_3/libitina.me.voidascendedplayz/preview.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_3/libitina.me.voidascendedplayz/pose1/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {
+    "VoidAscendedPlayz": {
+      "reddit": "Opening-Hyena4180",
+      "discord": "voidascendedplayz#0000"
+    }
+  }
+}
