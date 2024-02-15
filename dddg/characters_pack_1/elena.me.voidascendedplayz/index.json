@@ -27,7 +27,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./a.png"
+            "static": "./A.png"
         },
         {
             "name": "Pose 2",
@@ -35,7 +35,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./a1.png"
+            "static": "./A1.png"
         },
         {
             "name": "Pose 3",
@@ -43,7 +43,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./a2.png"
+            "static": "./A2.png"
         },
         {
             "name": "Pose 4",
@@ -51,7 +51,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./b.png"
+            "static": "./B.png"
         },
         {
             "name": "Pose 5",
@@ -59,7 +59,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./b2.png"
+            "static": "./B2.png"
         },
         {
             "name": "Pose 6",
@@ -67,7 +67,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./c.png"
+            "static": "./C.png"
         },
         {
             "name": "Pose 7",
@@ -75,7 +75,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./c1.png"
+            "static": "./C1.png"
         },
         {
             "name": "Pose 8",
@@ -83,7 +83,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./d.png"
+            "static": "./D.png"
         },
         {
             "name": "Pose 9",
@@ -91,7 +91,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./d1.png"
+            "static": "./D1.png"
         },
         {
             "name": "Pose 10",
@@ -99,7 +99,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./e.png"
+            "static": "./E.png"
         },
         {
             "name": "Pose 11",
@@ -107,7 +107,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./e1.png"
+            "static": "./E1.png"
         },
         {
             "name": "Pose 12",
@@ -115,7 +115,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./f.png"
+            "static": "./F.png"
         },
         {
             "name": "Pose 13",
@@ -123,7 +123,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./f1.png"
+            "static": "./F1.png"
         },
         {
             "name": "Pose 14",
@@ -131,7 +131,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./f2.png"
+            "static": "./F2.png"
         },
         {
             "name": "Pose 15",
@@ -139,7 +139,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./g.png"
+            "static": "./G.png"
         },
         {
             "name": "Pose 16",
@@ -147,7 +147,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./g1.png"
+            "static": "./G1.png"
         },
         {
             "name": "Pose 17",
@@ -155,7 +155,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./h.png"
+            "static": "./H.png"
         },
         {
             "name": "Pose 18",
@@ -163,7 +163,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./i.png"
+            "static": "./I.png"
         },
         {
             "name": "Pose 19",
@@ -171,7 +171,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./i1.png"
+            "static": "./I1.png"
         },
         {
             "name": "Pose 20",
@@ -179,7 +179,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./i2.png"
+            "static": "./I2.png"
         },
         {
             "name": "Pose 21",
@@ -187,7 +187,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./j.png"
+            "static": "./J.png"
         },
         {
             "name": "Pose 22",
@@ -195,7 +195,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./j1.png"
+            "static": "./J1.png"
         },
         {
             "name": "Pose 23",
@@ -203,7 +203,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./j2.png"
+            "static": "./J2.png"
         },
         {
             "name": "Pose 24",
@@ -211,7 +211,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./k.png"
+            "static": "./K.png"
         },
         {
             "name": "Pose 25",
@@ -219,7 +219,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./k1.png"
+            "static": "./K1.png"
         },
         {
             "name": "Pose 26",
@@ -227,7 +227,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./l.png"
+            "static": "./L.png"
         },
         {
             "name": "Pose 27",
@@ -235,7 +235,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./l1.png"
+            "static": "./L1.png"
         },
         {
             "name": "Pose 28",
@@ -243,7 +243,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./l2.png"
+            "static": "./L2.png"
         },
         {
             "name": "Pose 29",
@@ -251,7 +251,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./l3.png"
+            "static": "./L3.png"
         },
         {
             "name": "Pose 30",
@@ -259,7 +259,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./m.png"
+            "static": "./M.png"
         },
         {
             "name": "Pose 31",
@@ -267,7 +267,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./m1.png"
+            "static": "./M1.png"
         },
         {
             "name": "Pose 32",
@@ -275,15 +275,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./n.png"
-        },
-        {
-            "name": "Pose 33",
-            "style": "dark",
-            "compatibleHeads": [
-                "straight"
-            ],
-            "static": "./b1.png"
+            "static": "./N.png"
         },
         {
             "name": "Pose 34",
@@ -291,7 +283,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./n2.png"
+            "static": "./N2.png"
         },
         {
             "name": "Pose 35",
@@ -299,7 +291,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./o.png"
+            "static": "./O.png"
         },
         {
             "name": "Pose 36",
@@ -307,7 +299,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./o1.png"
+            "static": "./O1.png"
         },
         {
             "name": "Pose 37",
@@ -315,7 +307,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./p.png"
+            "static": "./P.png"
         },
         {
             "name": "Pose 38",
@@ -323,7 +315,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./q.png"
+            "static": "./Q.png"
         },
         {
             "name": "Pose 39",
@@ -331,7 +323,7 @@
             "compatibleHeads": [
                 "straight"
             ],
-            "static": "./r.png"
+            "static": "./R.png"
         }
     ]
 }
