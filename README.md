@@ -1,1 +1,1 @@
-# voidascendedplayz.github.io
+# voidascendedplayz.github.io/dddg
