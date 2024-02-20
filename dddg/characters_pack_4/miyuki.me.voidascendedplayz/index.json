@@ -1,0 +1,163 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "miyuki.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Miyuki Ascended n+'24",
+    "authors": [],
+    "id": "ddlc.plus.miyuki.me",
+    "name": "Miyuki",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png",
+            "./y.png",
+            "./y1.png",
+            "./y2.png",
+            "./y3.png",
+            "./y4.png",
+            "./y5.png",
+            "./y6.png",
+            "./y7.png",
+            "./y8.png",
+            "./y9.png",
+            "./y10.png",
+            "./y11.png",
+            "./z.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./7.png"
+        },
+        {
+            "name": "Pose 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./8.png"
+        },
+        {
+            "name": "Pose 9",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./9.png"
+        },
+        {
+            "name": "Pose 10",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./10.png"
+        },
+        {
+            "name": "Pose 11",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./11.png"
+        },
+        {
+            "name": "Pose 12",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./12.png"
+        },
+        {
+            "name": "Pose 13",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./13.png"
+        }
+    ]
+}

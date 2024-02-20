@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "id": "msida.me.voidascendedplayz",
+      "name": "Miyuki",
+      "characters": ["Miyuki"],
+      "authors": ["VoidAscendedPlayz"],
+      "kind": ["Characters"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/miyuki.me.voidascendedplayz/index.json",
+      "description": "[ Created in October 2023 ]",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_4/miyuki.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_4/miyuki.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+  }
