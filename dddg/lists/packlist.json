@@ -1,11 +1,17 @@
 {
   "Characters Pack 1": [
+    ["sfw", "characters_pack_1/adrian.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/alice_monika.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/annabelle.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/aoki.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/ari.voidascendedplayz.edave64/repo.json"],
     ["sfw", "characters_pack_1/aurgouri.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/bella.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/bowsuki.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/branchingpathsmom.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/charlotte.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/chester.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/connor.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/dadyori.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/elena.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/ellie.me.voidascendedplayz/repo.json"]
@@ -14,11 +20,15 @@
     ["sfw", "characters_pack_2/elyssa.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_2/green_amy.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_2/haruhi.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_2/hara.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_2/harumi.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_2/haruna.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_2/hibari.me.voidascendedplayz/repo.json"]
+    ["sfw", "characters_pack_2/hibari.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_2/jeremy.me.voidascendedplayz/repo.json"],
   ],
   "Characters Pack 3": [
+    ["sfw", "characters_pack_3/kai.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_3/kayla.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_3/kia.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_3/kuninobu.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_3/lejacob.me.voidascendedplayz/repo.json"],
@@ -27,16 +37,23 @@
   ],
   "Characters Pack 4": [
     ["sfw", "characters_pack_4/miyuki.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_4/mizumi.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_4/mrzewinski.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/msida.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/natsuka.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/natsuri.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_4/nikki.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/quinn.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_4/randy.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_4/rankin.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/sam.me.voidascendedplayz/repo.json"]
   ],
   "Characters Pack 5": [
+    ["sfw", "characters_pack_5/ruby.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/satsurika.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/vaia.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_5/violet.me.voidascendedplayz/repo.json"]
+    ["sfw", "characters_pack_5/valerie.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_5/victor.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_5/violet.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_5/white.me.voidascendedplayz/repo.json"]
   ]
 }
