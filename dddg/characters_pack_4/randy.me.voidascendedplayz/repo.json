@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Randy [Public Released!]"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/randy.me.voidascendedplayz/index.json",
+    "description": "[ Created in March 2024 ]",
+    "id": "randy.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Randy",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/randy.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/randy.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "repoUrl": "https://voidascendedplayz.github.io/dddg/characters_pack_4/randy.me.voidascendedplayz/repo.json",
+    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+  },
+  "authors": {}
+}

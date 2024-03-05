@@ -1,0 +1,111 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "mrzewinski.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Mr. Zewinski",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.mrzewinski.me",
+    "name": "Mr. Zewinski",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./invisible.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Expression 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1a.png"
+        },
+        {
+            "name": "Expression 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1b.png"
+        },
+        {
+            "name": "Expression 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1c.png"
+        },
+        {
+            "name": "Expression 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1d.png"
+        },
+        {
+            "name": "Expression 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1e.png"
+        },
+        {
+            "name": "Expression 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1f.png"
+        },
+        {
+            "name": "Expression 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze1g.png"
+        },
+        {
+            "name": "Expression 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze2a.png"
+        },
+        {
+            "name": "Expression 9",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze2b.png"
+        },
+        {
+            "name": "Expression 10",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze2c.png"
+        },
+        {
+            "name": "Expression 11",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./ze2f.png"
+        }
+    ]
+}

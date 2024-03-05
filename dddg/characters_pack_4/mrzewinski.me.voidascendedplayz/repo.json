@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Mr. Zewinski [Public Released!]"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/mrzewinski.me.voidascendedplayz/index.json",
+    "description": "[ Created in March 2024 ]",
+    "id": "mrzewinski.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Mr. Zewinski",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/mrzewinski.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/mrzewinski.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "repoUrl": "https://voidascendedplayz.github.io/dddg/characters_pack_4/mrzewinski.me.voidascendedplayz/repo.json",
+    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+  },
+  "authors": {}
+}
