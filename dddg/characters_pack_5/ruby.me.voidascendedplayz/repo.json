@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Ruby [Public Released!]"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/index.json",
+    "description": "[ Created in February 2024 ]",
+    "id": "ruby.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Ruby",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": [],
+    "repoUrl": "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/repo.json",
+    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+  },
+  "authors": {}
+}
