@@ -1,11 +1,11 @@
 {
     "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
-    "packId": "bella.me.voidascendedplayz",
+    "packId": "ruby.me.voidascendedplayz",
     "packCredits": "",
-    "packName": "Bella",
+    "packName": "Ruby",
     "authors": ["VoidAscendedPlayz"],
-    "id": "ddlc.plus.bella.me",
-    "name": "Bella",
+    "id": "ddlc.plus.ruby.me",
+    "name": "Ruby",
     "chibi": "./chibi.png",
     "styles": [
         {
