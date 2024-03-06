@@ -26,12 +26,7 @@
             "./i.png",
             "./j.png",
             "./k.png",
-            "./l.png",
-            "./m.png",
-            "./n.png",
-            "./o.png",
-            "./p.png",
-            "./q.png"
+            "./l.png"
         ]
     },
     "poses": [
@@ -82,6 +77,14 @@
                 "straight"
             ],
             "static": "./6.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./7.png"
         }
     ]
 }
