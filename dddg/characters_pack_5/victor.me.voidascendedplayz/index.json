@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
-    "packId": "victor.voidascendedplayz.edave64",
+    "packId": "victor.me.voidascendedplayz",
     "packCredits": "",
     "packName": "Victor",
     "authors": ["VoidAscendedplayz"],
@@ -29,8 +29,7 @@
             "./l.png",
             "./m.png",
             "./n.png",
-            "./o.png",
-            "./p.png"
+            "./o.png"
         ]
     },
     "poses": [
