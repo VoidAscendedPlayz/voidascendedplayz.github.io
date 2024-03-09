@@ -186,6 +186,30 @@
                 "straight"
             ],
             "static": "./18.png"
+        },
+                {
+            "name": "Pose 19",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./19.png"
+        },
+                {
+            "name": "Pose 20",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./20.png"
+        },
+                {
+            "name": "Pose 21",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./21.png"
         }
     ]
 }
