@@ -61,13 +61,14 @@
                                             ],
                                             [
                                                 "./Eyebrows 4.png"
-                                            ],
-                                            [
                                             ]
                                         ],
                                         "Eyes": [
                                             [
                                                 "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
                                             ]
                             
                                         ],
