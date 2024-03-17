@@ -61,6 +61,9 @@
                                             ],
                                             [
                                                 "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
                                             ]
                                         ],
                                         "Eyes": [
@@ -169,11 +172,17 @@
                                             ],
                                             [
                                                 "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
                                             ]
                                         ],
                                         "Eyes": [
                                             [
                                                 "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
                                             ]
                                         ],
                                         "Mouth": [
