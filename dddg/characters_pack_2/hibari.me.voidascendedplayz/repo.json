@@ -1,6 +1,6 @@
 {
   "pack": {
-    "authors": ["VoidAscendedPlayz"],
+    "authors": ["AjTheYandere", "staticquit"],
     "characters": ["Hibari"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/hibari.me.voidascendedplayz/index.json",
     "description": "[ A Hibari was Created in January 2024 ]",
@@ -15,9 +15,5 @@
     "searchWords": [],
     "source": ""
   },
-  "authors": {
-    "VoidAscendedPlayz": {
-      "reddit": "Opening-Hyena4180"
-    }
-  }
+  "authors": {}
 }
