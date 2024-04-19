@@ -3,7 +3,7 @@
       "id": "miyuki.me.voidascendedplayz",
       "name": "Miyuki",
       "characters": ["Miyuki"],
-      "authors": ["VoidAscendedPlayz"],
+      "authors": ["AjTheYandere"],
       "kind": ["Characters"],
       "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/miyuki.me.voidascendedplayz/index.json",
       "description": "[ Created in October 2023 ]",
@@ -13,9 +13,5 @@
       ],
       "searchWords": []
   },
-  "authors": {
-    "VoidAscendedPlayz": {
-      "reddit": "Opening-Hyena4180"
-    }
-  }
+  "authors": {}
 }
