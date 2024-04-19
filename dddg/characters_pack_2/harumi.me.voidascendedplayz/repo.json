@@ -3,7 +3,7 @@
     "id": "harumi.me.voidascendedplayz",
     "name": "Harumi",
     "characters": ["Harumi"],
-    "authors": ["VoidAscendedPlayz"],
+    "authors": ["BassPon3", "StormBlazed76"],
     "kind": ["Characters"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/harumi.me.voidascendedplayz/index.json",
     "description": "Created Harumi in December 2023",
@@ -14,8 +14,8 @@
     "searchWords": []
   },
   "authors": {
-    "VoidAscendedPlayz": {
-      "reddit": "Opening-Hyena4180"
+    "BassPon3": {
+      "reddit": "BassPon3"
     }
   }
 }
