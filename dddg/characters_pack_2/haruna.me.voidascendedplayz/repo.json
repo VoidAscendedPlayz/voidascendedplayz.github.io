@@ -1,19 +1,16 @@
 {
   "pack": {
-    "authors": ["VoidAscendedplayz"],
+    "authors": ["Prox"],
     "characters": ["Haruna"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/index.json",
-    "description": "<a href='https://www.reddit.com/user/Opening-Hyena4180'>Created</a> by VoidAscendedplayz on Reddit",
+    "description": "[ Created in October 2023 ]",
     "id": "haruna.me.voidascendedplayz",
     "kind": ["Characters"],
     "name": "Haruna",
     "preview": [
       "https://voidascendedplayz.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/preview.png"
     ],
-    "searchWords": [],
-    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+    "searchWords": []
   },
-  "authors": {
-    "VoidAscendedplayz": {}
-  }
+  "authors": {}
 }
