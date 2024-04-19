@@ -3,21 +3,16 @@
     "id": "lilly.me.voidascendedplayz",
     "name": "Lilly",
     "characters": ["Lilly"],
-    "authors": ["VoidAscendedPlayz"],
+    "authors": ["JohnRVDSMarston"],
     "kind": ["Characters"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/lilly.me.voidascendedplayz/index.json",
-    "description": "[Lilly: yup, i am the pro!]",
-    "disclaimer": "so this time. Lilly has now Fully Official Release with On 256 Expressions in took 30 Minutes - 1 Hour. so yea. Enjoy on this Custom Characters in Content Pack!",
+    "description": "[ No Description Here. ]",
+    "disclaimer": "in Month Ago, An 256 Expressions in Creating 30 Minutes - 1 Hour for Long Break.",
     "preview": [
       "https://voidascendedplayz.github.io/dddg/characters_pack_3/lilly.me.voidascendedplayz/a-1.png",
       "https://voidascendedplayz.github.io/dddg/characters_pack_3/lilly.me.voidascendedplayz/1.png"
     ],
     "searchWords": []
   },
-  "authors": {
-    "VoidAscendedPlayz": {
-      "reddit": "Opening-Hyena4180",
-      "youtube": "VoidAscendedPlayz"
-    }
-  }
+  "authors": {}
 }
