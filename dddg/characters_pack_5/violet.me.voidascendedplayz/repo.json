@@ -1,6 +1,6 @@
 {
   "pack": {
-    "authors": ["VoidAscendedplayz"],
+    "authors": ["AjTheYandere"],
     "characters": ["Violet"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/violet.me.voidascendedplayz/index.json",
     "description": "<a href='https://www.reddit.com/user/Opening-Hyena4180'>Created</a> by VoidAscendedplayz on Reddit",
@@ -13,7 +13,5 @@
     "searchWords": [],
     "source": "https://www.reddit.com/user/Opening-Hyena4180"
   },
-  "authors": {
-    "VoidAscendedplayz": {}
-  }
+  "authors": {}
 }
