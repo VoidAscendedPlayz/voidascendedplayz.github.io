@@ -1,6 +1,6 @@
 {
   "pack": {
-    "authors": ["VoidAscendedPlayz"],
+    "authors": ["AjTheYandere"],
     "characters": ["Green Amy"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/green_amy.me.voidascendedplayz/index.json",
     "description": "A Green Amy was Created in December 2023",
@@ -14,9 +14,5 @@
     ],
     "searchWords": []
   },
-  "authors": {
-    "VoidAscendedPlayz": {
-      "reddit": "Opening-Hyena4180"
-    }
-  }
+  "authors": {}
 }
