@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "kasumi.me.voidascendedplayz",
+        "name": "Kasumi",
+        "characters": [
+            "Kasumi [Public Released!]"
+        ],
+        "authors": ["LecraftX9", "Dreadtsunami"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kasumi.me.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kasumi.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kasumi.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
