@@ -1,0 +1,19 @@
+{
+    "pack": {
+      "id": "daisuke.me.voidascendedplayz",
+      "name": "Daisuke",
+      "characters": ["Daisuke [Public Released!]"],
+      "authors": ["BassPon3", "StormBlazed76"],
+      "kind": ["Characters"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/daisuke.me.voidascendedplayz/index.json",
+      "description": "[ Created in March 2024 ]",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/daisuke.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/daisuke.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {
+      "Reddit": "BassPon3"
+  }
+}

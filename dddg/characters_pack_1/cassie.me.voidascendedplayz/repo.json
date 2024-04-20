@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "id": "cassie.me.voidascendedplayz",
+      "name": "Cassie",
+      "characters": ["Cassie [Public Released!]"],
+      "authors": ["HerobrineLD"],
+      "kind": ["Characters"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/cassie.me.voidascendedplayz/index.json",
+      "description": "[ Created in March 2024 ]",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/cassie.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/cassie.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+  }
