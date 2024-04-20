@@ -1,11 +1,11 @@
-{
+    {
     "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
     "packId": "riyu.me.voidascendedplayz",
     "packCredits": "",
     "packName": "Riyu",
     "authors": ["VoidAscendedplayz"],
     "id": "ddlc.plus.riyu.me",
-    "name": "riyu",
+    "name": "Riyu",
     "chibi": "./chibi.png",
     "styles": [
         {
