@@ -1,0 +1,21 @@
+{
+  "pack": {
+      "id": "yae.me.voidascendedplayz",
+      "name": "Yae",
+      "characters": [
+          "Yae [Public Released!]"
+      ],
+      "authors": ["VoidAscendedPlayz"],
+      "kind": [
+          "Characters"
+      ],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/yae.me.voidascendedplayz/index.json",
+      "description": "Meet a Beauty Girlfriend at Yae! [ Created in April 2024 ]",
+      "preview": [
+          "https://voidascendedplayz.github.io/dddg/characters_pack_5/yae.me.voidascendedplayz/a.png",
+          "https://voidascendedplayz.github.io/dddg/characters_pack_5/yae.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+  },
+  "authors": {}
+}
