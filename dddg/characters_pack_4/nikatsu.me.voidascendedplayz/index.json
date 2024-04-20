@@ -1,0 +1,94 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "nikatsu.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Nikatsu",
+    "authors": ["VoidAscendedplayz"],
+    "id": "ddlc.plus.nikatsu.me",
+    "name": "Nikatsu",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png",
+            "./y.png",
+            "./z.png",
+            "./z1.png",
+            "./z2.png",
+            "./z3.png",
+            "./z4.png",
+            "./z5.png",
+            "./z6.png",
+            "./z7.png",
+            "./z8.png",
+            "./z9.png",
+            "./z10.png",
+            "./z11.png",
+            "./z12.png",
+            "./z13.png",
+            "./z14.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        }
+    ]
+}

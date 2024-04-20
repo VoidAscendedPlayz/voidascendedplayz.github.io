@@ -1,0 +1,21 @@
+{
+  "pack": {
+      "id": "nikatsu.me.voidascendedplayz",
+      "name": "Nikatsu",
+      "characters": [
+          "Nikatsu [Public Released!]"
+      ],
+      "authors": ["VoidAscendedPlayz"],
+      "kind": [
+          "Characters"
+      ],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/nikatsu.me.voidascendedplayz/index.json",
+      "description": "A Nikatsu, is a Beautiful Natsuki's Twins! [ Created in April 2024 ]",
+      "preview": [
+          "https://voidascendedplayz.github.io/dddg/characters_pack_4/nikatsu.me.voidascendedplayz/a.png",
+          "https://voidascendedplayz.github.io/dddg/characters_pack_4/nikatsu.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+  },
+  "authors": {}
+}

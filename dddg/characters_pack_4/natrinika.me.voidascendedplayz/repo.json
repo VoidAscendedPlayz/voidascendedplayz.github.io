@@ -1,0 +1,21 @@
+{
+  "pack": {
+      "id": "natrinika.me.voidascendedplayz",
+      "name": "Natrinika",
+      "characters": [
+          "Natrinika [Public Released!]"
+      ],
+      "authors": ["Iansuller_blogger"],
+      "kind": [
+          "Characters"
+      ],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/natrinika.me.voidascendedplayz/index.json",
+      "description": "Meet a New Girl for Called, A Natrinika! [ Created in April 2024 ]",
+      "preview": [
+          "https://voidascendedplayz.github.io/dddg/characters_pack_4/natrinika.me.voidascendedplayz/a.png",
+          "https://voidascendedplayz.github.io/dddg/characters_pack_4/natrinika.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+  },
+  "authors": {}
+}
