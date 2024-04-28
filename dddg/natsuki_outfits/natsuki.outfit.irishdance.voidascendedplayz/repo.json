@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.irishdance.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.irishdance.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Natsuki's Irish Dance Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.irishdance.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.irishdance.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

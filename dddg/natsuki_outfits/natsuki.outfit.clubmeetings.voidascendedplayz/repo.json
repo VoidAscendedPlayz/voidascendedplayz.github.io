@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.clubmeetings.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.clubmeetings.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Natsuki's Club Meetings Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.clubmeetings.voidascendedplayz/ntskl2.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.clubmeetings.voidascendedplayz/ntskr.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

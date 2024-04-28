@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.catprintcasual.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.catprintcasual.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Cat Print's Casual Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.catprintcasual.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.catprintcasual.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
