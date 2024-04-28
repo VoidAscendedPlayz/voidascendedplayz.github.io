@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.winteralt.voidascendedplayz",
+    "styles": [
+        {
+            "name": "winteralt_voidascendedplayz",
+            "label": "Yuri's Winter Alt Outfit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-winteralt_voidascendedplayz",
+            "style": "winteralt_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1bl.png",
+                "./2bl.png"
+            ],
+            "right": [
+                "./1br.png",
+                "./2br.png"
+            ]
+        },
+        {
+            "name": "hairplay-winteralt_voidascendedplayz",
+            "style": "winteralt_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

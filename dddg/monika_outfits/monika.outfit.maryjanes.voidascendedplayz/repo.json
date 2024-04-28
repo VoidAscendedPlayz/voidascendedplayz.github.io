@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "DestinyPvEGal"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.maryjanes.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "monika.outfit.maryjanes.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Monika's Mary Janes Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.maryjanes.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.maryjanes.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

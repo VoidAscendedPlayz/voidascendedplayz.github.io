@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.winteralt.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "yuri.outfit.winteralt.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Yuri's Winter Alt Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.winteralt.voidascendedplayz/1bl.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.winteralt.voidascendedplayz/1br.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

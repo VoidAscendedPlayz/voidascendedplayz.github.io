@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.monika",
+    "packId": "monika.outfit.clubmeetings.voidascendedplayz",
+    "styles": [
+        {
+            "name": "clubmeetings_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-clubmeetings_voidascendedplayz",
+            "style": "clubmeetings_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./mnkl.png",
+                "./mnkl2.png"
+            ],
+            "right": [
+                "./mnkr2.png",
+                "./mnkr.png"
+            ]
+        }
+    ]
+}

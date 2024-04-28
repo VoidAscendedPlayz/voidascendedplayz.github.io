@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.monika",
+    "packId": "monika.outfit.maryjanes.voidascendedplayz",
+    "styles": [
+        {
+            "name": "maryjanes_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "maryjanes_voidascendedplayz",
+            "style": "maryjanes_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1bl.png",
+                "./2bl.png",
+                "./3bl.png"
+            ],
+            "right": [
+                "./1br.png",
+                "./2br.png"
+            ]
+        }
+    ]
+}

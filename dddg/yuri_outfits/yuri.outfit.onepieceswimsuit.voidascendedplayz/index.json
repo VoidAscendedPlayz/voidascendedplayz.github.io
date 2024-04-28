@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.onepieceswimsuit.voidascendedplayz",
+    "styles": [
+        {
+            "name": "onepieceswimsuit_voidascendedplayz",
+            "label": "Yuri's One Piece Swimsuit Outfit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-onepieceswimsuit_voidascendedplayz",
+            "style": "onepieceswimsuit_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-onepieceswimsuit_voidascendedplayz",
+            "style": "onepieceswimsuit_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

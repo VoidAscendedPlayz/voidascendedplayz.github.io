@@ -1,0 +1,57 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.monika",
+    "packId": "monika.outfit.winter.voidascendedplayz",
+    "styles": [
+        {
+            "name": "winter_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-winter_voidascendedplayz",
+            "style": "winter_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./3l.png",
+                "./4l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./3r.png",
+                "./4r.png"
+            ]
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "leaned-winter_voidascendedplayz",
+            "style": "winter_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./5.png"
+        }
+    ]
+}

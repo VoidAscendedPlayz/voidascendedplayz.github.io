@@ -1,0 +1,47 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.winter.voidascendedplayz",
+    "styles": [
+        {
+            "name": "winter_voidascendedplayz",
+            "label": "Winter Outfit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-winter_voidascendedplayz",
+            "style": "winter_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./3l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./3r.png"
+            ]
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "hairplay-winter_voidascendedplayz",
+            "style": "winter_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.clubmeetings.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "monika.outfit.clubmeetings.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Monika's Club Meetings Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.clubmeetings.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.clubmeetings.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
