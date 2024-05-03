@@ -1,0 +1,65 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.sayori",
+    "packId": "sayori.outfit.mafia.voidascendedplayz",
+    "styles": [
+        {
+            "name": "mafia_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {
+        "straight":[
+        "./a.png",
+        "./b.png",
+        "./c.png",
+        "./d.png",
+        "./e.png",
+        "./f.png",
+        "./g.png",
+        "./h.png",
+        "./i.png",
+        "./j.png",
+        "./k.png",
+        "./l.png",
+        "./m.png",
+        "./n.png",
+        "./o.png",
+        "./p.png",
+        "./q.png",
+        "./r.png",
+        "./s.png",
+        "./t.png",
+        "./y.png",
+        "./v.png",
+        "./w.png",
+        "./x.png",
+        "./y.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "normal_mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "sideways_mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3a.png"
+        }
+    ]
+}
