@@ -1,0 +1,82 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.mafia.voidascendedplayz",
+    "styles": [
+        {
+            "name": "mafia_voidascendedplayz",
+            "label": "Mafia Outfit"
+        }
+    ],
+    "heads": {
+    "straight":[
+        "./a.png",
+        "./b.png",
+        "./c.png",
+        "./d.png",
+        "./e.png",
+        "./f.png",
+        "./g.png",
+        "./h.png",
+        "./hisui.png",
+        "./i.png",
+        "./j.png",
+        "./k.png",
+        "./l.png",
+        "./m.png",
+        "./n.png",
+        "./o.png",
+        "./p.png",
+        "./q.png",
+        "./r.png",
+        "./s.png",
+        "./t.png",
+        "./u.png",
+        "./v.png",
+        "./a.png",
+        "./w.png",
+        "./x.png",
+        "./y.png",
+        "./y1.png",
+        "./y2.png",
+        "./y3.png",
+        "./y4.png",
+        "./y5.png",
+        "./y6.png",
+        "./y7.png"
+    ],
+    "sideways": [
+        "./a2.png",
+        "./b2.png",
+        "./c2.png",
+        "./d2.png",
+        "./e2.png"
+    ]
+    },
+    "poses": [
+        {
+            "name": "normal-mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r1.png",
+                "./2r2.png"
+            ]
+        },
+        {
+            "name": "hairplay-mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

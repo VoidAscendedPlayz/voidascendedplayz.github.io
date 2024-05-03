@@ -1,0 +1,83 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.whitedress.voidascendedplayz",
+    "styles": [
+        {
+            "name": "whitedress_voidascendedplayz",
+            "label": "White Dress Outfit"
+        }
+    ],
+    "heads": {
+    "straight":[
+        "./a.png",
+        "./b.png",
+        "./c.png",
+        "./d.png",
+        "./e.png",
+        "./f.png",
+        "./g.png",
+        "./h.png",
+        "./i.png",
+        "./j.png",
+        "./k.png",
+        "./l.png",
+        "./m.png",
+        "./n.png",
+        "./o.png",
+        "./p.png",
+        "./q.png",
+        "./r.png",
+        "./s.png",
+        "./t.png",
+        "./u.png",
+        "./v.png",
+        "./a.png",
+        "./w.png",
+        "./x.png",
+        "./y.png",
+        "./z.png",
+        "./z1.png",
+        "./z2.png",
+        "./z3.png",
+        "./z4.png",
+        "./z5.png",
+        "./z6.png",
+        "./z7.png",
+        "./z8.png",
+        "./z9.png"
+    ],
+    "sideways": [
+        "./alt1.png",
+        "./alt2.png",
+        "./alt3.png",
+        "./alt4.png",
+        "./alt5.png"
+    ]
+    },
+    "poses": [
+        {
+            "name": "normal-whitedress_voidascendedplayz",
+            "style": "whitedress_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-whitedress_voidascendedplayz",
+            "style": "whitedress_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
