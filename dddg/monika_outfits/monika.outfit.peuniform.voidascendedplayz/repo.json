@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz", "LecraftX9"],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.peuniform.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "monika.outfit.peuniform.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "P.E Outfits",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.peuniform.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.peuniform.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

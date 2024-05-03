@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz", "LecraftX9"],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prototype.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "monika.outfit.prototype.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Prototype Dokis Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prototype.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prototype.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
