@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "LecraftX9"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.hospitalgown.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "sayori.outfit.hospitalgown.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Hospital Gown Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.hospitalgown.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.hospitalgown.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
