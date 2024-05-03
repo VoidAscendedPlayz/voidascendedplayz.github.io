@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz"],
+        "characters": ["MC"],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.winter.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "mc.outfit.winter.voidascendedplayz",
+        "kind": ["Styles"],
+        "name": "MC's Winter Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.winter.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.winter.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

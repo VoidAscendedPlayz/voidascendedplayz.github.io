@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz"],
+        "characters": ["MC"],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.swimsuit.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "mc.outfit.swimsuit.voidascendedplayz",
+        "kind": ["Styles"],
+        "name": "MC's Swimsuit Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.swimsuit.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.swimsuit.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

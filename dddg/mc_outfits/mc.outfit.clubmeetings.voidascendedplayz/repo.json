@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz"],
+        "characters": ["MC"],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.clubmeetings.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "mc.outfit.clubmeetings.voidascendedplayz",
+        "kind": ["Styles"],
+        "name": "MC's Club Meetings Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.clubmeetings.voidascendedplayz/mcl.png",
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.clubmeetings.voidascendedplayz/mcr2.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
