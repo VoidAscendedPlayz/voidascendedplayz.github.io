@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "Matic"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.mafia.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.mafia.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Mafia Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.mafia.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.mafia.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

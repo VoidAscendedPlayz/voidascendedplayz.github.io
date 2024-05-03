@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.pajamas.voidascendedplayz",
+    "styles": [
+        {
+            "name": "pajamas_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-pajamas_voidascendedplayz",
+            "style": "pajamas_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1pl.png",
+                "./2pr.png"
+            ],
+            "right": [
+                "./1pr.png",
+                "./2pl.png"
+            ]
+        }
+    ]
+}

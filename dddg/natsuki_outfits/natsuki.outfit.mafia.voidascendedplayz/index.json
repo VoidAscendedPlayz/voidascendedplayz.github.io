@@ -1,0 +1,88 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.mafia.voidascendedplayz",
+    "styles": [
+        {
+            "name": "mafia_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s-1.png",
+            "./scream.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png",
+            "./y.png",
+            "./z.png",
+            "./2ta.png",
+            "./2tb.png",
+            "./2tc.png",
+            "./2td.png",
+            "./2te.png",
+            "./2tf.png",
+            "./2tg.png",
+            "./2th.png",
+            "./2ti.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "normal-mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "leaned-mafia_voidascendedplayz",
+            "style": "mafia_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "headAnchor": [
+                18,
+                22
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

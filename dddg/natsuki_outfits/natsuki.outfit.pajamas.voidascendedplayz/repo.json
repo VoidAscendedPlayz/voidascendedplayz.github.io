@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.pajamas.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.pajamas.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Pajamas Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.pajamas.voidascendedplayz/1pl.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.pajamas.voidascendedplayz/1pr.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
