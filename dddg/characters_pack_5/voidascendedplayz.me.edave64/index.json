@@ -64,12 +64,6 @@
                                             ],
                                             [
                                                 "./Eyebrows 5.png"
-                                            ],
-                                            [
-                                                "./Eye Looking Left.png"
-                                            ],
-                                            [
-                                                "./Eye Looking Right.png"
                                             ]
                                         ],
                                         "Eyes": [
@@ -78,6 +72,12 @@
                                             ],
                                             [
                                                 "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye Looking Left.png"
+                                            ],
+                                            [
+                                                "./Eye Looking Right.png"
                                             ]
                             
                                         ],
@@ -182,12 +182,6 @@
                                             [
                                                 "./Eyebrows 5.png"
                                             ],
-                                            [
-                                                "./Eye Looking Left.png"
-                                            ],
-                                            [
-                                                "./Eye Looking Right.png"
-                                            ]
                                         ],
                                         "Eyes": [
                                             [
@@ -195,6 +189,12 @@
                                             ],
                                             [
                                                 "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye Looking Left.png"
+                                            ],
+                                            [
+                                                "./Eye Looking Right.png"
                                             ]
                                         ],
                                         "Mouth": [
