@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "id": "reiko.me.voidascendedplayz",
+        "name": "Reiko",
+        "characters": [
+            "Reiko [ 140+ Expressions - 4 Styles ]"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "source": "",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/reiko.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/reiko.me.voidascendedplayz/pose1/1a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/reiko.me.voidascendedplayz/expressions/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,866 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "reiko.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Reiko",
+    "source": "https://www.reddit.com/u/Opening-Hyena4180",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.reiko",
+            "label": "Reiko",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./expressions/1.png"
+                        ],
+                        [
+                            "./expressions/2.png"
+                        ],
+                        [
+                            "./expressions/3.png"
+                        ],
+                        [
+                            "./expressions/4.png"
+                        ],
+                        [
+                            "./expressions/5.png"
+                        ],
+                        [
+                            "./expressions/6.png"
+                        ],
+                        [
+                            "./expressions/7.png"
+                        ],
+                        [
+                            "./expressions/8.png"
+                        ],
+                        [
+                            "./expressions/9.png"
+                        ],
+                        [
+                            "./expressions/10.png"
+                        ],
+                        [
+                            "./expressions/11.png"
+                        ],
+                        [
+                            "./expressions/12.png"
+                        ],
+                        [
+                            "./expressions/13.png"
+                        ],
+                        [
+                            "./expressions/14.png"
+                        ],
+                        [
+                            "./expressions/15.png"
+                        ],
+                        [
+                            "./expressions/16.png"
+                        ],
+                        [
+                            "./expressions/17.png"
+                        ],
+                        [
+                            "./expressions/18.png"
+                        ],
+                        [
+                            "./expressions/19.png"
+                        ],
+                        [
+                            "./expressions/20.png"
+                        ],
+                        [
+                            "./expressions/21.png"
+                        ],
+                        [
+                            "./expressions/22.png"
+                        ],
+                        [
+                            "./expressions/23.png"
+                        ],
+                        [
+                            "./expressions/24.png"
+                        ],
+                        [
+                            "./expressions/25.png"
+                        ],
+                        [
+                            "./expressions/26.png"
+                        ],
+                        [
+                            "./expressions/27.png"
+                        ],
+                        [
+                            "./expressions/28.png"
+                        ],
+                        [
+                            "./expressions/29.png"
+                        ],
+                        [
+                            "./expressions/30.png"
+                        ],
+                        [
+                            "./expressions/31.png"
+                        ],
+                        [
+                            "./expressions/32.png"
+                        ],
+                        [
+                            "./expressions/33.png"
+                        ],
+                        [
+                            "./expressions/34.png"
+                        ],
+                        [
+                            "./expressions/35.png"
+                        ],
+                        [
+                            "./expressions/36.png"
+                        ],
+                        [
+                            "./expressions/37.png"
+                        ],
+                        [
+                            "./expressions/38.png"
+                        ],
+                        [
+                            "./expressions/39.png"
+                        ],
+                        [
+                            "./expressions/40.png"
+                        ],
+                        [
+                            "./expressions/41.png"
+                        ],
+                        [
+                            "./expressions/42.png"
+                        ],
+                        [
+                            "./expressions/43.png"
+                        ],
+                        [
+                            "./expressions/44.png"
+                        ],
+                        [
+                            "./expressions/45.png"
+                        ],
+                        [
+                            "./expressions/46.png"
+                        ],
+                        [
+                            "./expressions/47.png"
+                        ],
+                        [
+                            "./expressions/48.png"
+                        ],
+                        [
+                            "./expressions/49.png"
+                        ],
+                        [
+                            "./expressions/50.png"
+                        ],
+                        [
+                            "./expressions/51.png"
+                        ],
+                        [
+                            "./expressions/52.png"
+                        ],
+                        [
+                            "./expressions/53.png"
+                        ],
+                        [
+                            "./expressions/54.png"
+                        ],
+                        [
+                            "./expressions/55.png"
+                        ],
+                        [
+                            "./expressions/56.png"
+                        ],
+                        [
+                            "./expressions/57.png"
+                        ],
+                        [
+                            "./expressions/58.png"
+                        ],
+                        [
+                            "./expressions/59.png"
+                        ],
+                        [
+                            "./expressions/60.png"
+                        ],
+                        [
+                            "./expressions/61.png"
+                        ],
+                        [
+                            "./expressions/62.png"
+                        ],
+                        [
+                            "./expressions/63.png"
+                        ],
+                        [
+                            "./expressions/64.png"
+                        ],
+                        [
+                            "./expressions/65.png"
+                        ],
+                        [
+                            "./expressions/66.png"
+                        ],
+                        [
+                            "./expressions/67.png"
+                        ],
+                        [
+                            "./expressions/68.png"
+                        ],
+                        [
+                            "./expressions/69.png"
+                        ],
+                        [
+                            "./expressions/70.png"
+                        ],
+                        [
+                            "./expressions/71.png"
+                        ],
+                        [
+                            "./expressions/72.png"
+                        ],
+                        [
+                            "./expressions/73.png"
+                        ],
+                        [
+                            "./expressions/74.png"
+                        ],
+                        [
+                            "./expressions/75.png"
+                        ],
+                        [
+                            "./expressions/76.png"
+                        ],
+                        [
+                            "./expressions/77.png"
+                        ],
+                        [
+                            "./expressions/78.png"
+                        ],
+                        [
+                            "./expressions/79.png"
+                        ],
+                        [
+                            "./expressions/80.png"
+                        ],
+                        [
+                            "./expressions/81.png"
+                        ],
+                        [
+                            "./expressions/82.png"
+                        ],
+                        [
+                            "./expressions/83.png"
+                        ],
+                        [
+                            "./expressions/84.png"
+                        ],
+                        [
+                            "./expressions/85.png"
+                        ],
+                        [
+                            "./expressions/86.png"
+                        ],
+                        [
+                            "./expressions/87.png"
+                        ],
+                        [
+                            "./expressions/88.png"
+                        ],
+                        [
+                            "./expressions/89.png"
+                        ],
+                        [
+                            "./expressions/90.png"
+                        ],
+                        [
+                            "./expressions/91.png"
+                        ],
+                        [
+                            "./expressions/92.png"
+                        ],
+                        [
+                            "./expressions/93.png"
+                        ],
+                        [
+                            "./expressions/94.png"
+                        ],
+                        [
+                            "./expressions/95.png"
+                        ],
+                        [
+                            "./expressions/96.png"
+                        ],
+                        [
+                            "./expressions/97.png"
+                        ],
+                        [
+                            "./expressions/98.png"
+                        ],
+                        [
+                            "./expressions/99.png"
+                        ],
+                        [
+                            "./expressions/100.png"
+                        ],
+                        [
+                            "./expressions/101.png"
+                        ],
+                        [
+                            "./expressions/102.png"
+                        ],
+                        [
+                            "./expressions/103.png"
+                        ],
+                        [
+                            "./expressions/104.png"
+                        ],
+                        [
+                            "./expressions/105.png"
+                        ],
+                        [
+                            "./expressions/106.png"
+                        ],
+                        [
+                            "./expressions/107.png"
+                        ],
+                        [
+                            "./expressions/108.png"
+                        ],
+                        [
+                            "./expressions/109.png"
+                        ],
+                        [
+                            "./expressions/110.png"
+                        ],
+                        [
+                            "./expressions/111.png"
+                        ],
+                        [
+                            "./expressions/112.png"
+                        ],
+                        [
+                            "./expressions/113.png"
+                        ],
+                        [
+                            "./expressions/114.png"
+                        ],
+                        [
+                            "./expressions/115.png"
+                        ],
+                        [
+                            "./expressions/116.png"
+                        ],
+                        [
+                            "./expressions/117.png"
+                        ],
+                        [
+                            "./expressions/118.png"
+                        ],
+                        [
+                            "./expressions/119.png"
+                        ],
+                        [
+                            "./expressions/120.png"
+                        ],
+                        [
+                            "./expressions/121.png"
+                        ],
+                        [
+                            "./expressions/122.png"
+                        ],
+                        [
+                            "./expressions/123.png"
+                        ],
+                        [
+                            "./expressions/124.png"
+                        ],
+                        [
+                            "./expressions/125.png"
+                        ],
+                        [
+                            "./expressions/126.png"
+                        ],
+                        [
+                            "./expressions/127.png"
+                        ],
+                        [
+                            "./expressions/128.png"
+                        ],
+                        [
+                            "./expressions/129.png"
+                        ],
+                        [
+                            "./expressions/130.png"
+                        ],
+                        [
+                            "./expressions/131.png"
+                        ],
+                        [
+                            "./expressions/132.png"
+                        ],
+                        [
+                            "./expressions/133.png"
+                        ],
+                        [
+                            "./expressions/134.png"
+                        ],
+                        [
+                            "./expressions/135.png"
+                        ],
+                        [
+                            "./expressions/136.png"
+                        ],
+                        [
+                            "./expressions/137.png"
+                        ],
+                        [
+                            "./expressions/138.png"
+                        ],
+                        [
+                            "./expressions/139.png"
+                        ],
+                        [
+                            "./expressions/140.png"
+                        ],
+                        [
+                            "./expressions/141.png"
+                        ],
+                        [
+                            "./expressions/142.png"
+                        ],
+                        [
+                            "./expressions/143.png"
+                        ],
+                        [
+                            "./expressions/144.png"
+                        ],
+                        [
+                            "./expressions/145.png"
+                        ],
+                        [
+                            "./expressions/146.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./expressions/alt1.png"
+                        ],
+                        [
+                            "./expressions/alt2.png"
+                        ],
+                        [
+                            "./expressions/alt3.png"
+                        ],
+                        [
+                            "./expressions/alt4.png"
+                        ],
+                        [
+                            "./expressions/alt5.png"
+                        ],
+                        [
+                            "./expressions/alt6.png"
+                        ],
+                        [
+                            "./expressions/alt7.png"
+                        ],
+                        [
+                            "./expressions/alt8.png"
+                        ],
+                        [
+                            "./expressions/alt9.png"
+                        ],
+                        [
+                            "./expressions/alt10.png"
+                        ],
+                        [
+                            "./expressions/alt11.png"
+                        ],
+                        [
+                            "./expressions/alt12.png"
+                        ],
+                        [
+                            "./expressions/alt13.png"
+                        ],
+                        [
+                            "./expressions/alt14.png"
+                        ],
+                        [
+                            "./expressions/alt15.png"
+                        ],
+                        [
+                            "./expressions/alt16.png"
+                        ],
+                        [
+                            "./expressions/alt17.png"
+                        ],
+                        [
+                            "./expressions/alt18.png"
+                        ],
+                        [
+                            "./expressions/alt19.png"
+                        ],
+                        [
+                            "./expressions/alt20.png"
+                        ],
+                        [
+                            "./expressions/alt21.png"
+                        ],
+                        [
+                            "./expressions/alt22.png"
+                        ],
+                        [
+                            "./expressions/alt23.png"
+                        ],
+                        [
+                            "./expressions/alt24.png"
+                        ],
+                        [
+                            "./expressions/alt25.png"
+                        ],
+                        [
+                            "./expressions/alt26.png"
+                        ],
+                        [
+                            "./expressions/alt27.png"
+                        ],
+                        [
+                            "./expressions/alt28.png"
+                        ]
+                    ]
+                },
+                "right": {
+                    "variants": [
+                        [
+                            "./expressions/third1.png"
+                        ],
+                        [
+                            "./expressions/third2.png"
+                        ],
+                        [
+                            "./expressions/third3.png"
+                        ],
+                        [
+                            "./expressions/third4.png"
+                        ],
+                        [
+                            "./expressions/third5.png"
+                        ],
+                        [
+                            "./expressions/third6.png"
+                        ],
+                        [
+                            "./expressions/third7.png"
+                        ],
+                        [
+                            "./expressions/third8.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./pose1/1a.png"],
+                                    ["./pose1/2a.png"],
+                                    ["./pose1/3a.png"],
+                                    ["./pose1/4a.png"],
+                                    ["./pose1/5a.png"],
+                                    ["./pose1/6a.png"],
+                                    ["./pose1/7a.png"],
+                                    ["./pose1/8a.png"],
+                                    ["./pose1/9a.png"]
+                                    ]
+                                    }
+                                    },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/10a.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/11a.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "elite_uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./pose1/1b.png"],
+                                    ["./pose1/2b.png"],
+                                    ["./pose1/3b.png"],
+                                    ["./pose1/4b.png"],
+                                    ["./pose1/5b.png"],
+                                    ["./pose1/6b.png"],
+                                    ["./pose1/7b.png"],
+                                    ["./pose1/8b.png"],
+                                    ["./pose1/9b.png"]
+                                    ]
+                                    }
+                                    },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/10b.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/11b.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "bedroomdress",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./pose1/1c.png"],
+                                    ["./pose1/2c.png"],
+                                    ["./pose1/3c.png"],
+                                    ["./pose1/4c.png"],
+                                    ["./pose1/5c.png"],
+                                    ["./pose1/6c.png"],
+                                    ["./pose1/7c.png"],
+                                    ["./pose1/8c.png"],
+                                    ["./pose1/9c.png"]
+                                    ]
+                                    }
+                                    },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/10c.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/11c.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "casual",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./pose1/1d.png"],
+                                    ["./pose1/2d.png"],
+                                    ["./pose1/3d.png"],
+                                    ["./pose1/4d.png"],
+                                    ["./pose1/5d.png"],
+                                    ["./pose1/6d.png"],
+                                    ["./pose1/7d.png"],
+                                    ["./pose1/8d.png"],
+                                    ["./pose1/9d.png"]
+                                    ]
+                                    }
+                                    },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose2/10d.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./pose3/11d.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
