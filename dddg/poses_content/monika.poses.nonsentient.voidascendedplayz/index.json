@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.monika",
+    "packId": "monika.poses.nonsentient.voidascendedplayz",
+    "heads": {
+        "sideways_nonsentient": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png"
+        ]
+    },
+    "styles": [],
+    "poses": [
+        {
+            "style": "uniform",
+            "name": "uniform_sideways",
+            "compatibleHeads": [
+                "sideways_nonsentient"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        }
+    ]
+}

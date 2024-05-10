@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "voidascendedplayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/monika.poses.nonsentient.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "monika.poses.nonsentient.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Non-Sentient Monika",
+        "preview": [
+            "http://localhost:4716/repo/monika.poses.nonsentient.voidascendedplayz/a.png",
+            "http://localhost:4716/repo/monika.poses.nonsentient.voidascendedplayz/1l.png",
+            "http://localhost:4716/repo/monika.poses.nonsentient.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
