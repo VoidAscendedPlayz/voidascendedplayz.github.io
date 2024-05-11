@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "LecraftX9"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.thermaltowels.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "natsuki.outfit.thermaltowels.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Thermal Towels Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.thermaltowels.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.thermaltowels.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
