@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.thermaltowels.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "yuri.outfit.thermaltowels.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Yuri's Thermal Towels Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.thermaltowels.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.thermaltowels.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

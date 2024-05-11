@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.elite.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "yuri.outfit.elite.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Yuri's Elite Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.elite.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.elite.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

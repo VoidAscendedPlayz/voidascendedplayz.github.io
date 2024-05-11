@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.elite.voidascendedplayz",
+    "styles": [
+        {
+            "name": "elite_voidascendedplayz",
+            "label": "Yuri's Elite Outfit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-elite_voidascendedplayz",
+            "style": "elite_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-elite_voidascendedplayz",
+            "style": "elite_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
