@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "authors": ["VoidAscendedPlayz"],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.elite.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "monika.outfit.elite.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Monika's Elite Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.elite.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.elite.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
