@@ -1,0 +1,97 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "zach.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Zach",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.zach.me",
+    "name": "zach",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+           "./c1.png",
+           "./c2.png",
+           "./c3.png",
+           "./c4.png",
+           "./c5.png",
+           "./c6.png",
+           "./c7.png",
+           "./c8.png",
+           "./c9.png",
+           "./c10.png",
+           "./c11.png",
+           "./c12.png",
+           "./c13.png",
+           "./c14.png",
+           "./c15.png",
+           "./c16.png",
+           "./c17.png",
+           "./c18.png",
+           "./c19.png",
+           "./c20.png",
+           "./c21.png",
+           "./c22.png",
+           "./c23.png",
+           "./c24.png",
+           "./c25.png",
+           "./c26.png",
+           "./c27.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1a.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2a.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3a.png"
+        }
+    ]
+}

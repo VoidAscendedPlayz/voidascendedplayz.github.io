@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "zach.me.voidascendedplayz",
+        "name": "Zach",
+        "characters": [
+            "Zach"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/zach.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/zach.me.voidascendedplayz/1a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/zach.me.voidascendedplayz/c17.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
