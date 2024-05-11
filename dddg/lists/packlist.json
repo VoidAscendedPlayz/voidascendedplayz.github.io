@@ -131,7 +131,7 @@
     ["sfw", "mc_outfits/mc.outfit.clubmeetings.voidascendedplayz/repo.json"],
     ["sfw", "mc_outfits/mc.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "mc_outfits/mc.outfit.winter.voidascendedplayz/repo.json"]
-  ]{
+  ],
   "Characters Pack 1": [
     ["sfw", "characters_pack_1/adrian.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/alice_monika.voidascendedplayz/repo.json"],
@@ -271,5 +271,6 @@
     ["sfw", "other_outfits/kiyomi.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.casual.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/repo.json"],
-    ["sfw", "other_outfits/kotonoha.outfit.winter.voidascendedplayz/repo.json"],
+    ["sfw", "other_outfits/kotonoha.outfit.winter.voidascendedplayz/repo.json"]
+  ]
 }
