@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/repo/sayori.outfit.elite.voidascendedplayz/index.json",
+        "description": "[ Created in 2024 ]",
+        "id": "sayori.outfit.elite.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sayori's Elite Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.elite.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.elite.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

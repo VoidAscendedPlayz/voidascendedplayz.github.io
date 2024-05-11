@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "LecraftX9"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.thermaltowels.voidascendedplayz/index.json",
+        "description": "[ Created in 2024 ]",
+        "id": "sayori.outfit.thermaltowels.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sayori's Thermal Towels Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.thermaltowels.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.thermaltowels.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

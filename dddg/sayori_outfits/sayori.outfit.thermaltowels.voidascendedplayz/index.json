@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.sayori",
+    "packId": "sayori.outfit.thermaltowels.voidascendedplayz",
+    "styles": [
+        {
+            "name": "thermaltowels_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal_thermaltowels_voidascendedplayz",
+            "style": "thermaltowels_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "sideways_thermaltowels_voidascendedplayz",
+            "style": "thermaltowels_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3a.png"
+        }
+    ]
+}

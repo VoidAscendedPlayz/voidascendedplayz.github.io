@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blacksweater.voidascendedplayz/index.json",
+        "description": "[ Created in 2024 ]",
+        "id": "sayori.outfit.blacksweater.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sayori's Black Sweater Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blacksweater.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blacksweater.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
