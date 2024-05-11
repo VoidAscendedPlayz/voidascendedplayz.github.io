@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "id": "natsukinokokoro.me.voidascendedplayz",
+        "name": "Natsuki No Kokoro",
+        "characters": [
+            "Natsuki No Kokoro"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsukinokokoro.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsukinokokoro.me.voidascendedplayz/shocktalk.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

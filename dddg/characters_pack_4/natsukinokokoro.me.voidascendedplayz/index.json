@@ -1,0 +1,44 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "natsukinokokoro.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Natsuki No Kokoro",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.natsukinokokoro.me",
+    "name": "Natsuki No Kokoro",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./anger.png",
+            "./angertalk.png",
+            "./annoyed.png",
+            "./annoyedtalk.png",
+            "./confused.png",
+            "./confusedtalk.png",
+            "./flushed.png",
+            "./flushedtalk.png",
+            "./happ.png",
+            "./happtalk.png",
+            "./sad.png",
+            "./sadtalk.png",
+            "./shock.png",
+            "./shocktalk.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Invisible",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./invisible.png"
+        }
+    ]
+}
