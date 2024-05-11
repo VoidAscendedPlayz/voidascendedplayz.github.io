@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "kiyomi.storm_blazed.edave64:ddlc.fan.storm_blazed.kiyomi",
+    "packId": "kiyomi.outfit.swimsuit.voidascendedplayz",
+    "styles": [
+    {
+    "name": "swimsuit_voidascendedplayz",
+    "label": "Default"
+            }
+    ],
+    "poses": [
+    {
+    "name": "normal-swimsuit_voidascendedplayz",
+    "style": "swimsuit_voidascendedplayz",
+    "compatibleHeads": [
+    "kiyomi.storm_blazed.edave64:straight",
+    "straight_nsfw"
+    ],
+    "left": [
+    "./1cl.png",
+    "./2cl.png",
+    "./3cl.png"
+    ],
+    "right": [
+    "./1cr.png",
+    "./2cr.png"
+                ]
+            }
+        ]
+    }

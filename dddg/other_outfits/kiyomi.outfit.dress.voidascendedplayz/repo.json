@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "authors": ["VoidAscendedplayz"],
+      "characters": ["Kiyomi"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_outfits/kiyomi.outfit.dress.voidascendedplayz/index.json",
+      "description": "Kiyomi is Dancing for you~! <3 [ Created in March 2024 ]",
+      "id": "kiyomi.outfit.dress.voidascendedplayz",
+      "kind": ["Styles"],
+      "name": "Kiyomi's Dress Outfit",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/other_outfits/kiyomi.outfit.dress.voidascendedplayz/1l.png",
+        "https://voidascendedplayz.github.io/dddg/other_outfits/kiyomi.outfit.dress.voidascendedplayz/1r.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+}

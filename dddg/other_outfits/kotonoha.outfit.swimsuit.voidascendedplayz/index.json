@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "kotonoha.cyrke.edave64:ddlc.oc.kotonoha",
+    "packId": "kotonoha.outfit.swimsuit.voidascendedplayz",
+    "styles": [
+    {
+    "name": "swimsuit_voidascendedplayz",
+    "label": "Default"
+    }
+    ],
+    "poses": [
+    {
+    "name": "normal-swimsuit_voidascendedplayz",
+    "style": "swimsuit_voidascendedplayz",
+    "compatibleHeads": ["kotonoha.cyrke.edave64:default"],
+    "left": ["./1l.png", "./2l.png", "./3l.png"],
+    "right": ["./1r.png", "./2r.png", "./3r.png"]
+    }
+    ]
+    }

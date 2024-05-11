@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "authors": ["VoidAscendedplayz"],
+      "characters": ["Kotonoha"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/index.json",
+      "description": "Kotonoha: 'H-hey, Wanna to Hangout for Sussy~?' [ Created in May 2024 ]",
+      "id": "kotonoha.outfit.swimsuit.voidascendedplayz",
+      "kind": ["Styles"],
+      "name": "Swimsuit Outfit",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/1l.png",
+        "https://voidascendedplayz.github.io/dddg/other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/1r.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+}

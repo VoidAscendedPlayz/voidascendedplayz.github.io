@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "kiyomi.storm_blazed.edave64:ddlc.fan.storm_blazed.kiyomi",
+    "packId": "kiyomi.outfit.dress.voidascendedplayz",
+    "styles": [
+    {
+    "name": "dress_voidascendedplayz",
+    "label": "Default"
+            }
+    ],
+    "poses": [
+    {
+    "name": "normal-dress_voidascendedplayz",
+    "style": "dress_voidascendedplayz",
+    "compatibleHeads": [
+    "kiyomi.storm_blazed.edave64:straight",
+    "straight_nsfw"
+    ],
+    "left": [
+    "./1l.png",
+    "./2l.png",
+    "./3l.png"
+    ],
+    "right": [
+    "./1r.png",
+    "./2r.png"
+                ]
+            }
+        ]
+    }
