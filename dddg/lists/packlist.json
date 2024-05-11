@@ -272,5 +272,8 @@
     ["sfw", "other_outfits/kotonoha.outfit.casual.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.winter.voidascendedplayz/repo.json"]
+  ],
+  "Poses Content": [
+    ["sfw", "poses_content/monika.poses.nonsentient.voidascendedplayz/repo.json"]
   ]
 }
