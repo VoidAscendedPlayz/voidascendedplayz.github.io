@@ -4,15 +4,15 @@
     "packId": "sayori.outfit.elite.voidascendedplayz",
     "styles": [
         {
-            "name": "elite_voidascendedplayz",
+            "name": "sayorielite_voidascendedplayz",
             "label": "Default"
         }
     ],
     "heads": {},
     "poses": [
         {
-            "name": "normal_elite_voidascendedplayz",
-            "style": "elite_voidascendedplayz",
+            "name": "normal_sayorielite_voidascendedplayz",
+            "style": "sayorielite_voidascendedplayz",
             "compatibleHeads": [
                 "straight"
             ],
@@ -26,8 +26,8 @@
             ]
         },
         {
-            "name": "sideways_elite_voidascendedplayz",
-            "style": "elite_voidascendedplayz",
+            "name": "sideways_sayorielite_voidascendedplayz",
+            "style": "sayorielite_voidascendedplayz",
             "compatibleHeads": [
                 "sideways"
             ],
