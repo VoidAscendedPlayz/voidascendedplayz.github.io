@@ -4,15 +4,15 @@
     "packId": "natsuki.outfit.elite.voidascendedplayz",
     "styles": [
         {
-            "name": "elite_voidascendedplayz",
+            "name": "natsukielite_voidascendedplayz",
             "label": "Default"
         }
     ],
     "heads": {},
     "poses": [
         {
-            "name": "normal-elite_voidascendedplayz",
-            "style": "elite_voidascendedplayz",
+            "name": "normal-natsukielite_voidascendedplayz",
+            "style": "natsukielite_voidascendedplayz",
             "compatibleHeads": [
                 "straight",
                 "straight_nsfw",
@@ -30,8 +30,8 @@
             ]
         },
         {
-            "name": "leaned-elite_voidascendedplayz",
-            "style": "elite_voidascendedplayz",
+            "name": "leaned-natsukielite_voidascendedplayz",
+            "style": "natsukielite_voidascendedplayz",
             "compatibleHeads": [
                 "straight",
                 "straight_nsfw",
