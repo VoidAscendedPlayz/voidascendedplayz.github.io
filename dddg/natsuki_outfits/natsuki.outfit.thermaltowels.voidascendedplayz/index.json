@@ -4,15 +4,15 @@
     "packId": "natsuki.outfit.thermaltowels.voidascendedplayz",
     "styles": [
         {
-            "name": "thermaltowels_voidascendedplayz",
+            "name": "natsukithermaltowels_voidascendedplayz",
             "label": "Default"
         }
     ],
     "heads": {},
     "poses": [
         {
-            "name": "normal-thermaltowels_voidascendedplayz",
-            "style": "thermaltowels_voidascendedplayz",
+            "name": "normal-natsukithermaltowels_voidascendedplayz",
+            "style": "natsukithermaltowels_voidascendedplayz",
             "compatibleHeads": [
                 "straight",
                 "straight_nsfw",
@@ -30,8 +30,8 @@
             ]
         },
         {
-            "name": "leaned-thermaltowels_voidascendedplayz",
-            "style": "thermaltowels_voidascendedplayz",
+            "name": "leaned-natsukithermaltowels_voidascendedplayz",
+            "style": "natsukithermaltowels_voidascendedplayz",
             "compatibleHeads": [
                 "straight",
                 "straight_nsfw",
