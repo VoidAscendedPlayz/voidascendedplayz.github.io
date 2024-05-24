@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "id": "baldi.me.voidascendedplayz",
+        "name": "Baldi",
+        "characters": [
+            "Baldi"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/baldi.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/baldi.me.voidascendedplayz/bal1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "baldi.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Baldi",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.baldi.me",
+    "name": "Baldi",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./bal1.png",
+            "./bal2.png",
+            "./bal3.png",
+            "./bal4.png",
+            "./bal5.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Invisible",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./invisible.png"
+        }
+    ]
+}

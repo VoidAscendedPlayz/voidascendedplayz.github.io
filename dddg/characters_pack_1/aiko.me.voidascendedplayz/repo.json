@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Aiko"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/aiko.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "aiko.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Aiko",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/aiko.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/repo/aiko.me.voidascendedplayz/1r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/aiko.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
