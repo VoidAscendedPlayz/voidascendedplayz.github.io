@@ -1,0 +1,146 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "downpourmc.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Downpour!MC",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.downpourmc.me",
+    "name": "Downpour!MC",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./c1.png",
+            "./d.png",
+            "./d1.png",
+            "./e.png",
+            "./e1.png",
+            "./f.png",
+            "./f1.png",
+            "./g.png",
+            "./g1.png",
+            "./glitch.png",
+            "./glitch3.png",
+            "./h.png",
+            "./h1.png",
+            "./i.png",
+            "./j.png",
+            "./j1.png",
+            "./k.png",
+            "./k1.png",
+            "./l.png",
+            "./l1.png",
+            "./m.png",
+            "./m1.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./r1.png",
+            "./r3.png",
+            "./s.png",
+            "./s1.png",
+            "./s2.png",
+            "./t.png",
+            "./t1.png",
+            "./u.png",
+            "./u1.png",
+            "./v.png",
+            "./v1.png",
+            "./w.png",
+            "./w1.png",
+            "./w2.png",
+            "./x.png",
+            "./x1.png",
+            "./x2.png",
+            "./y.png",
+            "./y1.png",
+            "./yan1.png",
+            "./yan2.png",
+            "./yan3.png",
+            "./yan4.png",
+            "./yan5.png",
+            "./yan6.png",
+            "./yan7.png",
+            "./yan8.png",
+            "./yesdaddy.png",
+            "./z.png",
+            "./z1.png",
+            "./z2.png",
+            "./za.png",
+            "./za1.png",
+            "./za2.png",
+            "./zb.png",
+            "./zb1.png",
+            "./zb2.png",
+            "./zc.png",
+            "./zc1.png",
+            "./zc2.png",
+            "./zd.png",
+            "./zd1.png",
+            "./zd2.png",
+            "./ze.png",
+            "./ze1.png",
+            "./ze2.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        }
+    ]
+}
