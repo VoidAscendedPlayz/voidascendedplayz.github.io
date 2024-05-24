@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "dan.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Dan",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.dan.me",
+    "name": "Dan",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Invisible",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./invisible.png"
+        }
+    ]
+}
