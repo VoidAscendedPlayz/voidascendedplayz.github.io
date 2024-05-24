@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "JohnRDVSMarston"
+        ],
+        "characters": [
+            "Charlie"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/charlie.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "charlie.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Charlie",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/charlie.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
