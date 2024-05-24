@@ -1,0 +1,269 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "chitoge.me.voidascendedplayz",
+    "version": "2.0",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.oc.chitoge",
+            "chibi": "chibi.png",
+            "label": "Chitoge",
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./facebase.png"
+                                            ],
+                                            [
+                                                "./facebase2.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./Eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2 Alt.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye 3.png"
+                                            ],
+                                            [
+                                                "./Eye 4.png"
+                                            ],
+                                            [
+                                                "./Eye 5.png"
+                                            ],
+                                            [
+                                                "./Eye 6.png"
+                                            ],
+                                            [
+                                                "./Eye 7.png"
+                                            ],
+                                            [
+                                                "./Eye 8.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./Mouth 1.png"
+                                            ],
+                                            [
+                                                "./Mouth 2.png"
+                                            ],
+                                            [
+                                                "./Mouth 3.png"
+                                            ],
+                                            [
+                                                "./Mouth 4.png"
+                                            ],
+                                            [
+                                                "./Mouth 5.png"
+                                            ],
+                                            [
+                                                "./Mouth 6.png"
+                                            ],
+                                            [
+                                                "./Mouth 7.png"
+                                            ],
+                                            [
+                                                "./Mouth 8.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./facebase.png"
+                                            ],
+                                            [
+                                                "./facebase2.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./Eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2 Alt.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye 3.png"
+                                            ],
+                                            [
+                                                "./Eye 4.png"
+                                            ],
+                                            [
+                                                "./Eye 5.png"
+                                            ],
+                                            [
+                                                "./Eye 6.png"
+                                            ],
+                                            [
+                                                "./Eye 7.png"
+                                            ],
+                                            [
+                                                "./Eye 8.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./Mouth 1.png"
+                                            ],
+                                            [
+                                                "./Mouth 2.png"
+                                            ],
+                                            [
+                                                "./Mouth 3.png"
+                                            ],
+                                            [
+                                                "./Mouth 4.png"
+                                            ],
+                                            [
+                                                "./Mouth 5.png"
+                                            ],
+                                            [
+                                                "./Mouth 6.png"
+                                            ],
+                                            [
+                                                "./Mouth 7.png"
+                                            ],
+                                            [
+                                                "./Mouth 8.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ]
+                                        ],
+                                        "Variant": [
+                                            [
+                                                "./2.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
