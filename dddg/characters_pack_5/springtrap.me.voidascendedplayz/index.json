@@ -1,0 +1,93 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "springtrap.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "springtrap.me",
+            "label": "Springtrap",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./a.png"
+                    ],
+                    [
+                        "./b.png"
+                    ],
+                    [
+                        "./c.png"
+                    ],
+                    [
+                        "./d.png"
+                    ],
+                    [
+                        "./e.png"
+                    ],
+                    [
+                        "./f.png"
+                    ],
+                    [
+                        "./g.png"
+                    ],
+                    [
+                        "./h.png"
+                    ],
+                    [
+                        "./i.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
