@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Keitaro"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/keitaro.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "keitaro.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Keitaro - Kuninobu's Brother",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/keitaro.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

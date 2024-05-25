@@ -1,0 +1,141 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "keitaro.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "keitaro.me",
+            "label": "Keitaro",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./a.png"
+                    ],
+                    [
+                        "./ac.png"
+                    ],
+                    [
+                        "./af.png"
+                    ],
+                    [
+                        "./afc.png"
+                    ],
+                    [
+                        "./b.png"
+                    ],
+                    [
+                        "./bc.png"
+                    ],
+                    [
+                        "./bf.png"
+                    ],
+                    [
+                        "./bfc.png"
+                    ],
+                    [
+                        "./c.png"
+                    ],
+                    [
+                        "./cf.png"
+                    ],
+                    [
+                        "./d.png"
+                    ],
+                    [
+                        "./dc.png"
+                    ],
+                    [
+                        "./df.png"
+                    ],
+                    [
+                        "./dfc.png"
+                    ],
+                    [
+                        "./e.png"
+                    ],
+                    [
+                        "./ec.png"
+                    ],
+                    [
+                        "./ef.png"
+                    ],
+                    [
+                        "./efc.png"
+                    ],
+                    [
+                        "./f.png"
+                    ],
+                    [
+                        "./fc.png"
+                    ],
+                    [
+                        "./ff.png"
+                    ],
+                    [
+                        "./ffc.png"
+                    ],
+                    [
+                        "./g.png"
+                    ],
+                    [
+                        "./gc.png"
+                    ],
+                    [
+                        "./glitch.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
