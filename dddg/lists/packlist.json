@@ -192,5 +192,11 @@
     ["sfw", "poses_content/monika.poses.reverse.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.whitedress.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/yuri.poses.gothic.voidascendedplayz/repo.json"]
+  ],
+    "Head Expressions": [
+    ["sfw", "head_expressions/sayori.expressions.disheveled.voidascendedplayz/repo.json"]
+  ],
+    "CGs Background": [
+    ["sfw", "cgs_background/sayori.cgs.voidascendedplayz/repo.json"]
   ]
 }
