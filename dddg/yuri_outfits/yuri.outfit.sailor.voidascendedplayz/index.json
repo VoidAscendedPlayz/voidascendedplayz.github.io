@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.sailor.voidascendedplayz",
+    "styles": [
+        {
+            "name": "sailor_voidascendedplayz",
+            "label": "Yuri's Sailor Outfit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-sailor_voidascendedplayz",
+            "style": "sailor_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-sailor_voidascendedplayz",
+            "style": "sailor_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

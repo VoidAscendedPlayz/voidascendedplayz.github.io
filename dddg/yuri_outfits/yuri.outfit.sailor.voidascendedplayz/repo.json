@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sailor.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "yuri.outfit.sailor.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Yuri's Sailor Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sailor.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sailor.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
