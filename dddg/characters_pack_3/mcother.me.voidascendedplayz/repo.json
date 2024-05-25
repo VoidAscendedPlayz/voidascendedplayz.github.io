@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "MC Other"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/mcother.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "mcother.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "MC Other",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/mcother.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/mcother.me.voidascendedplayz/1r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/mcother.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
