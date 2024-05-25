@@ -1,0 +1,250 @@
+    {
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "jayden.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Jayden",
+    "source": "",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.jayden",
+            "label": "Jayden",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./a.png"
+                        ],
+                        [
+                            "./b.png"
+                        ],
+                        [
+                            "./c.png"
+                        ],
+                        [
+                            "./d.png"
+                        ],
+                        [
+                            "./e.png"
+                        ],
+                        [
+                            "./e1.png"
+                        ],
+                        [
+                            "./f.png"
+                        ],
+                        [
+                            "./g.png"
+                        ],
+                        [
+                            "./h.png"
+                        ],
+                        [
+                            "./i.png"
+                        ],
+                        [
+                            "./j.png"
+                        ],
+                        [
+                            "./ja.png"
+                        ],
+                        [
+                            "./k.png"
+                        ],
+                        [
+                            "./l.png"
+                        ],
+                        [
+                            "./la.png"
+                        ],
+                        [
+                            "./m.png"
+                        ],
+                        [
+                            "./n.png"
+                        ],
+                        [
+                            "./o.png"
+                        ],
+                        [
+                            "./p.png"
+                        ],
+                        [
+                            "./q.png"
+                        ],
+                        [
+                            "./r.png"
+                        ],
+                        [
+                            "./s.png"
+                        ],
+                        [
+                            "./special.png"
+                        ],
+                        [
+                            "./special2.png"
+                        ],
+                        [
+                            "./t.png"
+                        ],
+                        [
+                            "./u.png"
+                        ],
+                        [
+                            "./v.png"
+                        ],
+                        [
+                            "./w.png"
+                        ],
+                        [
+                            "./x.png"
+                        ],
+                        [
+                            "./y.png"
+                        ],
+                        [
+                            "./zzzZZZzzz.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./alt1.png"
+                        ],
+                        [
+                            "./alt2.png"
+                        ],
+                        [
+                            "./alt3.png"
+                        ],
+                        [
+                            "./alt4.png"
+                        ],
+                        [
+                            "./alt5.png"
+                        ],
+                        [
+                            "./alt6.png"
+                        ],
+                        [
+                            "./alt7.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./1.png"],
+                                    ["./2.png"],
+                                    ["./3.png"],
+                                    ["./4.png"],
+                                    ["./5.png"]
+                                    ]
+                                }
+                            },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                            ],
+                                            "id": "middle",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./6.png"]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "casual",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                        ],
+                                        "id": "left",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./1b.png"],
+                                        ["./2b.png"],
+                                        ["./3b.png"]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./6b.png"]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+            "chibi": "./chibi.png"
+        }
+    ]
+}
