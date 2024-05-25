@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Young Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/youngyuri.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "youngyuri.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Young Yuri",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/youngyuri.me.voidascendedplayz/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/youngyuri.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
