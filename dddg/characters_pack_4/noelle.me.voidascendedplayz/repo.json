@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "noelle.me.voidascendedplayz",
+        "name": "Noelle",
+        "characters": [
+            "Noelle"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/noelle.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/noelle.me.voidascendedplayz/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/noelle.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
