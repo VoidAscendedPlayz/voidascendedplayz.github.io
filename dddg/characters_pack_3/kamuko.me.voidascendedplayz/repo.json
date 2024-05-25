@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "kamuko.me.voidascendedplayz",
+        "name": "Kamuko [ 72 Expressions - 32 Poses ( 18 Poses Per Styles )]",
+        "characters": [
+            "Kamuko"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/kamuko.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "http://localhost:4716/repo/kamuko.me.voidascendedplayz/1.png",
+            "http://localhost:4716/repo/kamuko.me.voidascendedplayz/expressions1/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
