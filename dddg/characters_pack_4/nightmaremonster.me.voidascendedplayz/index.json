@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "nightmaremonster.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Nightmare Monster",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.nightmaremonster.me",
+    "name": "Nightmare Monster",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Invisible",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./invisible.png"
+        }
+    ]
+}
