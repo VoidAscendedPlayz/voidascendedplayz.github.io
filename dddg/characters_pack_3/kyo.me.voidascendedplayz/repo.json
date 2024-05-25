@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Kyo"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "kyo.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Kyo",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kyo.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kyo.me.voidascendedplayz/2r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kyo.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
