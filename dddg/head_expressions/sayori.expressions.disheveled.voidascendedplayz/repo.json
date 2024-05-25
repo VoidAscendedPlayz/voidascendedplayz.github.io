@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.disheveled.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "sayori.expressions.disheveled.voidascendedplayz",
+        "kind": [
+            "Expressions"
+        ],
+        "name": "Disheveled Expressions [ From - Doki Doki: I'm Alive ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.disheveled.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
