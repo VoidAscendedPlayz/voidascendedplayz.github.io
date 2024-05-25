@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.gothic.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "yuri.poses.gothic.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Yuri Gothic [ From - Doki Doki: I'm Alive ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.gothic.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.gothic.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.gothic.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
