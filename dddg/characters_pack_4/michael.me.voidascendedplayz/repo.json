@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Michael MC"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/michael.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "michael.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Michael MC",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/michael.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/michael.me.voidascendedplayz/1r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/michael.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

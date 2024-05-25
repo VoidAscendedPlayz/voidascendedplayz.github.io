@@ -1,0 +1,132 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "michael.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "michael.me",
+            "label": "MC",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./1.png"
+                    ],
+                    [
+                        "./2.png"
+                    ],
+                    [
+                        "./3.png"
+                    ],
+                    [
+                        "./4.png"
+                    ],
+                    [
+                        "./5.png"
+                    ],
+                    [
+                        "./6.png"
+                    ],
+                    [
+                        "./7.png"
+                    ],
+                    [
+                        "./8.png"
+                    ],
+                    [
+                        "./9.png"
+                    ],
+                    [
+                        "./10.png"
+                    ],
+                    [
+                        "./11.png"
+                    ],
+                    [
+                        "./12.png"
+                    ],
+                    [
+                        "./13a.png"
+                    ],
+                    [
+                        "./13b.png"
+                    ],
+                    [
+                        "./14.png"
+                    ],
+                    [
+                        "./15.png"
+                    ],
+                    [
+                        "./16.png"
+                    ],
+                    [
+                        "./17a.png"
+                    ],
+                    [
+                        "./17b.png"
+                    ],
+                    [
+                        "./18.png"
+                    ],
+                    [
+                        "./19.png"
+                    ],
+                    [
+                        "./20.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
