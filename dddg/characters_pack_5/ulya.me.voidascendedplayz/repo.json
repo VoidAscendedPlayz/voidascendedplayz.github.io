@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "ulya.me.voidascendedplayz",
+        "name": "Ulya",
+        "characters": [
+            "Ulya"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/ulya.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/ulya.me.voidascendedplayz/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/ulya.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
