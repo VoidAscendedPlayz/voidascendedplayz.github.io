@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "freddy.me.voidascendedplayz",
+        "name": "Freddy",
+        "characters": [
+            "freddy"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2//freddy.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
