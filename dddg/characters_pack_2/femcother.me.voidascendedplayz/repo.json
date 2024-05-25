@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "FeMC Other"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/femcother.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "femcother.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "FeMC Other",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/femcother.me.voidascendedplayz/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/femcother.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
