@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "ian.me.voidascendedplayz",
+        "name": "Natsuki's Friend 1",
+        "characters": [
+            "Natsuki's Friend 1"
+        ],
+        "authors": [],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/ian.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/ian.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/ian.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
