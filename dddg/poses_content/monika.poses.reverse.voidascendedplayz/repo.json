@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.reverse.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "monika.poses.reverse.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Reverse Pose",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.reverse.voidascendedplayz/reverse1l.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.reverse.voidascendedplayz/reverse1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

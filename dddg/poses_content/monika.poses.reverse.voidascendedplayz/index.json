@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "monika.poses.reverse.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "dddg.buildin.base.monika:ddlc.monika",
+            "label": "Monika",
+            "styleGroups": [
+                {
+                    "id": "dddg.buildin.base.monika:uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "id": "dddg.buildin.base.monika:normal",
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./reverse1l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./reverse1r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
