@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "satoshi.me.voidascendedplayz",
+        "name": "Satoshi",
+        "characters": [
+            "Satoshi"
+        ],
+        "authors": [],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/satoshi.me.voidascendedplayz/index.json",
+        "description": "Natsukis 'Friend' from DDLC+",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/satoshi.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/satoshi.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
