@@ -1,0 +1,162 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "wallance.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "wallance.me",
+            "label": "Wallance",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./a.png"
+                    ],
+                    [
+                        "./b.png"
+                    ],
+                    [
+                        "./c.png"
+                    ],
+                    [
+                        "./d.png"
+                    ],
+                    [
+                        "./e.png"
+                    ],
+                    [
+                        "./f.png"
+                    ],
+                    [
+                        "./g.png"
+                    ],
+                    [
+                        "./h.png"
+                    ],
+                    [
+                        "./i.png"
+                    ],
+                    [
+                        "./j.png"
+                    ],
+                    [
+                        "./k.png"
+                    ],
+                    [
+                        "./l.png"
+                    ],
+                    [
+                        "./m.png"
+                    ],
+                    [
+                        "./o.png"
+                    ],
+                    [
+                        "./p.png"
+                    ],
+                    [
+                        "./stare.png"
+                    ],
+                    [
+                        "./a-t.png"
+                    ],
+                    [
+                        "./b-t.png"
+                    ],
+                    [
+                        "./c-t.png"
+                    ],
+                    [
+                        "./d-t.png"
+                    ],
+                    [
+                        "./e-t.png"
+                    ],
+                    [
+                        "./f-t.png"
+                    ],
+                    [
+                        "./g-t.png"
+                    ],
+                    [
+                        "./h-t.png"
+                    ],
+                    [
+                        "./i-t.png"
+                    ],
+                    [
+                        "./j-t.png"
+                    ],
+                    [
+                        "./k-t.png"
+                    ],
+                    [
+                        "./l-t.png"
+                    ],
+                    [
+                        "./m-t.png"
+                    ],
+                    [
+                        "./o-t.png"
+                    ],
+                    [
+                        "./p-t.png"
+                    ],
+                    [
+                        "./stare-t.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
