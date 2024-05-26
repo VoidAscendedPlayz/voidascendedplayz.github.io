@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "reluctantmc.me.voidascendedplayz",
-        "name": "Reluctant MC",
-        "characters": [
-            "Reluctant MC"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/2.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/2.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Reluctant MC"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "reluctantmc.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Reluctant MC",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_4/reluctantmc.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
