@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "authors": ["VoidAscendedplayz"],
+      "characters": ["Storm"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/storm.me.voidascendedplayz/index.json",
+      "description": "[ Created in May 2024 ]",
+      "id": "storm.me.voidascendedplayz",
+      "kind": ["Characters"],
+      "name": "Storm",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/storm.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/storm.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+}
