@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "didge.me.voidascendedplayz",
-        "name": "Didge",
-        "characters": [
-            "Didge"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/1.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Didge"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "didge.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Didge",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/didge.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
