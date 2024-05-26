@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "kris.me.voidascendedplayz",
-        "name": "Kris",
-        "characters": [
-            "Kris"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/1.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Kris"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "kris.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Kris",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_3/kris.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
