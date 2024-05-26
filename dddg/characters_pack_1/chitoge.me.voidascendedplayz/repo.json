@@ -1,22 +1,17 @@
 {
-    "pack": {
-        "authors": [
-            "JohnRDVSMarston"
-        ],
-        "characters": [
-            "Chitoge"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/chitoge.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "id": "chitoge.me.voidascendedplayz",
-        "kind": [
-            "Characters"
-        ],
-        "name": "Chitoge",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/chitoge.me.voidascendedplayz/preview.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Chitoge"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/chitoge.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "chitoge.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Chitoge [ MPT ]",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/chitoge.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/chitoge.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
