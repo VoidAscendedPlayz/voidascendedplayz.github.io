@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "freddy.me.voidascendedplayz",
-        "name": "Freddy",
-        "characters": [
-            "freddy"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/1.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Freddy"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "freddy.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Freddy [ From - Five Nights At Freddy's ]",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_2/freddy.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
