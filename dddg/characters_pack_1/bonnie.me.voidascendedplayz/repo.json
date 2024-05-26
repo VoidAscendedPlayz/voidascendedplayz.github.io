@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "bonnie.me.voidascendedplayz",
-        "name": "Bonnie",
-        "characters": [
-            "Bonnie"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/1.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Bonnie"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "bladeevans.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Bonnie",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/bonnie.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
