@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "friend1.me.voidascendedplayz",
-        "name": "Friend 1",
-        "characters": [
-            "Friend 1"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/1.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Friend 1"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "friend1.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Friend 1",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_2/friend1.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
