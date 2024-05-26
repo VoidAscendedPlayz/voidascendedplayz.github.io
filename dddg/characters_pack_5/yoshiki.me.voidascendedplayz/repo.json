@@ -1,24 +1,17 @@
 {
     "pack": {
-        "id": "yoshiki.me.voidascendedplayz",
-        "name": "Yoshiki",
-        "characters": [
-            "Yoshiki"
-        ],
-        "authors": [
-            "VoidAscendedPlayz"
-        ],
-        "kind": [
-            "Characters"
-        ],
-        "source": "",
-        "dddg2Path": "",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_5/yoshiki.me.voidascendedplayz/1.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_5/yoshiki.me.voidascendedplayz/expressions/a.png"
-        ],
-        "searchWords": []
+      "authors": ["VoidAscendedplayz"],
+      "characters": ["Yoshiki"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/yoshiki.me.voidascendedplayz/index.json",
+      "description": "[ Created in May 2024 ]",
+      "id": "yoshiki.me.voidascendedplayz",
+      "kind": ["Characters"],
+      "name": "Yoshiki",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/yoshiki.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/yoshiki.me.voidascendedplayz/1.png"
+      ],
+      "searchWords": []
     },
     "authors": {}
 }
