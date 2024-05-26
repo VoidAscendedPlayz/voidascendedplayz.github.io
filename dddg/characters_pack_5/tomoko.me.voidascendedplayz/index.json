@@ -1,0 +1,202 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "tomoko.me.voidascendedplayz",
+    "packCredits": "[ Created in May 2024 ]",
+    "packName": "Tomoko",
+    "source": "",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.tomoko",
+            "label": "Tomoko",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./1a.png"
+                        ],
+                        [
+                            "./1b.png"
+                        ],
+                        [
+                            "./1c.png"
+                        ],
+                        [
+                            "./1d.png"
+                        ],
+                        [
+                            "./1e.png"
+                        ],
+                        [
+                            "./1f.png"
+                        ],
+                        [
+                            "./1g.png"
+                        ],
+                        [
+                            "./1h.png"
+                        ],
+                        [
+                            "./1i.png"
+                        ],
+                        [
+                            "./1j.png"
+                        ],
+                        [
+                            "./1k.png"
+                        ],
+                        [
+                            "./1l.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./2a.png"
+                        ],
+                        [
+                            "./2b.png"
+                        ],
+                        [
+                            "./2c.png"
+                        ],
+                        [
+                            "./2d.png"
+                        ],
+                        [
+                            "./2e.png"
+                        ],
+                        [
+                            "./2f.png"
+                        ],
+                        [
+                            "./2g.png"
+                        ],
+                        [
+                            "./2h.png"
+                        ]
+                    ]
+                },
+                "right": {
+                    "variants": [
+                        [
+                            "./3a.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./1.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./2.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "right"
+                                    ],
+                                    "id": "right",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./3.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "costume_1",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./4.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                    ],
+                                    "id": "middle",
+                                    "renderCommands": [
+                                        {
+                                            "type": "image",
+                                            "images": [
+                                                "./5.png"
+                                            ]
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
