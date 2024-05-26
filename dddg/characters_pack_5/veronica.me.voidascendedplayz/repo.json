@@ -1,21 +1,17 @@
 {
-    "pack": {
-        "id": "veronica.me.voidascendedplayz",
-        "name": "Veronica - FeMC",
-        "characters": [
-            "Veronica - FeMC"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/veronica.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_5/veronica.me.voidascendedplayz/a.png",
-            "https://voidascendedplayz.github.io/dddg/characters_pack_5//veronica.me.voidascendedplayz/5.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Veronica - FeMC"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/veronica.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "veronica.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Veronica [ Stacy - FeMC ]",
+    "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/veronica.me.voidascendedplayz/a.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_5/veronica.me.voidascendedplayz/5.png",
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
