@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Wallace"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/wallace.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "id": "wallace.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Wallace",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/wallace.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/wallace.me.voidascendedplayz/2r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/wallace.me.voidascendedplayz/n-t.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
