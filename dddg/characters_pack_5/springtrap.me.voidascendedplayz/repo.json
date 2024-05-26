@@ -1,16 +1,16 @@
-{
+ {
   "pack": {
     "authors": ["VoidAscendedplayz"],
     "characters": ["Springtrap"],
-    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/springtrap.me.voidascendedplayz/index.json",
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/springtrap.me.voidascendedplayz/index.json",
     "description": "[ Created in May 2024 ]",
     "id": "springtrap.me.voidascendedplayz",
     "kind": ["Characters"],
     "name": "Springtrap [ From - Five Nights at Freddy's III ]",
     "preview": [
-      "https://voidascendedplayz.github.io/dddg/characters_pack_4/springtrap.me.voidascendedplayz/1r.png",
-      "https://voidascendedplayz.github.io/dddg/characters_pack_4/springtrap.me.voidascendedplayz/1l.png",
-      "https://voidascendedplayz.github.io/dddg/characters_pack_4/springtrap.me.voidascendedplayz/a.png"
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/springtrap.me.voidascendedplayz/1r.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/springtrap.me.voidascendedplayz/1l.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/springtrap.me.voidascendedplayz/a.png"
     ],
     "searchWords": []
   },
