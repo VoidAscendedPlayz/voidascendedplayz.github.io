@@ -1,22 +1,16 @@
 {
-    "pack": {
-        "authors": [
-            "VoidAscendedPlayz"
-        ],
-        "characters": [
-            "Tori"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/tori.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "id": "tori.me.voidascendedplayz",
-        "kind": [
-            "Characters"
-        ],
-        "name": "Tori",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_5/tori.me.voidascendedplayz/preview.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Tori"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/tori.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "tori.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Tori",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_5/tori.me.voidascendedplayz/preview.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
