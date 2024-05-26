@@ -1,4 +1,4 @@
-{
+ {
     "Characters Pack 1": [
     ["sfw", "characters_pack_1/adrian.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/aiko.me.voidascendedplayz/repo.json"],
@@ -86,9 +86,7 @@
     ["sfw", "characters_pack_4/rankin.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/reiko.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/sam.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_4/sayoko.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_4/satoshi.me.voidascendedplayz/repo.json"],
-    ["sfw", "characters_pack_4/sayuri.me.voidascendedplayz/repo.json"]
+    ["sfw", "characters_pack_4/sayoko.me.voidascendedplayz/repo.json"]
   ],
     "Characters Pack 5": [
     ["sfw", "characters_pack_5/riyu.me.voidascendedplayz/repo.json"],
