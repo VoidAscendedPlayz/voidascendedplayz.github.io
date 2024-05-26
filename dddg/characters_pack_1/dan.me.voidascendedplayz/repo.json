@@ -1,20 +1,17 @@
 {
-    "pack": {
-        "id": "dan.me.voidascendedplayz",
-        "name": "Dan",
-        "characters": [
-            "Dan"
-        ],
-        "authors": ["VoidAscendedPlayz"],
-        "kind": [
-            "Characters"
-        ],
-        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/dan.me.voidascendedplayz/index.json",
-        "description": "[ Created in May 2024 ]",
-        "preview": [
-            "https://voidascendedplayz.github.io/dddg/characters_pack_1/dan.me.voidascendedplayz/b.png"
-        ],
-        "searchWords": []
-    },
-    "authors": {}
+  "pack": {
+    "authors": ["VoidAscendedplayz"],
+    "characters": ["Dan"],
+    "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/dan.me.voidascendedplayz/index.json",
+    "description": "[ Created in May 2024 ]",
+    "id": "dan.me.voidascendedplayz",
+    "kind": ["Characters"],
+    "name": "Dan [ From - Doki Doki: I'm Alive ]",
+    "preview": [
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/dan.me.voidascendedplayz/1.png",
+      "https://voidascendedplayz.github.io/dddg/characters_pack_1/dan.me.voidascendedplayz/a.png"
+    ],
+    "searchWords": []
+  },
+  "authors": {}
 }
