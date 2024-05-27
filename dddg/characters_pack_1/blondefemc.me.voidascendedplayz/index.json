@@ -1,0 +1,119 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.oc.blondefemc",
+    "packId": "blondefemc.me.voidascendedplayz",
+    "name": "Blonde FeMC",
+    "internalId": "blondefemc",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "uniform",
+            "label": "Uniform"
+        },
+        {
+            "name": "dress",
+            "label": "Dress"
+        }
+    ],
+    "heads": {
+        "default": [
+            "./expressions/a.png",
+            "./expressions/b.png",
+            "./expressions/c.png",
+            "./expressions/d.png",
+            "./expressions/e.png",
+            "./expressions/f.png",
+            "./expressions/g.png",
+            "./expressions/glitch.png",
+            "./expressions/h.png",
+            "./expressions/i.png",
+            "./expressions/j.png",
+            "./expressions/k.png",
+            "./expressions/l.png",
+            "./expressions/m.png",
+            "./expressions/n.png",
+            "./expressions/o.png",
+            "./expressions/p.png",
+            "./expressions/q.png",
+            "./expressions/r.png",
+            "./expressions/s.png",
+            "./expressions/t.png",
+            "./expressions/t1.png",
+            "./expressions/u.png",
+            "./expressions/v.png",
+            "./expressions/w.png",
+            "./expressions/x.png",
+            "./expressions/y.png",
+            "./expressions/z.png",
+            "./expressions/1.png",
+            "./expressions/2.png",
+            "./expressions/3.png",
+            "./expressions/4.png",
+            "./expressions/5.png",
+            "./expressions/6.png",
+            "./expressions/7.png",
+            "./expressions/8.png",
+            "./expressions/9.png",
+            "./expressions/10.png",
+            "./expressions/11.png",
+            "./expressions/12.png",
+            "./expressions/13.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "normal_uniform",
+            "style": "uniform",
+            "compatibleHeads": [
+                "default"
+            ],
+            "variant": [
+                "./1.png",
+                "./2.png",
+                "./3.png",
+                "./4.png",
+                "./5.png",
+                "./6.png",
+                "./7.png",
+                "./8.png",
+                "./9.png"
+            ]
+        },
+        {
+            "name": "normal_dress",
+            "style": "dress",
+            "compatibleHeads": [
+                "default"
+            ],
+            "variant": [
+                "./10.png",
+                "./11.png",
+                "./12.png",
+                "./13.png",
+                "./14.png",
+                "./15.png",
+                "./16.png",
+                "./17.png",
+                "./18.png"
+            ]
+        },
+        {
+            "name": "normal_casual",
+            "style": "casual",
+            "compatibleHeads": [
+                "default"
+            ],
+            "variant": [
+                "./19.png",
+                "./20.png",
+                "./21.png",
+                "./22.png",
+                "./23.png",
+                "./24.png",
+                "./25.png",
+                "./26.png",
+                "./27.png"
+            ]
+        }
+    ]
+}
