@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "delinquentgirl.me.voidascendedplayz",
+        "name": "Delinquent Girl",
+        "characters": [
+            "Delinquent Girl"
+        ],
+        "authors": ["VoidAscendedPlayz"],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/delinquentgirl.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/delinquentgirl.me.voidascendedplayz/52.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/delinquentgirl.me.voidascendedplayz/pose5.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
