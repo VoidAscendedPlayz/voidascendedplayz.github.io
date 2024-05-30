@@ -1,0 +1,166 @@
+    {
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "yoshiki.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Yoshiki",
+    "source": "",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.yoshiki",
+            "label": "Yoshiki",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./expressions/a.png"
+                        ],
+                        [
+                            "./expressions/b.png"
+                        ],
+                        [
+                            "./expressions/c.png"
+                        ],
+                        [
+                            "./expressions/d.png"
+                        ],
+                        [
+                            "./expressions/e.png"
+                        ],
+                        [
+                            "./expressions/f.png"
+                        ],
+                        [
+                            "./expressions/g.png"
+                        ],
+                        [
+                            "./expressions/h.png"
+                        ],
+                        [
+                            "./expressions/i.png"
+                        ],
+                        [
+                            "./expressions/j.png"
+                        ],
+                        [
+                            "./expressions/k.png"
+                        ],
+                        [
+                            "./expressions/l.png"
+                        ],
+                        [
+                            "./expressions/m.png"
+                        ],
+                        [
+                            "./expressions/n.png"
+                        ],
+                        [
+                            "./expressions/o.png"
+                        ],
+                        [
+                            "./expressions/p.png"
+                        ],
+                        [
+                            "./expressions/q.png"
+                        ],
+                        [
+                            "./expressions/r.png"
+                        ],
+                        [
+                            "./expressions/s.png"
+                        ],
+                        [
+                            "./expressions/t.png"
+                        ],
+                        [
+                            "./expressions/u.png"
+                        ],
+                        [
+                            "./expressions/v.png"
+                        ],
+                        [
+                            "./expressions/w.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./expressions/alt1.png"
+                        ],
+                        [
+                            "./expressions/alt2.png"
+                        ],
+                        [
+                            "./expressions/alt3.png"
+                        ],
+                        [
+                            "./expressions/alt4.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./1.png"],
+                                    ["./2.png"],
+                                    ["./3.png"],
+                                    ["./4.png"],
+                                    ["./5.png"]
+                                    ]
+                                }
+                            },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                            ],
+                                            "id": "middlee",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./6.png"]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+            "chibi": "./chibi.png"
+        }
+    ]
+}
