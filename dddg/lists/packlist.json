@@ -115,6 +115,10 @@
     ["sfw", "characters_pack_5/zach.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/zuiho.me.voidascendedplayz/repo.json"]
   ],
+    "Other Characters Pack": [
+    ["sfw", "other_characterspack/veronica.me.voidascendedplayz/repo.json"],
+    ["sfw", "other_characterspack/yoshiki.me.voidascendedplayz/repo.json"]
+  ],
     "Monika's Outfit": [
     ["sfw", "monika_outfits/monika.outfit.clubmeetings.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.elite.voidascendedplayz/repo.json"],
