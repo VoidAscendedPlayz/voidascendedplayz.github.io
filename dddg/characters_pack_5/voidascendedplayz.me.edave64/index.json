@@ -47,6 +47,9 @@
                                         "Face-Base": [
                                             [
                                                 "./base.png"
+                                            ],
+                                            [
+                                                "./base_angry.png"
                                             ]
                                         ],
                                         "Eyebrows": [
@@ -78,6 +81,12 @@
                                             ],
                                             [
                                                 "./Eye Looking Right.png"
+                                            ],
+                                            [
+                                                "./Eye Closed.png"
+                                            ],
+                                            [
+                                                "./Eye Closed Happy.png"
                                             ]
                             
                                         ],
@@ -167,6 +176,9 @@
                                         "Face-Base": [
                                             [
                                                 "./base.png"
+                                            ],
+                                            [
+                                                "./base_angry.png"
                                             ]
                                         ],
                                         "Eyebrows": [
@@ -198,6 +210,12 @@
                                             ],
                                             [
                                                 "./Eye Looking Right.png"
+                                            ],
+                                            [
+                                                "./Eye Closed.png"
+                                            ],
+                                            [
+                                                "./Eye Closed Happy.png"
                                             ]
                                         ],
                                         "Mouth": [
