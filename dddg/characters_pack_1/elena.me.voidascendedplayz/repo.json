@@ -1,0 +1,17 @@
+{
+    "pack": {
+      "id": "elena.me.voidascendedplayz",
+      "name": "Elena",
+      "characters": ["Elena"],
+      "authors": ["ItzTuna", "elenathebullimom"],
+      "kind": ["Characters"],
+      "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/elena.me.voidascendedplayz/index.json",
+      "description": "[ Created in December 2023 - Hotfix Update in June 2024]",
+      "preview": [
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/elena.me.voidascendedplayz/1.png",
+        "https://voidascendedplayz.github.io/dddg/characters_pack_1/elena.me.voidascendedplayz/a.png"
+      ],
+      "searchWords": []
+    },
+    "authors": {}
+}
