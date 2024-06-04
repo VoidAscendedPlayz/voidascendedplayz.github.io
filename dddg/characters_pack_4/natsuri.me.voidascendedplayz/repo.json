@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "id": "natsuri.me.voidascendedplayz",
+        "name": "Natsuri [ Full Release in June 2024 ]",
+        "characters": [
+            "Natsuri"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "source": "",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuri.me.voidascendedplayz/index.json",
+        "description": "[ Created in October 2023 - Hotfix Update in June 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuri.me.voidascendedplayz/1a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuri.me.voidascendedplayz/expressions/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

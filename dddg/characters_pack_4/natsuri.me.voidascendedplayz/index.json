@@ -1,0 +1,409 @@
+    {
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "natsuri.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Natsuri",
+    "source": "",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.natsuri",
+            "label": "Natsuri",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./expressions/a.png"
+                        ],
+                        [
+                            "./expressions/aa.png"
+                        ],
+                        [
+                            "./expressions/ab.png"
+                        ],
+                        [
+                            "./expressions/ac.png"
+                        ],
+                        [
+                            "./expressions/ad.png"
+                        ],
+                        [
+                            "./expressions/ae.png"
+                        ],
+                        [
+                            "./expressions/af.png"
+                        ],
+                        [
+                            "./expressions/ag.png"
+                        ],
+                        [
+                            "./expressions/ah.png"
+                        ],
+                        [
+                            "./expressions/ai.png"
+                        ],
+                        [
+                            "./expressions/aj.png"
+                        ],
+                        [
+                            "./expressions/ak.png"
+                        ],
+                        [
+                            "./expressions/al.png"
+                        ],
+                        [
+                            "./expressions/am.png"
+                        ],
+                        [
+                            "./expressions/an.png"
+                        ],
+                        [
+                            "./expressions/ao.png"
+                        ],
+                        [
+                            "./expressions/ap.png"
+                        ],
+                        [
+                            "./expressions/aq.png"
+                        ],
+                        [
+                            "./expressions/ar.png"
+                        ],
+                        [
+                            "./expressions/as.png"
+                        ],
+                        [
+                            "./expressions/at.png"
+                        ],
+                        [
+                            "./expressions/au.png"
+                        ],
+                        [
+                            "./expressions/av.png"
+                        ],
+                        [
+                            "./expressions/aw.png"
+                        ],
+                        [
+                            "./expressions/ax.png"
+                        ],
+                        [
+                            "./expressions/ay.png"
+                        ],
+                        [
+                            "./expressions/az.png"
+                        ],
+                        [
+                            "./expressions/b.png"
+                        ],
+                        [
+                            "./expressions/ba.png"
+                        ],
+                        [
+                            "./expressions/bb.png"
+                        ],
+                        [
+                            "./expressions/bc.png"
+                        ],
+                        [
+                            "./expressions/bd.png"
+                        ],
+                        [
+                            "./expressions/be.png"
+                        ],
+                        [
+                            "./expressions/bf.png"
+                        ],
+                        [
+                            "./expressions/bg.png"
+                        ],
+                        [
+                            "./expressions/bh.png"
+                        ],
+                        [
+                            "./expressions/c.png"
+                        ],
+                        [
+                            "./expressions/d.png"
+                        ],
+                        [
+                            "./expressions/e.png"
+                        ],
+                        [
+                            "./expressions/f.png"
+                        ],
+                        [
+                            "./expressions/g.png"
+                        ],
+                        [
+                            "./expressions/h.png"
+                        ],
+                        [
+                            "./expressions/i.png"
+                        ],
+                        [
+                            "./expressions/j.png"
+                        ],
+                        [
+                            "./expressions/k.png"
+                        ],
+                        [
+                            "./expressions/l.png"
+                        ],
+                        [
+                            "./expressions/m.png"
+                        ],
+                        [
+                            "./expressions/n.png"
+                        ],
+                        [
+                            "./expressions/o.png"
+                        ],
+                        [
+                            "./expressions/p.png"
+                        ],
+                        [
+                            "./expressions/q.png"
+                        ],
+                        [
+                            "./expressions/r.png"
+                        ],
+                        [
+                            "./expressions/s.png"
+                        ],
+                        [
+                            "./expressions/t.png"
+                        ],
+                        [
+                            "./expressions/v.png"
+                        ],
+                        [
+                            "./expressions/w.png"
+                        ],
+                        [
+                            "./expressions/y1.png"
+                        ],
+                        [
+                            "./expressions/y2.png"
+                        ],
+                        [
+                            "./expressions/y2.png"
+                        ],
+                        [
+                            "./expressions/y4.png"
+                        ],
+                        [
+                            "./expressions/y5.png"
+                        ],
+                        [
+                            "./expressions/y6.png"
+                        ],
+                        [
+                            "./expressions/y7.png"
+                        ],
+                        [
+                            "./expressions/z.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./expressions/alt1.png"
+                        ],
+                        [
+                            "./expressions/alt2.png"
+                        ],
+                        [
+                            "./expressions/alt3.png"
+                        ],
+                        [
+                            "./expressions/alt4.png"
+                        ],
+                        [
+                            "./expressions/alt5.png"
+                        ],
+                        [
+                            "./expressions/alt6.png"
+                        ],
+                        [
+                            "./expressions/alt7.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./1a.png"],
+                                    ["./2a.png"],
+                                    ["./3a.png"],
+                                    ["./4a.png"],
+                                    ["./5a.png"],
+                                    ["./6a.png"]
+                                    ]
+                                }
+                            },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                            ],
+                                            "id": "middlee",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./7a.png"],
+                                            ["./8a.png"]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "casual",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./1b.png"],
+                                        ["./2b.png"],
+                                        ["./3b.png"],
+                                        ["./4b.png"],
+                                        ["./5b.png"],
+                                        ["./6b.png"]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./7b.png"],
+                                        ["./8b.png"]
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+                {
+                    "id": "swimsuit",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                        ],
+                                        "id": "left",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./1c.png"],
+                                        ["./2c.png"],
+                                        ["./3c.png"],
+                                        ["./4c.png"],
+                                        ["./5c.png"],
+                                        ["./6c.png"]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./7c.png"],
+                                        ["./8c.png"]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+            "chibi": "./chibi.png"
+        }
+    ]
+}
