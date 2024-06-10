@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "id": "satoshi.me.voidascendedplayz",
+        "name": "Satoshi",
+        "characters": [
+            "satoshi.me.voidascendedplayz"
+        ],
+        "authors": [],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/satoshi.me.voidascendedplayz/index.json",
+        "description": "[ Created in May 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/satoshi.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/satoshi.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
