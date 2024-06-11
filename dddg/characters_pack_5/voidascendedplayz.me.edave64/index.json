@@ -96,6 +96,15 @@
                                             ],
                                             [
                                                 "./Yandere Eye Looking Right.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye with Demonika's Style.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye Looking Left with Demonika's Style.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye Looking Right with Demonika's Style.png"
                                             ]
                             
                                         ],
@@ -132,7 +141,6 @@
                                             ]
                                             
                                         ],
-
                                         "Left": [
                                             [
                                                 "./1l.png"
@@ -144,13 +152,7 @@
                                                 "./3l.png"
                                             ],
                                             [
-                                                "./4l.png"
-                                            ],
-                                            [
-                                                "./4l With Knife.png"
-                                            ],
-                                            [
-                                                "./4l With Pistol.png"
+                                                "./4l With Blood Hands.png"
                                             ]
                                         ],
                                         "Right": [
@@ -162,6 +164,9 @@
                                             ],
                                             [
                                                 "./3r.png"
+                                            ],
+                                            [
+                                                "./4r With Blood Hands.png"
                                             ]
                                         ]
                                     }
@@ -243,6 +248,15 @@
                                             ],
                                             [
                                                 "./Yandere Eye Looking Right.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye with Demonika's Style.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye Looking Left with Demonika's Style.png"
+                                            ],
+                                            [
+                                                "./Yandere Eye Looking Right with Demonika's Style.png"
                                             ]
                                         ],
                                         "Mouth": [
