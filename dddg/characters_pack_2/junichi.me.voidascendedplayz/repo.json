@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Junichi"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/junichi.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ] - [ When MPT had working fast. ]",
+        "id": "junichi.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Junichi",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/junichi.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
