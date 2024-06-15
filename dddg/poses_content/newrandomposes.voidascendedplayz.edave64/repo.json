@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki",
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/newrandomposes.voidascendedplayz.edave64/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "newrandomposes.voidascendedplayz.edave64",
+        "kind": [
+            "Poses"
+        ],
+        "name": "New Random Poses - For Sayori & Natsuki",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/newrandomposes.voidascendedplayz.edave64/4l2.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/newrandomposes.voidascendedplayz.edave64/4r2.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

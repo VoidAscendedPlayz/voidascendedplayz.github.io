@@ -1,0 +1,71 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "newrandomposes.voidascendedplayz.edave64",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "dddg.buildin.sayori:ddlc.sayori",
+            "label": "Sayori",
+            "styleGroups": [
+                {
+                    "id": "dddg.buildin.sayori:uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "id": "dddg.buildin.sayori:normal",
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./4l2.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./4r2.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dddg.buildin.base.natsuki:ddlc.natsuki",
+            "label": "Natsuki",
+            "styleGroups": [
+                {
+                    "id": "dddg.buildin.base.natsuki:uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "id": "dddg.buildin.base.natsuki:normal",
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./4l.png"
+                                            ],
+                                            [
+                                                "./4lalt.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./4r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
