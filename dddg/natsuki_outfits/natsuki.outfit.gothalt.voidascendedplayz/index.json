@@ -1,0 +1,61 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.gothalt.voidascendedplayz",
+    "styles": [
+        {
+            "name": "gothalt_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-gothalt_voidascendedplayz",
+            "style": "gothalt_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./4l.png",
+                "./5l.png",
+                "./6l.png",
+                "./7l.png",
+                "./8l.png",
+                "./9l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./4r.png",
+                "./5r.png",
+                "./6r.png",
+                "./7r.png",
+                "./8r.png",
+                "./9r.png"
+            ]
+        },
+        {
+            "name": "leaned-gothalt_voidascendedplayz",
+            "style": "gothalt_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "headAnchor": [
+                18,
+                22
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
