@@ -1,0 +1,45 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.sayori",
+    "packId": "sayori.outfit.edgy.voidascendedplayz",
+    "styles": [
+        {
+            "name": "edgy_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal_edgy_voidascendedplayz",
+            "style": "edgy_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "sideways_edgy_voidascendedplayz",
+            "style": "edgy_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

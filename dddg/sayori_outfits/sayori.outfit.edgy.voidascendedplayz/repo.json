@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.edgy.voidascendedplayz/index.json",
+        "description": "[ Created in 2024 ]",
+        "id": "sayori.outfit.edgy.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sayori's Edgy Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.edgy.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.edgy.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
