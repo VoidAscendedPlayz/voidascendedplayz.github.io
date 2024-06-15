@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Saul Goodman"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/saulgoodman.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ] - [ When MPT had working fast. ]",
+        "id": "saulgoodman.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Saul Goodman",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/saulgoodman.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
