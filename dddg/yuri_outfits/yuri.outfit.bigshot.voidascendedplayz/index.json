@@ -1,0 +1,78 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.bigshot.voidascendedplayz",
+    "styles": [
+        {
+            "name": "bigshot_voidascendedplayz",
+            "label": "Big Shot Outfit"
+        }
+    ],
+    "heads": {
+    "straight":[
+        "./a.png",
+        "./b.png",
+        "./c.png",
+        "./d.png",
+        "./e.png",
+        "./f.png",
+        "./g.png",
+        "./h.png",
+        "./i.png",
+        "./j.png",
+        "./k.png",
+        "./l.png",
+        "./m.png",
+        "./n.png",
+        "./o.png",
+        "./p.png",
+        "./q.png",
+        "./r.png",
+        "./s.png",
+        "./t.png",
+        "./u.png",
+        "./v.png",
+        "./a.png",
+        "./w.png",
+        "./y1.png",
+        "./y2.png",
+        "./y3.png",
+        "./y4.png",
+        "./y5.png",
+        "./y6.png",
+        "./y7.png"
+    ],
+    "sideways": [
+        "./a2.png",
+        "./b2.png",
+        "./c2.png",
+        "./d2.png",
+        "./e2.png"
+    ]
+    },
+    "poses": [
+        {
+            "name": "normal-bigshot_voidascendedplayz",
+            "style": "bigshot_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1bl.png",
+                "./2bl.png"
+            ],
+            "right": [
+                "./1br.png",
+                "./2br.png"
+            ]
+        },
+        {
+            "name": "hairplay-wbigshot_voidascendedplayz",
+            "style": "bigshot_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3b.png"
+        }
+    ]
+}
