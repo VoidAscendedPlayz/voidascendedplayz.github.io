@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits//monika.outfit.pianocasual.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "monika.outfit.pianocasual.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Piano Casual",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.pianocasual.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.pianocasual.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

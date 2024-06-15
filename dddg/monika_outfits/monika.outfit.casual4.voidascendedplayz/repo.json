@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.casual4.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "monika.outfit.casual4.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Monika's Casual #4",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.casual4.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.casual4.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

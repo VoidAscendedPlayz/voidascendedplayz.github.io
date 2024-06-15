@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.sundress.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "monika.outfit.sundress.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sundress",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.sundress.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.sundress.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

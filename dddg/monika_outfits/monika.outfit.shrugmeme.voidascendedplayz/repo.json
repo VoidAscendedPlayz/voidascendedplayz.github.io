@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.shrugmeme.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "monika.outfit.shrugmeme.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Monika's Shurg Meme Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.shrugmeme.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.shrugmeme.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
