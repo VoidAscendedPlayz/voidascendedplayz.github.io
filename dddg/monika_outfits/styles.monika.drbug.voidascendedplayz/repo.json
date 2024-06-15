@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "characters": [
+            "Monika"
+        ],
+        "kind": [
+            "Styles"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "id": "styles.monika.drbug.voidascendedplayz",
+        "name": "Dr. Bug",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/styles.monika.drbug.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/styles.monika.drbug.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/styles.monika.drbug.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/styles.monika.drbug.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

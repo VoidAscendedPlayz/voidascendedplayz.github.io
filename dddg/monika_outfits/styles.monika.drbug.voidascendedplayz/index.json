@@ -1,0 +1,124 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "styles.monika.drbug.voidascendedplayz",
+    "packCredits": "[ Created in June 2024 ]",
+    "version": "2.0",
+    "packName": "Bikini",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "source": "",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "dddg.buildin.base.monika:ddlc.monika",
+            "styleGroups": [
+                {
+                    "id": "bikini",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "id": "normal",
+                                    "compatibleHeads": [
+                                        "straight"
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "heads": {
+                "straight": [
+                    [
+                        "./a.png"
+                    ],
+                    [
+                        "./b.png"
+                    ],
+                    [
+                        "./c.png"
+                    ],
+                    [
+                        "./d.png"
+                    ],
+                    [
+                        "./e.png"
+                    ],
+                    [
+                        "./f.png"
+                    ],
+                    [
+                        "./g.png"
+                    ],
+                    [
+                        "./h.png"
+                    ],
+                    [
+                        "./i.png"
+                    ],
+                    [
+                        "./j.png"
+                    ],
+                    [
+                        "./k.png"
+                    ],
+                    [
+                        "./l.png"
+                    ],
+                    [
+                        "./m.png"
+                    ],
+                    [
+                        "./n.png"
+                    ],
+                    [
+                        "./o.png"
+                    ],
+                    [
+                        "./p.png"
+                    ],
+                    [
+                        "./q.png"
+                    ],
+                    [
+                        "./r.png"
+                    ]
+                ]
+            }
+        }
+    ]
+}
+            
