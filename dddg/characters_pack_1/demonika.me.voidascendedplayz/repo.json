@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "Aliri"
+        ],
+        "characters": [
+            "Demonika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/demonika.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "demonika.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Demonika [ From - DDLC Mod: Monitor ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/demonika.me.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/demonika.me.voidascendedplayz/1r.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/demonika.me.voidascendedplayz/dak.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

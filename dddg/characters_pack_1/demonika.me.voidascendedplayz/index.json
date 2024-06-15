@@ -1,0 +1,153 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "demonika.me.voidascendedplayz",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "demonika.me",
+            "label": "Demonika",
+            "chibi": "./chibi.png",
+            "heads": {
+                "default": [
+                    [
+                        "./dab.png"
+                    ],
+                    [
+                        "./dac.png"
+                    ],
+                    [
+                        "./dag.png"
+                    ],
+                    [
+                        "./dak.png"
+                    ],
+                    [
+                        "./dal.png"
+                    ],
+                    [
+                        "./dam.png"
+                    ],
+                    [
+                        "./dca.png"
+                    ],
+                    [
+                        "./dcc.png"
+                    ],
+                    [
+                        "./dcg.png"
+                    ],
+                    [
+                        "./dch.png"
+                    ],
+                    [
+                        "./dci.png"
+                    ],
+                    [
+                        "./dcj.png"
+                    ],
+                    [
+                        "./dcl.png"
+                    ],
+                    [
+                        "./dcm.png"
+                    ],
+                    [
+                        "./dcn.png"
+                    ],
+                    [
+                        "./dcr.png"
+                    ],
+                    [
+                        "./dct.png"
+                    ],
+                    [
+                        "./dcu.png"
+                    ],
+                    [
+                        "./dcv.png"
+                    ],
+                    [
+                        "./dcw.png"
+                    ],
+                    [
+                        "./dcx.png"
+                    ],
+                    [
+                        "./dcy.png"
+                    ],
+                    [
+                        "./ddc.png"
+                    ],
+                    [
+                        "./dl.png"
+                    ],
+                    [
+                        "./bonus1.png"
+                    ]
+                ]
+            },
+            "styleGroups": [
+                {
+                    "id": "shirt",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "default"
+                                    ],
+                                    "id": "default",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "head"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ],
+                                            [
+                                                "./3l.png"
+                                            ],
+                                            [
+                                                "./4l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ],
+                                            [
+                                                "./2r_alt.png"
+                                            ],
+                                            [
+                                                "./3r.png"
+                                            ]
+                                        ]
+                                    }
+                                } 
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chibi": "./chibi.png"
+}
