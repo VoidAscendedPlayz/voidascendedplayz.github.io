@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.randomswimsuit1.voidascendedplayz",
+    "styles": [
+        {
+            "name": "randomswimsuit1_voidascendedplayz",
+            "label": "Random Swimsuit #1"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normalt-randomswimsuit1_voidascendedplayz",
+            "style": "randomswimsuit1_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-randomswimsuit1_voidascendedplayz",
+            "style": "randomswimsuit1_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

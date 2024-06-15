@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.funeral.voidascendedplayz",
+    "styles": [
+        {
+            "name": "funeral_voidascendedplayz",
+            "label": "Funeral"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-funeral_voidascendedplayz",
+            "style": "funeral_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        }
+    ]
+}
