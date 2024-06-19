@@ -1,0 +1,20 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sprites_content/csoweapons.sprites.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "csoweapons.sprites.voidascendedplayz",
+        "kind": [
+            "Sprites"
+        ],
+        "name": "CSO Weapons - In Development Version",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sprites_content/csoweapons.sprites.voidascendedplayz/original.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,288 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "csoweapons.sprites.voidascendedplayz",
+    "folder": "./",
+    "sprites": [
+        {
+            "id": "awp_elven_ranger",
+            "label": "AWP Elven Ranger",
+            "variants": [
+                [
+                    "./AWP Elven Ranger.png"
+                ]
+            ]
+        },
+        {
+            "id": "barrett_m95_white_tiger",
+            "label": "Barrett M95 White Tiger",
+            "variants": [
+                [
+                    "./Barrett M95 White Tiger.png"
+                ]
+            ]
+        },
+        {
+            "id": "batista",
+            "label": "Batista",
+            "variants": [
+                [
+                    "./Batista.png"
+                ]
+            ]
+        },
+        {
+            "id": "beretta_gunslinger",
+            "label": "Beretta Gunslinger",
+            "variants": [
+                [
+                    "./Beretta Gunslinger.png"
+                ]
+            ]
+        },
+        {
+            "id": "desert_eagle_crimson_hunter",
+            "label": "Desert Eagle Crimson Hunter",
+            "variants": [
+                [
+                    "./Desert Eagle Crimson Hunter.png"
+                ]
+            ]
+        },
+        {
+            "id": "divine_blaster",
+            "label": "Divine Blaster",
+            "variants": [
+                [
+                    "./Divine Blaster.png"
+                ]
+            ]
+        },
+        {
+            "id": "doom_blaster",
+            "label": "Doom Blaster",
+            "variants": [
+                [
+                    "./Doom Blaster.png"
+                ]
+            ]
+        },
+        {
+            "id": "dread_nova",
+            "label": "Dread Nova",
+            "variants": [
+                [
+                    "./Dread Nova.png",
+                    "./Dread Nova #2.png"
+                ]
+            ]
+        },
+        {
+            "id": "dual_nata_knife",
+            "label": "Dual Nata Knife (Single)",
+            "variants": [
+                [
+                    "./Dual Nata Knife (Single).png"
+                ]
+            ]
+        },
+        {
+            "id": "dual_sword_phantom_slayer1",
+            "label": "Dual Sword Phantom Slayer 1",
+            "variants": [
+                [
+                    "./Dual Sword Phantom Slayer 1.png"
+                ]
+            ]
+        },
+        {
+            "id": "dual_sword_phantom_slayer2",
+            "label": "Dual Sword Phantom Slayer 2",
+            "variants": [
+                [
+                    "./Dual Sword Phantom Slayer 2.png"
+                ]
+            ]
+        },
+        {
+            "id": "dual_sword_phantom_slayer3",
+            "label": "Dual Sword Phantom Slayer 3",
+            "variants": [
+                [
+                    "./Dual Sword Phantom Slayer 3.png"
+                ]
+            ]
+        },
+        {
+            "id": "dual_sword_phantom_slayer4",
+            "label": "Dual Sword Phantom Slayer 4",
+            "variants": [
+                [
+                    "./Dual Sword Phantom Slayer 4.png"
+                ]
+            ]
+        },
+        {
+            "id": "electron_v",
+            "label": "Electron-V",
+            "variants": [
+                [
+                    "./Electron-V.png"
+                ]
+            ]
+        },
+        {
+            "id": "gigantic_drill",
+            "label": "Gigantic Drill",
+            "variants": [
+                [
+                    "./Gigantic Drill.png"
+                ]
+            ]
+        },
+        {
+            "id": "gravity_repulsor",
+            "label": "Gravity Repulsor",
+            "variants": [
+                [
+                    "./Gravity Repulsor.png"
+                ]
+            ]
+        },
+        {
+            "id": "hunter_killer_x-90",
+            "label": "Hunter Killer X-90",
+            "variants": [
+                [
+                    "./Hunter Killer X-90.png"
+                ]
+            ]
+        },
+        {
+            "id": "hyper_gaebolg",
+            "label": "Hyper Gaebolg",
+            "variants": [
+                [
+                    "./Hyper Gaebolg.png"
+                ]
+            ]
+        },
+        {
+            "id": "m2hb_devastator",
+            "label": "M2HB Devastator",
+            "variants": [
+                [
+                    "./M2HB Devastator.png"
+                ]
+            ]
+        },
+        {
+            "id": "master_combat_knife",
+            "label": "Master Combat Knife",
+            "variants": [
+                [
+                    "./Master Combat Knife.png"
+                ]
+            ]
+        },
+        {
+            "id": "plain_sword",
+            "label": "Plain Sword",
+            "variants": [
+                [
+                    "./Plain Sword.png"
+                ]
+            ]
+        },
+        {
+            "id": "pulse_reactor",
+            "label": "Pulse Reactor",
+            "variants": [
+                [
+                    "./Pulse Reactor.png"
+                ]
+            ]
+        },
+        {
+            "id": "quantum_horizon",
+            "label": "Quantum Horizon",
+            "variants": [
+                [
+                    "./Quantum Horizon.png"
+                ]
+            ]
+        },
+        {
+            "id": "sylphid",
+            "label": "Sylphid",
+            "variants": [
+                [
+                    "./Sylphid.png"
+                ]
+            ]
+        },
+        {
+            "id": "twin_shadow_axes",
+            "label": "Twin Shadow Axes",
+            "variants": [
+                [
+                    "./Twin Shadow Axes 1.png"
+                ]
+            ]
+        },
+        {
+            "id": "twin_shadow_axesalt",
+            "label": "Twin Shadow Axes Alt",
+            "variants": [
+                [
+                    "./Twin Shadow Axes 2.png"
+                ]
+            ]
+        },
+        {
+            "id": "tyrant_mace",
+            "label": "Tyrant Mace",
+            "variants": [
+                [
+                    "./Tyrant Mace.png"
+                ]
+            ]
+        },
+        {
+            "id": "tyrant_macealt",
+            "label": "Tyrant Mace 2",
+            "variants": [
+                [
+                    "./Tyrant Mace 2.png"
+                ]
+            ]
+        },
+        {
+            "id": "void_avenger",
+            "label": "Void Avenger",
+            "variants": [
+                [
+                    "./Void Avenger.png"
+                ]
+            ]
+        },
+        {
+            "id": "warhammer_storm_giant",
+            "label": "Warhammer Storm Giant - Blood Lord",
+            "variants": [
+                [
+                    "./Warhammer Storm Giant - Blood Lord.png"
+                ]
+            ]
+        },
+        {
+            "id": "x_tracker",
+            "label": "X-TRACKER",
+            "variants": [
+                [
+                    "./X-TRACKER.png"
+                ]
+            ]
+        }
+    ]
+}
