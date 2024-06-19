@@ -271,7 +271,7 @@
                                         "compatibleHeads": [
                                             "middle"
                                             ],
-                                            "id": "middlee",
+                                            "id": "middle",
                                             "renderCommands": [
                                             {
                                             "type": "pose-part",
@@ -299,9 +299,9 @@
                             "poses": [
                                 {
                                     "compatibleHeads": [
-                                        "middle"
+                                        "left"
                                         ],
-                                        "id": "middle",
+                                        "id": "left",
                                         "renderCommands": [
                                         {
                                         "type": "pose-part",
