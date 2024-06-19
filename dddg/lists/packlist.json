@@ -220,5 +220,8 @@
   ],
     "CGs Background": [
     ["sfw", "cgs_background/sayori.cgs.voidascendedplayz/repo.json"]
+  ],
+    "Sprite Content": [
+    ["sfw", "sprites_content/csoweapons.sprites.voidascendedplayz/repo.json"]
   ]
 }
