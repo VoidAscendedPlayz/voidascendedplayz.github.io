@@ -1,4 +1,4 @@
-    {
+{
     "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
     "version": "2.0",
     "packId": "natsuri.me.voidascendedplayz",
@@ -271,7 +271,7 @@
                                         "compatibleHeads": [
                                             "middle"
                                             ],
-                                            "id": "middle",
+                                            "id": "middlee",
                                             "renderCommands": [
                                             {
                                             "type": "pose-part",
@@ -299,9 +299,9 @@
                             "poses": [
                                 {
                                     "compatibleHeads": [
-                                        "left"
+                                        "middle"
                                         ],
-                                        "id": "left",
+                                        "id": "middle",
                                         "renderCommands": [
                                         {
                                         "type": "pose-part",
@@ -395,6 +395,63 @@
                                         "Variant": [
                                         ["./7c.png"],
                                         ["./8c.png"]
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "new_casual",
+                        "styles": [
+                            {
+                                "poses": [
+                                    {
+                                        "compatibleHeads": [
+                                            "left"
+                                            ],
+                                            "id": "left",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./1d.png"],
+                                            ["./2d.png"],
+                                            ["./3d.png"],
+                                            ["./4d.png"],
+                                            ["./5d.png"],
+                                            ["./6d.png"],
+                                            ["./7d.png"],
+                                            ["./8d.png"]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                            ],
+                                            "id": "middle",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./9d.png"],
+                                            ["./10d.png"]
                                             ]
                                         }
                                     }
