@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespringalt.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "yuri.outfit.latespringalt.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Late Spring Alt - Jacket",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespringalt.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespringalt.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

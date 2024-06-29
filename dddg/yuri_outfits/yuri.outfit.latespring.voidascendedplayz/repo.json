@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespring.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "yuri.outfit.latespring.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Late Spring",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespring.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.latespring.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

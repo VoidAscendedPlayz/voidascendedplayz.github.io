@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.blueswimsuit.voidascendedplayz",
+    "styles": [
+        {
+            "name": "blueswimsuit_voidascendedplayz",
+            "label": "Blue Swimsuit"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-blueswimsuit_voidascendedplayz",
+            "style": "blueswimsuit_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-blueswimsuit_voidascendedplayz",
+            "style": "blueswimsuit_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
