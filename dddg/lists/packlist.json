@@ -2,6 +2,7 @@
     "Characters Pack 1": [
     ["sfw", "characters_pack_1/adrian.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/aiko.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_1/akane.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/alice_monika.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/annabelle.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_1/aoki.me.voidascendedplayz/repo.json"],
@@ -67,8 +68,10 @@
     ["sfw", "characters_pack_3/mcother.me.voidascendedplayz/repo.json"]
   ],
     "Characters Pack 4": [
+    ["sfw", "characters_pack_4/mark.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/michael.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/michaelfnaf.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_4/mika.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/miyuki.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/momofemc.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_4/mrzewinski.me.voidascendedplayz/repo.json"],
@@ -104,6 +107,7 @@
     ["sfw", "characters_pack_5/storm.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/tomoko.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/tori.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_5/tripletroublemom.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/vaia.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/valerie.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/victor.me.voidascendedplayz/repo.json"],
@@ -115,6 +119,7 @@
     ["sfw", "characters_pack_5/yae.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/youngyuri.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/yuki.me.voidascendedplayz/repo.json"],
+    ["sfw", "characters_pack_5/yume.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/yurmom.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/zach.me.voidascendedplayz/repo.json"],
     ["sfw", "characters_pack_5/zuiho.me.voidascendedplayz/repo.json"]
@@ -128,6 +133,8 @@
     ["sfw", "monika_outfits/monika.outfit.casual4.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.clubmeetings.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.elite.voidascendedplayz/repo.json"],
+    ["sfw", "monika_outfits/monika.outfit.latespring.voidascendedplayz/repo.json"],
+    ["sfw", "monika_outfits/monika.outfit.latespringalt.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.nightmaiden.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.maryjanes.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.peuniform.voidascendedplayz/repo.json"],
@@ -141,9 +148,12 @@
     "Yuri's Outfit": [
     ["sfw", "yuri_outfits/yuri.outfit.bigshot.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.bigshotalt.voidascendedplayz/repo.json"],
+    ["sfw", "yuri_outfits/yuri.outfit.blueswimsuit.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.clubmeetings.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.elite.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.funeral.voidascendedplayz/repo.json"],
+    ["sfw", "yuri_outfits/yuri.outfit.latespring.voidascendedplayz/repo.json"],
+    ["sfw", "yuri_outfits/yuri.outfit.latespringalt.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.mafia.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.onepieceswimsuit.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.randomswimsuit1.voidascendedplayz/repo.json"],
@@ -157,6 +167,7 @@
   ],
     "Sayori's Outfit": [
     ["sfw", "sayori_outfits/sayori.outfit.blacksweater.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/sayori.outfit.blueswimsuit.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.boca.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.bridaldress.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.brownswirly.voidascendedplayz/repo.json"],
@@ -168,6 +179,8 @@
     ["sfw", "sayori_outfits/sayori.outfit.elite.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.hospital.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.hospitalgown.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/sayori.outfit.latespring.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/sayori.outfit.latespringalt.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.mafia.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.peuniform.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.sailor.voidascendedplayz/repo.json"],
@@ -176,6 +189,7 @@
     ["sfw", "sayori_outfits/sayori.outfit.winter.voidascendedplayz/repo.json"]
   ],
     "Natsuki's Outfit": [
+    ["sfw", "natsuki_outfits/natsuki.outfit.blueswimsuit.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.catcupcakedinergirl.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.catprintcasual.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.clubmeetings.voidascendedplayz/repo.json"],
@@ -184,6 +198,8 @@
     ["sfw", "natsuki_outfits/natsuki.outfit.goth.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.gothalt.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.irishdance.voidascendedplayz/repo.json"],
+    ["sfw", "natsuki_outfits/natsuki.outfit.latespring.voidascendedplayz/repo.json"],
+    ["sfw", "natsuki_outfits/natsuki.outfit.latespringalt.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.mafia.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.pajamas.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.peuniform.voidascendedplayz/repo.json"],
@@ -201,19 +217,26 @@
     ["sfw", "mc_outfits/mc.outfit.winter.voidascendedplayz/repo.json"]
   ],
       "Other Outfits": [
+    ["sfw", "other_outfits/himari.outfit.greenhoodie.voidascendedplayz/repo.json"],
+    ["sfw", "other_outfits/himari.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kiyomi.outfit.dress.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kiyomi.outfit.onepieceswimsuit.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kiyomi.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.casual.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/kotonoha.outfit.swimsuit.voidascendedplayz/repo.json"],
-    ["sfw", "other_outfits/kotonoha.outfit.winter.voidascendedplayz/repo.json"]
+    ["sfw", "other_outfits/kotonoha.outfit.winter.voidascendedplayz/repo.json"],
+    ["sfw", "other_outfits/styles.kotonoha.demon.voidascendedplayz/repo.json"],
+    ["sfw", "other_outfits/styles.yuri.demon.voidascendedplayz/repo.json"]
   ],
     "Poses Content": [
     ["sfw", "poses_content/monika.poses.nonsentient.voidascendedplayz/repo.json"],
+    ["sfw", "poses_content/monika.poses.personalityswap.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.reverse.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.whitedress.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/newrandomposes.voidascendedplayz.edave64/repo.json"],
-    ["sfw", "poses_content/yuri.poses.gothic.voidascendedplayz/repo.json"]
+    ["sfw", "poses_content/yuri.poses.gothic.voidascendedplayz/repo.json"],
+    ["sfw", "poses_content/yuri.poses.personalityswap.voidascendedplayz/repo.json"]
+
   ],
     "Head Expressions": [
     ["sfw", "head_expressions/sayori.expressions.disheveled.voidascendedplayz/repo.json"]
