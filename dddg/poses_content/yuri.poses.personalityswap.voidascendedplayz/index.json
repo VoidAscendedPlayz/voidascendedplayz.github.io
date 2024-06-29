@@ -1,0 +1,40 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "yuri.poses.personalityswap.voidascendedplayz",
+    "id": "ddlc.yuri",
+    "heads": {},
+    "poses": [
+        {
+            "name": "crossed_arms_1",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "crossed_arms_2",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "crossed_arms_3",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "crossed_arms_4",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        }
+    ]
+}

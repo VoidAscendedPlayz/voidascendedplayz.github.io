@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.personalityswap.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "yuri.poses.personalityswap.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Personality Swap",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.personalityswap.voidascendedplayz/2.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.personalityswap.voidascendedplayz/d.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

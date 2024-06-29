@@ -1,0 +1,64 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "monika.poses.personalityswap.voidascendedplayz",
+    "id": "ddlc.monika",
+    "heads": {
+        "straight": [],
+        "swap_sideways": {
+            "all": [
+                "./a.png",
+                "./b.png",
+                "./c.png",
+                "./d.png",
+                "./e.png",
+                "./f.png",
+                "./g.png",
+                "./h.png",
+                "./i.png",
+                "./j.png",
+                "./k.png",
+                "./l.png",
+                "./m.png",
+                "./n.png",
+                "./o.png",
+                "./p.png",
+                "./q.png",
+                "./r.png",
+                "./s.png",
+                "./t.png",
+                "./u.png",
+                "./v.png",
+                "./w.png"
+            ]
+        }
+    },
+    "poses": [
+        {
+            "name": "new_pose1",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "new_pose2",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "swap_leaning",
+            "style": "uniform",
+            "compatibleHeads": [
+                "swap_sideways"
+            ],
+            "variant": [
+                "./1.png",
+                "./2.png"
+            ]
+        }
+    ]
+}
