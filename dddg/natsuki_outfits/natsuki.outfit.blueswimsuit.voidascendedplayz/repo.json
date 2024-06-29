@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.blueswimsuit.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "natsuki.outfit.blueswimsuit.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Blue Swimsuit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.blueswimsuit.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.blueswimsuit.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
