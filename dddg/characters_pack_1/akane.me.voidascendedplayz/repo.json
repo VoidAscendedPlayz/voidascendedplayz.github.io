@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Akane"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/akane.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "akane.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Akane",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/akane.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
