@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "mark.me.voidascendedplayz",
+        "name": "Mark",
+        "characters": [
+            "Mark"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/mark.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mark.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mark.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

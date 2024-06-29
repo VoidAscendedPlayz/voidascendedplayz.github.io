@@ -1,0 +1,98 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "mika.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Mika",
+    "authors": [],
+    "id": "ddlc.plus.mika.me",
+    "name": "Mika",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png",
+            "./y.png",
+            "./z.png",
+            "./a1.png",
+            "./b1.png",
+            "./c1.png",
+            "./d1.png",
+            "./e1.png",
+            "./f1.png",
+            "./g1.png",
+            "./h1.png",
+            "./i1.png",
+            "./j1.png",
+            "./k1.png",
+            "./l1.png",
+            "./m1.png",
+            "./n1.png",
+            "./o1.png",
+            "./p1.png",
+            "./q1.png",
+            "./r1.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },        
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },        
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        }
+    ]
+}
