@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Himari"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_outfits/himari.outfit.swimsuit.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "himari.outfit.swimsuit.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Swimsuit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/other_outfits/himari.outfit.swimsuit.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

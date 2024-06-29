@@ -1,0 +1,158 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "styles.yuri.demon.voidascendedplayz",
+    "packCredits": "[ Created in June 2024 ]",
+    "version": "2.0",
+    "packName": "Demon Form",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "dddg.buildin.yuri:ddlc.yuri",
+            "styleGroups": [
+                {
+                    "id": "demon",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "id": "normal",
+                                    "compatibleHeads": [
+                                        "straight"
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1bl.png"
+                                            ],
+                                            [
+                                                "./2bl.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1br.png"
+                                            ],
+                                            [
+                                                "./2br.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "heads": {
+                "straight": [
+                    [
+                        "./ea.png"
+                    ],
+                    [
+                        "./eb.png"
+                    ],
+                    [
+                        "./ec.png"
+                    ],
+                    [
+                        "./ed.png"
+                    ],
+                    [
+                        "./ee.png"
+                    ],
+                    [
+                        "./ef.png"
+                    ],
+                    [
+                        "./eg.png"
+                    ],
+                    [
+                        "./ef.png"
+                    ],
+                    [
+                        "./eg.png"
+                    ],
+                    [
+                        "./eh.png"
+                    ],
+                    [
+                        "./ei.png"
+                    ],
+                    [
+                        "./ej.png"
+                    ],
+                    [
+                        "./ek.png"
+                    ],
+                    [
+                        "./el.png"
+                    ],
+                    [
+                        "./em.png"
+                    ],
+                    [
+                        "./en.png"
+                    ],
+                    [
+                        "./eo.png"
+                    ],
+                    [
+                        "./ep.png"
+                    ],
+                    [
+                        "./eq.png"
+                    ],
+                    [
+                        "./er.png"
+                    ],
+                    [
+                        "./es.png"
+                    ],
+                    [
+                        "./et.png"
+                    ],
+                    [
+                        "./eu.png"
+                    ],
+                    [
+                        "./ev.png"
+                    ],
+                    [
+                        "./ew.png"
+                    ],
+                    [
+                        "./ex.png"
+                    ],
+                    [
+                        "./ez.png"
+                    ],
+                    [
+                        "./sx.png"
+                    ],
+                    [
+                        "./sz.png"
+                    ],
+                    [
+                        "./ya.png"
+                    ]
+                ]
+            }
+        }
+    ]
+}

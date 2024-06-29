@@ -1,0 +1,110 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "styles.kotonoha.demon.voidascendedplayz",
+    "packCredits": "[ Created in June 2024 ]",
+    "version": "2.0",
+    "packName": "Demon",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "kotonoha.cyrke.edave64:ddlc.oc.kotonoha",
+            "styleGroups": [
+                {
+                    "id": "demon",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "id": "normal",
+                                    "compatibleHeads": [
+                                        "straight"
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ],
+                                            [
+                                                "./3l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ],
+                                            [
+                                                "./3r.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "heads": {
+                "straight": [
+                    [
+                        "./1.png"
+                    ],
+                    [
+                        "./2.png"
+                    ],
+                    [
+                        "./3.png"
+                    ],
+                    [
+                        "./4.png"
+                    ],
+                    [
+                        "./5.png"
+                    ],
+                    [
+                        "./6.png"
+                    ],
+                    [
+                        "./7.png"
+                    ],
+                    [
+                        "./8.png"
+                    ],
+                    [
+                        "./9.png"
+                    ],
+                    [
+                        "./10.png"
+                    ],
+                    [
+                        "./11.png"
+                    ],
+                    [
+                        "./12.png"
+                    ]
+                ]
+            }
+        }
+    ]
+}

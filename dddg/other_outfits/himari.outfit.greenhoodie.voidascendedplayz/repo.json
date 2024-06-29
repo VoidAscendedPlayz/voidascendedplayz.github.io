@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Himari"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_outfits/himari.outfit.greenhoodie.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "himari.outfit.greenhoodie.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Green Hoodie",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/other_outfits/himari.outfit.greenhoodie.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
