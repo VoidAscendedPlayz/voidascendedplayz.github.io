@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.latespring.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "sayori.outfit.latespring.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Late Spring",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.latespring.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.latespring.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
