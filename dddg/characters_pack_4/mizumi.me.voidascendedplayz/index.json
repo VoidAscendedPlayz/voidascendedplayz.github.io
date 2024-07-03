@@ -1,0 +1,413 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "mizumi.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Mizumi",
+    "source": "https://www.reddit.com/u/Opening-Hyena4180",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.fan.mizumi",
+            "label": "Mizumi",
+            "chibi": "./chibi.png",
+            "heads": {
+                "left": {
+                    "variants": [
+                        [
+                            "./expressions/1.png"
+                        ],
+                        [
+                            "./expressions/2.png"
+                        ],
+                        [
+                            "./expressions/3.png"
+                        ],
+                        [
+                            "./expressions/4.png"
+                        ],
+                        [
+                            "./expressions/5.png"
+                        ],
+                        [
+                            "./expressions/6.png"
+                        ],
+                        [
+                            "./expressions/7.png"
+                        ],
+                        [
+                            "./expressions/8.png"
+                        ],
+                        [
+                            "./expressions/9.png"
+                        ],
+                        [
+                            "./expressions/10.png"
+                        ],
+                        [
+                            "./expressions/11.png"
+                        ],
+                        [
+                            "./expressions/12.png"
+                        ],
+                        [
+                            "./expressions/13.png"
+                        ],
+                        [
+                            "./expressions/14.png"
+                        ],
+                        [
+                            "./expressions/15.png"
+                        ],
+                        [
+                            "./expressions/16.png"
+                        ],
+                        [
+                            "./expressions/17.png"
+                        ],
+                        [
+                            "./expressions/18.png"
+                        ],
+                        [
+                            "./expressions/19.png"
+                        ],
+                        [
+                            "./expressions/20.png"
+                        ],
+                        [
+                            "./expressions/21.png"
+                        ],
+                        [
+                            "./expressions/22.png"
+                        ],
+                        [
+                            "./expressions/23.png"
+                        ],
+                        [
+                            "./expressions/24.png"
+                        ],
+                        [
+                            "./expressions/25.png"
+                        ]
+                    ]
+                },
+                "middle": {
+                    "variants": [
+                        [
+                            "./expressionsalt/1.png"
+                        ],
+                        [
+                            "./expressionsalt/2.png"
+                        ],
+                        [
+                            "./expressionsalt/3.png"
+                        ],
+                        [
+                            "./expressionsalt/4.png"
+                        ],
+                        [
+                            "./expressionsalt/5.png"
+                        ],
+                        [
+                            "./expressionsalt/6.png"
+                        ],
+                        [
+                            "./expressionsalt/7.png"
+                        ],
+                        [
+                            "./expressionsalt/8.png"
+                        ],
+                        [
+                            "./expressionsalt/9.png"
+                        ],
+                        [
+                            "./expressionsalt/10.png"
+                        ],
+                        [
+                            "./expressionsalt/11.png"
+                        ],
+                        [
+                            "./expressionsalt/12.png"
+                        ],
+                        [
+                            "./expressionsalt/13.png"
+                        ],
+                        [
+                            "./expressionsalt/14.png"
+                        ],
+                        [
+                            "./expressionsalt/15.png"
+                        ],
+                        [
+                            "./expressionsalt/16.png"
+                        ],
+                        [
+                            "./expressionsalt/17.png"
+                        ],
+                        [
+                            "./expressionsalt/18.png"
+                        ],
+                        [
+                            "./expressionsalt/19.png"
+                        ],
+                        [
+                            "./expressionsalt/20.png"
+                        ],
+                        [
+                            "./expressionsalt/21.png"
+                        ],
+                        [
+                            "./expressionsalt/22.png"
+                        ],
+                        [
+                            "./expressionsalt/23.png"
+                        ],
+                        [
+                            "./expressionsalt/24.png"
+                        ],
+                        [
+                            "./expressionsalt/25.png"
+                        ]
+                    ]
+                }
+            },
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                "compatibleHeads": [
+                                    "left"
+                                    ],
+                                    "id": "left",
+                                    "renderCommands": [
+                                    {
+                                    "type": "pose-part",
+                                    "part": "Variant"
+                                    },
+                                    {
+                                    "type": "head"
+                                    }
+                                    ],
+                                    "positions": {
+                                    "Variant": [
+                                    ["./1.png"],
+                                    ["./2.png"],
+                                    ["./3.png"],
+                                    ["./4.png"],
+                                    ["./5.png"],
+                                    ["./6.png"]
+                                    ]
+                                }
+                            },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                            ],
+                                            "id": "middle",
+                                            "renderCommands": [
+                                            {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                            },
+                                            {
+                                            "type": "head"
+                                            }
+                                            ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./1b.png"],
+                                            ["./2b.png"],
+                                            ["./3b.png"],
+                                            ["./4b.png"],
+                                            ["./5b.png"],
+                                            ["./6b.png"]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "casual",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                        ],
+                                        "id": "left",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./7.png"],
+                                        ["./8.png"],
+                                        ["./9.png"],
+                                        ["./10.png"]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./7b.png"],
+                                        ["./8b.png"],
+                                        ["./9b.png"],
+                                        ["./10b.png"]
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+                {
+                    "id": "winter",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                        ],
+                                        "id": "left",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./11.png"],
+                                        ["./12.png"],
+                                        ["./13.png"],
+                                        ["./14.png"],
+                                        ["./15.png"],
+                                        ["./16.png"]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "compatibleHeads": [
+                                        "middle"
+                                        ],
+                                        "id": "middle",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./11b.png"],
+                                        ["./12b.png"],
+                                        ["./13b.png"],
+                                        ["./14b.png"],
+                                        ["./15b.png"],
+                                        ["./16b.png"]
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+                {
+                    "id": "swimsuit",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "compatibleHeads": [
+                                        "left"
+                                        ],
+                                        "id": "left",
+                                        "renderCommands": [
+                                        {
+                                        "type": "pose-part",
+                                        "part": "Variant"
+                                        },
+                                        {
+                                        "type": "head"
+                                        }
+                                        ],
+                                        "positions": {
+                                        "Variant": [
+                                        ["./17.png"],
+                                        ["./18.png"],
+                                        ["./19.png"],
+                                        ["./20.png"],
+                                        ["./21.png"],
+                                        ["./22.png"]
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "compatibleHeads": [
+                                            "middle"
+                                        ],
+                                            "id": "middle",
+                                            "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        },
+                                            {
+                                            "type": "head"
+                                                    }
+                                                ],
+                                            "positions": {
+                                            "Variant": [
+                                            ["./17b.png"],
+                                            ["./18b.png"],
+                                            ["./19b.png"],
+                                            ["./20b.png"],
+                                            ["./21b.png"],
+                                            ["./22b.png"]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "mizumi.me.voidascendedplayz",
+        "name": "Mizumi",
+        "characters": [
+            "Mizumi"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/mizumi.me.voidascendedplayz/index.json",
+        "description": "[ Created in March 2024 - Hotfix Update in July 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mizumi.me.voidascendedplayz/expressions/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mizumi.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
