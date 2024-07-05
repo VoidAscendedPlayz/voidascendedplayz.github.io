@@ -1,0 +1,28 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedplayz", "Prox"
+        ],
+        "characters": [
+            "Haruna"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/index.json",
+        "description": "[ Created in October 2023 - Hotfix Update in July 2024 ]",
+        "id": "haruna.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Haruna [ 250+ Expressions ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/expressionsalt/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/haruna.me.voidascendedplayz/11.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "Prox": {
+            "reddit": "Proxyl_",
+            "discord": "Prox#9492"
+        }
+    }
+}
