@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Ellen"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/ellen.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "ellen.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Ellen [ From - Doki Doki Undercurrents ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/ellen.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
