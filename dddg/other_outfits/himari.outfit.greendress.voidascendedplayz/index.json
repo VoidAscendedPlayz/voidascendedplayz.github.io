@@ -1,0 +1,41 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "himari.prox.edave64:ddlc.fan.himari",
+    "packId": "himari.outfit.greendress.voidascendedplayz",
+    "styles": [
+        {
+            "name": "greendress",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "left",
+            "style": "greendress",
+            "compatibleHeads": [
+                "himari.prox.edave64:left"
+            ],
+            "headInForeground": true,
+            "static": "./1.png"
+        },
+        {
+            "name": "middle",
+            "style": "greendress",
+            "compatibleHeads": [
+                "himari.prox.edave64:middle"
+            ],
+            "headInForeground": true,
+            "static": "./2.png"
+        },
+        {
+            "name": "right",
+            "style": "greendress",
+            "compatibleHeads": [
+                "himari.prox.edave64:right"
+            ],
+            "headInForeground": true,
+            "static": "./3.png"
+        }
+    ]
+}
