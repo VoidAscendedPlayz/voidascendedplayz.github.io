@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "yuuri.me.voidascendedplayz",
+        "name": "Yuuri [ From - Doki Doki Switcheroo Club Mod ]",
+        "characters": [
+            "Yuuri"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/yuuri.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/yuuri.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/yuuri.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
