@@ -1,0 +1,685 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "melody.me.voidascendedplayz",
+    "version": "2.0",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.oc.melody",
+            "chibi": "chibi.png",
+            "label": "Melody",
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./facebase1.png"
+                                            ],
+                                            [
+                                                "./facebase2.png"
+                                            ],
+                                            [
+                                                "./facebase3.png"
+                                            ],
+                                            [
+                                                "./facebase4.png"
+                                            ],
+                                            [
+                                                "./facebase5.png"
+                                            ],
+                                            [
+                                                "./facebase6.png"
+                                            ],
+                                            [
+                                                "./facebase7.png"
+                                            ],
+                                            [
+                                                "./facebase8.png"
+                                            ],
+                                            [
+                                                "./facebase9.png"
+                                            ],
+                                            [
+                                                "./facebase10.png"
+                                            ],
+                                            [
+                                                "./facebase11.png"
+                                            ],
+                                            [
+                                                "./facebase12.png"
+                                            ],
+                                            [
+                                                "./facebase13.png"
+                                            ],
+                                            [
+                                                "./facebase14.png"
+                                            ],
+                                            [
+                                                "./facebase15.png"
+                                            ],
+                                            [
+                                                "./facebase16.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./Eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 6.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 7.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 8.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 9.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 10.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 11.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 12.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 13.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye 3.png"
+                                            ],
+                                            [
+                                                "./Eye 4.png"
+                                            ],
+                                            [
+                                                "./Eye 6.png"
+                                            ],
+                                            [
+                                                "./Eye 7.png"
+                                            ],
+                                            [
+                                                "./Eye 8.png"
+                                            ],
+                                            [
+                                                "./Eye 9.png"
+                                            ],
+                                            [
+                                                "./Eye 10.png"
+                                            ],
+                                            [
+                                                "./Eye 11.png"
+                                            ],
+                                            [
+                                                "./Eye 12.png"
+                                            ],
+                                            [
+                                                "./Eye 13.png"
+                                            ],
+                                            [
+                                                "./Eye 14.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./Mouth 1.png"
+                                            ],
+                                            [
+                                                "./Mouth 2.png"
+                                            ],
+                                            [
+                                                "./Mouth 3.png"
+                                            ],
+                                            [
+                                                "./Mouth 4.png"
+                                            ],
+                                            [
+                                                "./Mouth 5.png"
+                                            ],
+                                            [
+                                                "./Mouth 6.png"
+                                            ],
+                                            [
+                                                "./Mouth 7.png"
+                                            ],
+                                            [
+                                                "./Mouth 8.png"
+                                            ],
+                                            [
+                                                "./Mouth 9.png"
+                                            ],
+                                            [
+                                                "./Mouth 10.png"
+                                            ],
+                                            [
+                                                "./Mouth 11.png"
+                                            ],
+                                            [
+                                                "./Mouth 12.png"
+                                            ],
+                                            [
+                                                "./Mouth 13.png"
+                                            ],
+                                            [
+                                                "./Mouth 14.png"
+                                            ],
+                                            [
+                                                "./Mouth 15.png"
+                                            ],
+                                            [
+                                                "./Mouth 16.png"
+                                            ],
+                                            [
+                                                "./Mouth 17.png"
+                                            ],
+                                            [
+                                                "./Mouth 18.png"
+                                            ],
+                                            [
+                                                "./Mouth 19.png"
+                                            ],
+                                            [
+                                                "./Mouth 20.png"
+                                            ],
+                                            [
+                                                "./Mouth 21.png"
+                                            ],
+                                            [
+                                                "./Mouth 22.png"
+                                            ],
+                                            [
+                                                "./Mouth 23.png"
+                                            ],
+                                            [
+                                                "./Mouth 24.png"
+                                            ],
+                                            [
+                                                "./Mouth 25.png"
+                                            ],
+                                            [
+                                                "./Mouth 26.png"
+                                            ],
+                                            [
+                                                "./Mouth 27.png"
+                                            ],
+                                            [
+                                                "./Mouth 28.png"
+                                            ],
+                                            [
+                                                "./Mouth 29.png"
+                                            ],
+                                            [
+                                                "./Mouth 30.png"
+                                            ],
+                                            [
+                                                "./Mouth 31.png"
+                                            ],
+                                            [
+                                                "./Mouth 32.png"
+                                            ],
+                                            [
+                                                "./Mouth 33.png"
+                                            ],
+                                            [
+                                                "./Mouth 34.png"
+                                            ],
+                                            [
+                                                "./Mouth 35.png"
+                                            ],
+                                            [
+                                                "./Mouth 36.png"
+                                            ],
+                                            [
+                                                "./Mouth 37.png"
+                                            ],
+                                            [
+                                                "./Mouth 38.png"
+                                            ],
+                                            [
+                                                "./Mouth 39.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ],
+                                            [
+                                                "./3r.png"
+                                            ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        }
+                                    ],
+                                    "positions": {
+                                        "Face-Base": [
+                                            [
+                                                "./facebase1.png"
+                                            ],
+                                            [
+                                                "./facebase2.png"
+                                            ],
+                                            [
+                                                "./facebase3.png"
+                                            ],
+                                            [
+                                                "./facebase4.png"
+                                            ],
+                                            [
+                                                "./facebase5.png"
+                                            ],
+                                            [
+                                                "./facebase6.png"
+                                            ],
+                                            [
+                                                "./facebase7.png"
+                                            ],
+                                            [
+                                                "./facebase8.png"
+                                            ],
+                                            [
+                                                "./facebase9.png"
+                                            ],
+                                            [
+                                                "./facebase10.png"
+                                            ],
+                                            [
+                                                "./facebase11.png"
+                                            ],
+                                            [
+                                                "./facebase12.png"
+                                            ],
+                                            [
+                                                "./facebase13.png"
+                                            ],
+                                            [
+                                                "./facebase14.png"
+                                            ],
+                                            [
+                                                "./facebase15.png"
+                                            ],
+                                            [
+                                                "./facebase16.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./Eyebrows 1.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 2.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 3.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 4.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 5.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 6.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 7.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 8.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 9.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 10.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 11.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 12.png"
+                                            ],
+                                            [
+                                                "./Eyebrows 13.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./Eye 1.png"
+                                            ],
+                                            [
+                                                "./Eye 2.png"
+                                            ],
+                                            [
+                                                "./Eye 3.png"
+                                            ],
+                                            [
+                                                "./Eye 4.png"
+                                            ],
+                                            [
+                                                "./Eye 6.png"
+                                            ],
+                                            [
+                                                "./Eye 7.png"
+                                            ],
+                                            [
+                                                "./Eye 8.png"
+                                            ],
+                                            [
+                                                "./Eye 9.png"
+                                            ],
+                                            [
+                                                "./Eye 10.png"
+                                            ],
+                                            [
+                                                "./Eye 11.png"
+                                            ],
+                                            [
+                                                "./Eye 12.png"
+                                            ],
+                                            [
+                                                "./Eye 13.png"
+                                            ],
+                                            [
+                                                "./Eye 14.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./Mouth 1.png"
+                                            ],
+                                            [
+                                                "./Mouth 2.png"
+                                            ],
+                                            [
+                                                "./Mouth 3.png"
+                                            ],
+                                            [
+                                                "./Mouth 4.png"
+                                            ],
+                                            [
+                                                "./Mouth 5.png"
+                                            ],
+                                            [
+                                                "./Mouth 6.png"
+                                            ],
+                                            [
+                                                "./Mouth 7.png"
+                                            ],
+                                            [
+                                                "./Mouth 8.png"
+                                            ],
+                                            [
+                                                "./Mouth 9.png"
+                                            ],
+                                            [
+                                                "./Mouth 10.png"
+                                            ],
+                                            [
+                                                "./Mouth 11.png"
+                                            ],
+                                            [
+                                                "./Mouth 12.png"
+                                            ],
+                                            [
+                                                "./Mouth 13.png"
+                                            ],
+                                            [
+                                                "./Mouth 14.png"
+                                            ],
+                                            [
+                                                "./Mouth 15.png"
+                                            ],
+                                            [
+                                                "./Mouth 16.png"
+                                            ],
+                                            [
+                                                "./Mouth 17.png"
+                                            ],
+                                            [
+                                                "./Mouth 18.png"
+                                            ],
+                                            [
+                                                "./Mouth 19.png"
+                                            ],
+                                            [
+                                                "./Mouth 20.png"
+                                            ],
+                                            [
+                                                "./Mouth 21.png"
+                                            ],
+                                            [
+                                                "./Mouth 22.png"
+                                            ],
+                                            [
+                                                "./Mouth 23.png"
+                                            ],
+                                            [
+                                                "./Mouth 24.png"
+                                            ],
+                                            [
+                                                "./Mouth 25.png"
+                                            ],
+                                            [
+                                                "./Mouth 26.png"
+                                            ],
+                                            [
+                                                "./Mouth 27.png"
+                                            ],
+                                            [
+                                                "./Mouth 28.png"
+                                            ],
+                                            [
+                                                "./Mouth 29.png"
+                                            ],
+                                            [
+                                                "./Mouth 30.png"
+                                            ],
+                                            [
+                                                "./Mouth 31.png"
+                                            ],
+                                            [
+                                                "./Mouth 32.png"
+                                            ],
+                                            [
+                                                "./Mouth 33.png"
+                                            ],
+                                            [
+                                                "./Mouth 34.png"
+                                            ],
+                                            [
+                                                "./Mouth 35.png"
+                                            ],
+                                            [
+                                                "./Mouth 36.png"
+                                            ],
+                                            [
+                                                "./Mouth 37.png"
+                                            ],
+                                            [
+                                                "./Mouth 38.png"
+                                            ],
+                                            [
+                                                "./Mouth 39.png"
+                                            ]
+                                        ],
+                                        "Variant": [
+                                            [
+                                                "./4.png"
+                                            ],
+                                            [
+                                                "./5.png"
+                                            ],
+                                            [
+                                                "./6.png"
+                                            ],
+                                            [
+                                                "./7.png"
+                                            ],
+                                            [
+                                                "./8.png"
+                                            ],
+                                            [
+                                                "./9.png"
+                                            ],
+                                            [
+                                                "./10.png"
+                                            ],
+                                            [
+                                                "./11.png"
+                                            ],
+                                            [
+                                                "./12.png"
+                                            ],
+                                            [
+                                                "./13.png"
+                                            ],
+                                            [
+                                                "./14.png"
+                                            ],
+                                            [
+                                                "./15.png"
+                                            ],
+                                            [
+                                                "./16.png"
+                                            ],
+                                            [
+                                                "./17.png"
+                                            ],
+                                            [
+                                                "./18.png"
+                                            ],
+                                            [
+                                                "./19.png"
+                                            ],
+                                            [
+                                                "./20.png"
+                                            ],
+                                            [
+                                                "./21.png"
+                                            ],
+                                            [
+                                                "./22.png"
+                                            ],
+                                            [
+                                                "./23.png"
+                                            ],
+                                            [
+                                                "./24.png"
+                                            ],
+                                            [
+                                                "./25.png"
+                                            ],
+                                            [
+                                                "./26.png"
+                                            ],
+                                            [
+                                                "./27.png"
+                                            ],
+                                            [
+                                                "./28.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
