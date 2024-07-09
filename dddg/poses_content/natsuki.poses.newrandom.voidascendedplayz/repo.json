@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/natsuki.poses.newrandom.voidascendedplayz/index.json",
+        "description": "[ Created in June 2024 ]",
+        "id": "natsuki.poses.newrandom.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Natsuki's Random Pose",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/natsuki.poses.newrandom.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/natsuki.poses.newrandom.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
