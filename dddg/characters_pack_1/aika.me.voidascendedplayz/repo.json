@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedplayz"
+        ],
+        "characters": [
+            "Aika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/aika.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "aika.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Aika [ 250+ Expressions ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/aika.me.voidascendedplayz/expressionsalt/2.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/aika.me.voidascendedplayz/pose5.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
