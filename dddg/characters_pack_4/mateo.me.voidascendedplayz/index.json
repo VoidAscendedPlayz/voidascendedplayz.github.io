@@ -1,0 +1,128 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "mateo.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Mateo",
+    "authors": ["VoidAscendedPlayz"],
+    "id": "ddlc.plus.mateo.me",
+    "name": "Mateo",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./aa.png",
+            "./aaa.png",
+            "./aab.png",
+            "./aac.png",
+            "./aad.png",
+            "./aae.png",
+            "./ab.png",
+            "./ac.png",
+            "./ad.png",
+            "./ae.png",
+            "./af.png",
+            "./ag.png",
+            "./ah.png",
+            "./ai.png",
+            "./aj.png",
+            "./ak.png",
+            "./al.png",
+            "./am.png",
+            "./an.png",
+            "./ao.png",
+            "./ap.png",
+            "./aq.png",
+            "./ar.png",
+            "./as.png",
+            "./at.png",
+            "./au.png",
+            "./av.png",
+            "./aw.png",
+            "./ax.png",
+            "./ay.png",
+            "./az.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./glitch_head1.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png",
+            "./y.png",
+            "./z.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        }
+    ]
+}
