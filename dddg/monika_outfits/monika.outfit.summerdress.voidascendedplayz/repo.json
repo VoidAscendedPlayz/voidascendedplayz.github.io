@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "LecraftX9"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.summerdress.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "monika.outfit.summerdress.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Summer Dress",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.summerdress.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.summerdress.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
