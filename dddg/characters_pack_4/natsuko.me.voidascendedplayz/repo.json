@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "natsuko.me.voidascendedplayz",
+        "name": "Natsuko [ From - Doki Doki Switcheroo Club Mod ]",
+        "characters": [
+            "Natsuko"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuko.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuko.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/natsuko.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
