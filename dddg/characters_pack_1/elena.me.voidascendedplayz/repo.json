@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "ItzTuna", "elenathebullimom", "DiverseDokiStories", "Doki Senate"
+        ],
+        "characters": [
+            "Elena"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/elena.me.voidascendedplayz/index.json",
+        "description": "[ Created in December 2023 - Hotfix Update in July 2024 ]",
+        "id": "elena.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Elena",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/elena.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
