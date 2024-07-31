@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.tapdanceralt.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "monika.outfit.tapdanceralt.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Tap Dancer Alt - Green Color",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.tapdanceralt.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.tapdanceralt.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

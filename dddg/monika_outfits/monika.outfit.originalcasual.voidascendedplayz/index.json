@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.monika",
+    "packId": "monika.outfit.originalcasual.voidascendedplayz",
+    "styles": [
+        {
+            "name": "originalcasual_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-originalcasual_voidascendedplayz",
+            "style": "originalcasual_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./3l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./3r.png"
+            ]
+        },
+        {
+            "name": "leaned-originalcasual_voidascendedplayz",
+            "style": "originalcasual_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./4.png"
+        }
+    ]
+}
