@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Zachmanawesomeness"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.tapdancer.voidascendedplayz/index.json",
+        "description": "[ Created in April 2024 ]",
+        "id": "natsuki.outfit.tapdancer.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Tap Dancer",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.tapdancer.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.tapdancer.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
