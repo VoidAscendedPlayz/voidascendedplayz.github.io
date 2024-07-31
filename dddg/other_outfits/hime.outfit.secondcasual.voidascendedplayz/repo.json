@@ -1,0 +1,27 @@
+{
+    "pack": {
+        "authors": [
+            "ZachmanAwesomeness"
+        ],
+        "characters": [
+            "Hime"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_outfits/hime.outfit.secondcasual.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "disclaimer": "You need to add the pack for 'Hime' before adding this",
+        "id": "hime.outfit.secondcasual.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Hime's Second Causal",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/other_outfits/hime.outfit.secondcasual.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {
+        "ZachmanAwesomeness": {
+            "reddit": "ZachmanAwesomenessII"
+        }
+    }
+}
