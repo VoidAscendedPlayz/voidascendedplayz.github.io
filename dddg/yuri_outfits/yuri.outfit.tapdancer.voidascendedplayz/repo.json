@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "zachmanawesomeness"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.tapdancer.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "yuri.outfit.tapdancer.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Tap Dancer",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.tapdancer.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.tapdancer.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
