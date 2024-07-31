@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "characters": [
+            "Sayori"
+        ],
+        "kind": [
+            "Styles"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "id": "styles.sayori.undead.voidascendedplayz",
+        "name": "Undead",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/styles.sayori.undead.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/styles.sayori.undead.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/styles.sayori.undead.voidascendedplayz/1r.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/styles.sayori.undead.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

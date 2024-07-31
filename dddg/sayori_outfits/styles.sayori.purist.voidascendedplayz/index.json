@@ -1,0 +1,141 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "styles.sayori.purist.voidascendedplayz",
+    "packCredits": "[ Created in July 2024 ]",
+    "version": "2.0",
+    "packName": "Purist Outfit",
+    "authors": [
+        "VoidAscendedPlayz"
+    ],
+    "source": "",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "dddg.buildin.sayori:ddlc.sayori",
+            "styleGroups": [
+                {
+                    "id": "purist",
+                    "styles": [
+                        {
+                            "poses": [
+                                {
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "id": "normal",
+                                    "compatibleHeads": [
+                                        "straight"
+                                    ],
+                                    "positions": {
+                                        "Left": [
+                                            [
+                                                "./d1.png"
+                                            ],
+                                            [
+                                                "./d2.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./d3.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "heads": {
+                "straight": [
+                    [
+                        "./da.png"
+                    ],
+                    [
+                        "./db.png"
+                    ],
+                    [
+                        "./dc.png"
+                    ],
+                    [
+                        "./dd.png"
+                    ],
+                    [
+                        "./de.png"
+                    ],
+                    [
+                        "./df.png"
+                    ],
+                    [
+                        "./dg.png"
+                    ],
+                    [
+                        "./dh.png"
+                    ],
+                    [
+                        "./di.png"
+                    ],
+                    [
+                        "./dj.png"
+                    ],
+                    [
+                        "./dk.png"
+                    ],
+                    [
+                        "./dl.png"
+                    ],
+                    [
+                        "./dm.png"
+                    ],
+                    [
+                        "./dn.png"
+                    ],
+                    [
+                        "./do.png"
+                    ],
+                    [
+                        "./dp.png"
+                    ],
+                    [
+                        "./dq.png"
+                    ],
+                    [
+                        "./dr.png"
+                    ],
+                    [
+                        "./ds.png"
+                    ],
+                    [
+                        "./dt.png"
+                    ],
+                    [
+                        "./du.png"
+                    ],
+                    [
+                        "./dv.png"
+                    ],
+                    [
+                        "./dw.png"
+                    ],
+                    [
+                        "./dx.png"
+                    ],
+                    [
+                        "./dy.png"
+                    ]
+                ]
+            }
+        }
+    ]
+}
