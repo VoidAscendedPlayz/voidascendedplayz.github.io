@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "sayori.expressions.exe.voidascendedplayz",
+    "id": "ddlc.sayori",
+    "heads": {
+        "straight": [
+            "./a1.png",
+            "./a2.png",
+            "./a3.png",
+            "./b1.png",
+            "./b2.png",
+            "./b3.png",
+            "./b4.png",
+            "./b5.png",
+            "./b6.png",
+            "./b7.png",
+            "./c5.png",
+            "./c6.png",
+            "./c7.png",
+            "./c8.png",
+            "./c9.png",
+            "./d1.png",
+            "./d2.png",
+            "./d4.png",
+            "./d5.png",
+            "./d6.png",
+            "./d7.png",
+            "./d8.png",
+            "./bonus1.png",
+            "./bonus2.png"
+        ]
+    },
+    "poses": []
+}

@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.exe.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "sayori.expressions.exe.voidascendedplayz",
+        "kind": [
+            "Expressions"
+        ],
+        "name": "Sayori.EXE Expressions",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.exe.voidascendedplayz/a1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
