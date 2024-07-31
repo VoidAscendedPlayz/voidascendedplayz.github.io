@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz", "zachmanawesomeness"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.bikini.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "sayori.outfit.bikini.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Bikini",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.bikini.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.bikini.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
