@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "sayori.pose.nightnurse.voidascendedplayz",
+    "id": "ddlc.sayori",
+    "packCredits": "",
+    "heads": {
+
+    },
+    "poses": [
+        {
+            "name": "normal_casual",
+            "style": "casual",
+            "compatibleHeads": [],
+            "left": [
+                "./7dl.png",
+                "./7wl.png"
+            ],
+            "right": [
+                "./3dr.png",
+                "./knife_right1.png",
+                "./knife_right2.png"
+            ]
+        }
+    ]
+}

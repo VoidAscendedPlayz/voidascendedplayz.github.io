@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "monika.poses.armcrossed.voidascendedplayz",
+    "id": "ddlc.monika",
+    "packCredits": "",
+    "heads": {},
+    "poses": [
+        {
+            "name": "arm_crossed_1",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "arm_crossed_2",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        }
+    ]
+}

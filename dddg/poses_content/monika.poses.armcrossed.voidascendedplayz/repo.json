@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.armcrossed.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "monika.poses.armcrossed.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Arm Crossed",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.armcrossed.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

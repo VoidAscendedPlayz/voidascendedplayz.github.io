@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.nightnurse.voidascendedplayz/index.json",
+        "description": "[ Created in July 2024 ]",
+        "id": "sayori.pose.nightnurse.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Night Nurse Pose",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.nightnurse.voidascendedplayz/62b.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.nightnurse.voidascendedplayz/62_left.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
