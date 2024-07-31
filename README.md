@@ -30,4 +30,6 @@ The Ultimate Website Of My Github Page
 
 ## Update 4.3 [ The July Update ]: https://new.reddit.com/r/DokiDokiNightClub/comments/1dzd9wk/voidascendedplayzs_dddg_ultra_extra_content_packs/
 
+## Update 4.4 [ The End of July Update ]: https://new.reddit.com/r/DokiDokiNightClub/comments/1egxhgh/voidascendedplayzs_dddg_ultra_extra_content_packs/
+
 ## The Hotfix Update #1: https://new.reddit.com/r/DokiDokiNightClub/comments/1djntnh/voidascendedplayzs_dddg_ultra_extra_content_packs/
