@@ -255,6 +255,9 @@
     ["sfw", "other_outfits/styles.kotonoha.demon.voidascendedplayz/repo.json"],
     ["sfw", "other_outfits/styles.yuri.demon.voidascendedplayz/repo.json"]
   ],
+    "Other Character Outfit Pack": [
+    ["sfw", "other_character_outfit_pack/tina.casual.voidascendedplayz.edave64/repo.json"]
+  ],
     "Poses Content": [
     ["sfw", "poses_content/monika.poses.armcrossed.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.nonsentient.voidascendedplayz/repo.json"],
@@ -266,7 +269,6 @@
     ["sfw", "poses_content/sayori.pose.nightnurse.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/yuri.poses.gothic.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/yuri.poses.personalityswap.voidascendedplayz/repo.json"]
-
   ],
     "Head Expressions": [
     ["sfw", "head_expressions/sayori.expressions.disheveled.voidascendedplayz/repo.json"],
