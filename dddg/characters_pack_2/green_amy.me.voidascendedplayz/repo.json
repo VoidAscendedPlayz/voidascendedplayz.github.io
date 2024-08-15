@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Green Amy"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/green_amy.me.voidascendedplayz/index.json",
+        "description": "[ Created in December 2023 ]",
+        "id": "green_amy.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Green Amy [ Full Release in August 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/green_amy.me.voidascendedplayz/5.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/green_amy.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
