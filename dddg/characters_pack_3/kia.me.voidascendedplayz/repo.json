@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Kia"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kia.me.voidascendedplayz/index.json",
+        "description": "[ Created in January 2024 ]",
+        "id": "kia.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Kia [ Full Release in August 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kia.me.voidascendedplayz/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kia.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
