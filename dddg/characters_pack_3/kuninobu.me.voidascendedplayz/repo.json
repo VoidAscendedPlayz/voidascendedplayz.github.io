@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Kuninobu"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/index.json",
+        "description": "[ Created in December 2023 ]",
+        "id": "kuninobu.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Kuninobu [ Full Release in August 2024 ]",
+        "preview": [
+            "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/4.png",
+            "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

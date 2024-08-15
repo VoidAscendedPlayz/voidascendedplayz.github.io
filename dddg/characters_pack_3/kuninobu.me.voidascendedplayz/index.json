@@ -1,0 +1,211 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "kuninobu.me.voidascendedplayz",
+    "packCredits": "",
+    "packName": "Kuninobu",
+    "authors": [],
+    "id": "ddlc.plus.kuninobu.me",
+    "name": "Kuninobu",
+    "chibi": "./chibi.png",
+    "styles": [
+        {
+            "name": "dark",
+            "label": "Dark"
+        }
+    ],
+    "heads": {
+        "straight": [
+    "./a.png",
+    "./a1.png",
+    "./a2.png",
+    "./a3.png",
+    "./a4.png",
+    "./a5.png",
+    "./b.png",
+    "./b1.png",
+    "./b2.png",
+    "./b3.png",
+    "./b4.png",
+    "./b5.png",
+    "./b6.png",
+    "./b7.png",
+    "./blep.png",
+    "./c.png",
+    "./c1.png",
+    "./c2.png",
+    "./c3.png",
+    "./c4.png",
+    "./c5.png",
+    "./c6.png",
+    "./c7.png",
+    "./c8.png",
+    "./c9.png",
+    "./c10.png",
+    "./c11.png",
+    "./c12.png",
+    "./c13.png",
+    "./c14.png",
+    "./c15.png",
+    "./c16.png",
+    "./c17.png",
+    "./c18.png",
+    "./c19.png",
+    "./c20.png",
+    "./c21.png",
+    "./c22.png",
+    "./c23.png",
+    "./c24.png",
+    "./c25.png",
+    "./c26.png",
+    "./c27.png",
+    "./c28.png",
+    "./c29.png",
+    "./c30.png",
+    "./c31.png",
+    "./c32.png",
+    "./c33.png",
+    "./c34.png",
+    "./c35.png",
+    "./d.png",
+    "./e.png",
+    "./e1.png",
+    "./e2.png",
+    "./e3.png",
+    "./e4.png",
+    "./e5.png",
+    "./e6.png",
+    "./e7.png",
+    "./ee.png",
+    "./f.png",
+    "./f1.png",
+    "./f2.png",
+    "./f3.png",
+    "./f4.png",
+    "./f5.png",
+    "./ff.png",
+    "./g.png",
+    "./gg.png",
+    "./h.png",
+    "./h1.png",
+    "./h2.png",
+    "./h3.png",
+    "./hh.png",
+    "./i.png",
+    "./j.png",
+    "./k.png",
+    "./l.png",
+    "./m.png",
+    "./mm.png",
+    "./mouth1.png",
+    "./mouth2.png",
+    "./mouth3.png",
+    "./mouth4.png",
+    "./n.png",
+    "./nn.png",
+    "./o.png",
+    "./o1.png",
+    "./o2.png",
+    "./o3.png",
+    "./o4.png",
+    "./o5.png",
+    "./o6.png",
+    "./o7.png",
+    "./o8.png",
+    "./o9.png",
+    "./oo.png",
+    "./p.png",
+    "./pp.png",
+    "./q.png",
+    "./r.png",
+    "./s.png",
+    "./s1.png",
+    "./s2.png",
+    "./s3.png",
+    "./s4.png",
+    "./s5.png",
+    "./s6.png",
+    "./t.png",
+    "./u.png",
+    "./u1.png",
+    "./u2.png",
+    "./u3.png",
+    "./u4.png",
+    "./u5.png",
+    "./u6.png",
+    "./u7.png",
+    "./v.png",
+    "./w.png",
+    "./wi.png",
+    "./wink.png",
+    "./x.png",
+    "./y.png",
+    "./z.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },        
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },        
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./7.png"
+        },
+        {
+            "name": "Pose 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./8.png"
+        }
+    ]
+}
