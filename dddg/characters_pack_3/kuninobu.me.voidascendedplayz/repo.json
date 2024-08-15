@@ -6,7 +6,7 @@
         "characters": [
             "Kuninobu"
         ],
-        "dddg2Path": "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/index.json",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/index.json",
         "description": "[ Created in December 2023 ]",
         "id": "kuninobu.me.voidascendedplayz",
         "kind": [
@@ -15,8 +15,8 @@
         ],
         "name": "Kuninobu [ Full Release in August 2024 ]",
         "preview": [
-            "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/4.png",
-            "http://localhost:4716/repo/kuninobu.me.voidascendedplayz/a.png"
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/4.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kuninobu.me.voidascendedplayz/a.png"
         ],
         "searchWords": []
     },
