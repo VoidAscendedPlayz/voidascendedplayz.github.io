@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Melody"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/melody_exclusive.me.voidascendedplayz/index.json",
+        "description": "[ No Description Here. ]",
+        "id": "melody_exclusive.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Melody [ From - Doki Doki Undercurrents ] [ Exclusive of Birthday Suit ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/melody_exclusive.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
