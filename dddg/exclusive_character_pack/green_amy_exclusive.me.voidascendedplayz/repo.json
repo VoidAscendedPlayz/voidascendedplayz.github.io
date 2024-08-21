@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Green Amy"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/green_amy_exclusive.me.voidascendedplayz/index.json",
+        "description": "[ No Description Here. ]]",
+        "id": "green_amy_exclusive.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Green Amy [ Exclusive of Birthday Suit ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/green_amy_exclusive.me.voidascendedplayz/5.png",
+            "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/green_amy_exclusive.me.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
