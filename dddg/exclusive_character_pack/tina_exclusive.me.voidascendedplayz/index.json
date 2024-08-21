@@ -297,25 +297,13 @@
                                                 "./2r.png"
                                             ],
                                             [
-                                                "./2rcig.png"
-                                            ],
-                                            [
-                                                "./2rcig2.png"
-                                            ],
-                                            [
                                                 "./3r.png"
                                             ],
                                             [
                                                 "./4r.png"
                                             ],
                                             [
-                                                "./4ralt.png"
-                                            ],
-                                            [
-                                                "./4rcig.png"
-                                            ],
-                                            [
-                                                "./4rcig2.png"
+                                                "./5r.png"
                                             ]
                                         ]
                                     }
@@ -469,16 +457,10 @@
                                         ],
                                         "Variant": [
                                             [
-                                                "./4.png"
+                                                "./pose1.png"
                                             ],
                                             [
-                                                "./4alt.png"
-                                            ],
-                                            [
-                                                "./4cig.png"
-                                            ],
-                                            [
-                                                "./4cig2.png"
+                                                "./pose2.png"
                                             ]
                                         ]
                                     }
