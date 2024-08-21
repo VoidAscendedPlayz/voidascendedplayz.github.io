@@ -6,7 +6,7 @@
         "characters": [
             "Tina"
         ],
-        "dddg2Path": "http://localhost:4716/repo/tina_exclusive.me.voidascendedplayz/index.json",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/tina_exclusive.me.voidascendedplayz/index.json",
         "description": "[ Exclusive by VoidAscendedPlayz ]",
         "id": "tina_exclusive.me.voidascendedplayz",
         "kind": [
@@ -14,7 +14,7 @@
         ],
         "name": "Tina [ Exclusive of Birthday Suit ]",
         "preview": [
-            "http://localhost:4716/repo/tina_exclusive.me.voidascendedplayz/preview.png"
+            "https://voidascendedplayz.github.io/dddg/exclusive_character_pack/tina_exclusive.me.voidascendedplayz/preview.png"
         ],
         "searchWords": []
     },
