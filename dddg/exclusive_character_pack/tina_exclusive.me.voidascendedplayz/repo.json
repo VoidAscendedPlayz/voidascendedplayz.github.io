@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "JohnRDVSMarston"
+        ],
+        "characters": [
+            "Tina"
+        ],
+        "dddg2Path": "http://localhost:4716/repo/tina_exclusive.me.voidascendedplayz/index.json",
+        "description": "[ Exclusive by VoidAscendedPlayz ]",
+        "id": "tina_exclusive.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Tina [ Exclusive of Birthday Suit ]",
+        "preview": [
+            "http://localhost:4716/repo/tina_exclusive.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
