@@ -75,6 +75,38 @@
                 "straight"
             ],
             "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./7.png"
+        },
+        {
+            "name": "Pose 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./8.png"
         }
     ]
 }
