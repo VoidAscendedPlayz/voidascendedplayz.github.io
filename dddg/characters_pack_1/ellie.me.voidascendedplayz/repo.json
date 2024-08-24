@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "ellie.me.voidascendedplayz",
+        "name": "Ellie",
+        "characters": [
+            "Ellie"
+        ],
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/ellie.me.voidascendedplayz/index.json",
+        "description": "[ Created in December 2023 ] [ Hotfix Update in August 2024 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/ellie.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/ellie.me.voidascendedplayz/outfit2/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
