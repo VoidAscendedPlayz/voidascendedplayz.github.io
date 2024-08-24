@@ -1,138 +1,110 @@
 {
-    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
-    "version": "2.0",
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
     "packId": "vaia.me.voidascendedplayz",
-    "folder": "./",
-    "characters": [
+    "packCredits": "",
+    "packName": "Vaia",
+    "authors": [],
+    "id": "ddlc.plus.vaia.me",
+    "name": "Vaia",
+    "chibi": "./chibi.png",
+    "styles": [
         {
-            "id": "vaia.me",
-            "label": "Vaia",
-            "chibi": "./chibi.png",
-            "heads": {
-                "default": [
-                    [
-                        "./a.png"
-                    ],
-                    [
-                        "./b.png"
-                    ],
-                    [
-                        "./c.png"
-                    ],
-                    [
-                        "./d.png"
-                    ],
-                    [
-                        "./e.png"
-                    ],
-                    [
-                        "./f.png"
-                    ],
-                    [
-                        "./g.png"
-                    ],
-                    [
-                        "./h.png"
-                    ],
-                    [
-                        "./i.png"
-                    ],
-                    [
-                        "./j.png"
-                    ],
-                    [
-                        "./k.png"
-                    ],
-                    [
-                        "./l.png"
-                    ],
-                    [
-                        "./m.png"
-                    ],
-                    [
-                        "./n.png"
-                    ],
-                    [
-                        "./o.png"
-                    ],
-                    [
-                        "./p.png"
-                    ],
-                    [
-                        "./q.png"
-                    ],
-                    [
-                        "./r.png"
-                    ],
-                    [
-                        "./s.png"
-                    ],
-                    [
-                        "./t.png"
-                    ],
-                    [
-                        "./u.png"
-                    ],
-                    [
-                        "./v.png"
-                    ],
-                    [
-                        "./w.png"
-                    ],
-                    [
-                        "./x.png"
-                    ]
-                ]
-            },
-            "styleGroups": [
-                {
-                    "id": "shirt",
-                    "styles": [
-                        {
-                            "poses": [
-                                {
-                                    "compatibleHeads": [
-                                        "default"
-                                    ],
-                                    "id": "default",
-                                    "renderCommands": [
-                                        {
-                                            "type": "pose-part",
-                                            "part": "Left"
-                                        },
-                                        {
-                                            "type": "pose-part",
-                                            "part": "Right"
-                                        },
-                                        {
-                                            "type": "head"
-                                        }
-                                    ],
-                                    "positions": {
-                                        "Left": [
-                                            [
-                                                "./1l.png"
-                                            ],
-                                            [
-                                                "./2l.png"
-                                            ]
-                                        ],
-                                        "Right": [
-                                            [
-                                                "./1r.png"
-                                            ],
-                                            [
-                                                "./2r.png"
-                                            ]
-                                        ]
-                                    }
-                                } 
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "name": "dark",
+            "label": "Dark"
         }
     ],
-    "chibi": "./chibi.png"
+    "heads": {
+        "straight": [
+            "./a.png",
+            "./b.png",
+            "./c.png",
+            "./d.png",
+            "./e.png",
+            "./f.png",
+            "./g.png",
+            "./h.png",
+            "./i.png",
+            "./j.png",
+            "./k.png",
+            "./l.png",
+            "./m.png",
+            "./n.png",
+            "./o.png",
+            "./p.png",
+            "./q.png",
+            "./r.png",
+            "./s.png",
+            "./t.png",
+            "./u.png",
+            "./v.png",
+            "./w.png",
+            "./x.png"
+        ]
+    },
+    "poses": [
+        {
+            "name": "Pose 1",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        },
+        {
+            "name": "Pose 2",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./2.png"
+        },        
+        {
+            "name": "Pose 3",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./3.png"
+        },        
+        {
+            "name": "Pose 4",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./4.png"
+        },
+        {
+            "name": "Pose 5",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./5.png"
+        },
+        {
+            "name": "Pose 6",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./6.png"
+        },
+        {
+            "name": "Pose 7",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./7.png"
+        },
+        {
+            "name": "Pose 8",
+            "style": "dark",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./8.png"
+        }
+    ]
 }
