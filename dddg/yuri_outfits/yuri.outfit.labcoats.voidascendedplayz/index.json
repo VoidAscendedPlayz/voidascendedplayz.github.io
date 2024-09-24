@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.labcoats.voidascendedplayz",
+    "styles": [
+        {
+            "name": "labcoats_voidascendedplayz",
+            "label": "labcoats_labels"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-labcoats_voidascendedplayz",
+            "style": "labcoats_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        },
+        {
+            "name": "hairplay-labcoats_voidascendedplayz",
+            "style": "labcoats_voidascendedplayz",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
