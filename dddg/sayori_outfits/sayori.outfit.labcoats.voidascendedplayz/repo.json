@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "aliri_enwa"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.labcoats.voidascendedplayz/index.json",
+        "description": "[ Created in September 2024 ]",
+        "id": "sayori.outfit.labcoats.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Lab Coats Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.labcoats.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.labcoats.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
