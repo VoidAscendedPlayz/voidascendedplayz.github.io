@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "LecraftX9"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prom.voidascendedplayz/index.json",
+        "description": "[ Created in September 2024 ]",
+        "id": "monika.outfit.prom.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Prom Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prom.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.prom.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
