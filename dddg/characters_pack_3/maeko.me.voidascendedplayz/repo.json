@@ -1,11 +1,11 @@
 {
     "pack": {
         "id": "maeko.me.voidascendedplayz",
-        "name": "Maeko [Free Early Access]",
+        "name": "Maeko",
         "characters": [
             "Maeko"
         ],
-        "authors": ["VoidAscendedPlayz"],
+        "authors": ["Iansuller_blogger", "AjTheFunky", "Certified Cabbage", "StormBlaze", "u/Cylent-Nite", "Childish-N"],
         "kind": [
             "Characters"
         ],
