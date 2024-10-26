@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "ZachmanAwesomeness"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.butterfly.voidascendedplayz/index.json",
+        "description": "[ Created in 2024 ]",
+        "id": "sayori.outfit.butterfly.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Butterfly Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.butterfly.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.butterfly.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
