@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "LecraftX9", "Commission by Retronika"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.autumncasual.voidascendedplayz/index.json",
+        "description": "[ Created in October 2024 ]",
+        "id": "monika.outfit.autumncasual.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Autumn Casual",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.autumncasual.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.autumncasual.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
