@@ -1,0 +1,59 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.skaterdeluxe.voidascendedplayz",
+    "styles": [
+        {
+            "name": "skaterdeluxe_voidascendedplayz",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-skaterdeluxe_voidascendedplayz",
+            "style": "skaterdeluxe_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./3l.png",
+                "./4l.png",
+                "./5l.png",
+                "./6l.png",
+                "./7l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./3r.png",
+                "./4r.png",
+                "./5r.png",
+                "./6r.png",
+                "./7r.png"
+            ]
+        },
+        {
+            "name": "leaned-skaterdeluxe_voidascendedplayz",
+            "style": "skaterdeluxe_voidascendedplayz",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "headAnchor": [
+                18,
+                22
+            ],
+            "static": "./8.png"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "ZachmanAwesomeness"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.skaterdeluxe.voidascendedplayz/index.json",
+        "description": "[ Created in October 2024 ]",
+        "id": "natsuki.outfit.skaterdeluxe.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Skater Deluxe",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.skaterdeluxe.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.skaterdeluxe.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
