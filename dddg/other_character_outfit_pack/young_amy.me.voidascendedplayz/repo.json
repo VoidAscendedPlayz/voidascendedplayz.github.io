@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "AjTheFunky", "SYwaves#7903 (Discord)", "ThoMisterY#4880 (Discord)"
+        ],
+        "characters": [
+            "Young Green Amy"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_character_outfit_pack/young_amy.me.voidascendedplayz/index.json",
+        "description": "[ Created in October 2024 ]",
+        "id": "young_amy.me.voidascendedplayz",
+        "kind": [
+            "Characters",
+            "Sprites"
+        ],
+        "name": "Young Green Amy",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/other_character_outfit_pack/young_amy.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
