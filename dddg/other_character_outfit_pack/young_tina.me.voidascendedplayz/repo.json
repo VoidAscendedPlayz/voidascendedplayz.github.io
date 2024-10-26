@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "AjTheFunky", "JohnRDVSMarston#5275 (Discord)"
+        ],
+        "characters": [
+            "Young Tina"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/other_character_outfit_pack/index.json",
+        "description": "[ Created in October 2024 ]",
+        "id": "young_tina.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Young Tina",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/other_character_outfit_pack/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
