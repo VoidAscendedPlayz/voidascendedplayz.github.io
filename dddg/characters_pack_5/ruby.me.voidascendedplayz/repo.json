@@ -1,7 +1,7 @@
 {
   "pack": {
-    "authors": ["VoidAscendedplayz"],
-    "characters": ["Ruby [Public Released!]"],
+    "authors": ["Branching Paths Team", "Kyoryii"],
+    "characters": ["Ruby"],
     "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/index.json",
     "description": "[ Created in February 2024 ]",
     "id": "ruby.me.voidascendedplayz",
@@ -11,9 +11,7 @@
       "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/1.png",
       "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/a.png"
     ],
-    "searchWords": [],
-    "repoUrl": "https://voidascendedplayz.github.io/dddg/characters_pack_5/ruby.me.voidascendedplayz/repo.json",
-    "source": "https://www.reddit.com/user/Opening-Hyena4180"
+    "searchWords": []
   },
   "authors": {}
 }
