@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "LecraftX9"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.christmas.voidascendedplayz/index.json",
+        "description": "[ Created in December 2024 ]",
+        "id": "sayori.outfit.christmas.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Christmas Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.christmas.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.christmas.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Unknown Author"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.irishdance.voidascendedplayz/index.json",
+        "description": "[ Created in December 2024 ]",
+        "id": "sayori.outfit.irishdance.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Irish Dance Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.irishdance.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.irishdance.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
