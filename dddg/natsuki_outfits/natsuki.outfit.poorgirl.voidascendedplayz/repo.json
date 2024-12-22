@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Storm Blaze"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.poorgirl.voidascendedplayz/index.json",
+        "description": "[ Created in December 2024 ]",
+        "id": "natsuki.outfit.poorgirl.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Poor Girl Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.poorgirl.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.poorgirl.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
