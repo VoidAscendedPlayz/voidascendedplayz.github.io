@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Itz7Am7", "DDIRUC Dev"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.christmas.voidascendedplayz/index.json",
+        "description": "[ Created in December 2024 ]",
+        "id": "monika.outfit.christmas.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Christmas Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.christmas.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.christmas.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

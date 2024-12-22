@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Lecraftx9", "Commission by komicodex"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.holidaycasual.voidascendedplayz/index.json",
+        "description": "[ Created in December 2024 ]",
+        "id": "monika.outfit.holidaycasual.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Holiday Casual Outfit",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.holidaycasual.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.holidaycasual.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
