@@ -257,6 +257,7 @@
     ["sfw", "other_character_outfit_pack/young_tina.me.voidascendedplayz/repo.json"]
   ],
     "Poses Content": [
+    ["sfw", "poses_content/monika.poses.armcrossed.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.nonsentient.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.personalityswap.voidascendedplayz/repo.json"],
     ["sfw", "poses_content/monika.poses.reverse.voidascendedplayz/repo.json"],
