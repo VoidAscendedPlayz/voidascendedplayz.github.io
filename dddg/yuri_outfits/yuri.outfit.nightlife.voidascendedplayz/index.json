@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.nightlife.voidascendedplayz",
+    "styles": [
+        {
+            "name": "nightlife_voidascendedplayz",
+            "label": "Nightlife"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-nightlife_voidascendedplayz",
+            "style": "nightlife_voidascendedplayz",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ]
+        }
+    ]
+}
