@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "LecraftX9"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.nightlife.voidascendedplayz/index.json",
+        "description": "[ Created in January 2025 ]",
+        "id": "sayori.outfit.nightlife.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Nightlife",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.nightlife.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.nightlife.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
