@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "LecraftX9"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.resolution.voidascendedplayz/index.json",
+        "description": "[ Created in January 2025 ]",
+        "id": "natsuki.outfit.resolution.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Resolution",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.resolution.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.resolution.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
