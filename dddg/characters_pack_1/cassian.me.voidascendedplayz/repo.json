@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "Unknown Authors"
+        ],
+        "characters": [
+            "Cassian"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/cassian.me.voidascendedplayz/index.json",
+        "description": "[ Created in January 2025 ]",
+        "id": "cassian.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Cassian",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/cassian.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
