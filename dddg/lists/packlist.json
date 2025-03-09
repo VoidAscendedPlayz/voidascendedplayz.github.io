@@ -149,6 +149,8 @@
     ["sfw", "monika_outfits/monika.outfit.sailor.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.shrugmeme.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.summerdress.voidascendedplayz/repo.json"],
+    ["sfw", "monika_outfits/monika.outfit.tapdancer.voidascendedplayz/repo.json"],
+    ["sfw", "monika_outfits/monika.outfit.tapdanceralt.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.thermaltowels.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/monika.outfit.winter.voidascendedplayz/repo.json"],
     ["sfw", "monika_outfits/styles.monika.drbug.voidascendedplayz/repo.json"]
@@ -173,6 +175,7 @@
     ["sfw", "yuri_outfits/yuri.outfit.resolution.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.sailor.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.swimsuitalt.voidascendedplayz/repo.json"],
+    ["sfw", "yuri_outfitsyuri.outfit.tapdancer.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.thermaltowels.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.whitedress.voidascendedplayz/repo.json"],
     ["sfw", "yuri_outfits/yuri.outfit.winter.voidascendedplayz/repo.json"],
@@ -209,6 +212,7 @@
     ["sfw", "sayori_outfits/sayori.outfit.sailor.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.thermaltowels.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/sayori.outfit.tapdancer.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.winter.voidascendedplayz/repo.json"]
   ],
     "Natsuki's Outfit": [
@@ -243,6 +247,7 @@
     ["sfw", "natsuki_outfits/natsuki.outfit.schoolwithbigchest.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.skaterdeluxe.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.swimsuit.voidascendedplayz/repo.json"],
+    ["sfw", "natsuki_outfits/natsuki.outfit.tapdancer.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.thermaltowels.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.winter.voidascendedplayz/repo.json"],
     ["sfw", "natsuki_outfits/natsuki.outfit.winter_lecraftx9.voidascendedplayz/repo.json"]
