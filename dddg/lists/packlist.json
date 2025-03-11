@@ -213,7 +213,9 @@
     ["sfw", "sayori_outfits/sayori.outfit.swimsuit.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.thermaltowels.voidascendedplayz/repo.json"],
     ["sfw", "sayori_outfits/sayori.outfit.tapdancer.voidascendedplayz/repo.json"],
-    ["sfw", "sayori_outfits/sayori.outfit.winter.voidascendedplayz/repo.json"]
+    ["sfw", "sayori_outfits/sayori.outfit.winter.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/styles.sayori.undead.voidascendedplayz/repo.json"],
+    ["sfw", "sayori_outfits/styles.sayori.undeadcasual.voidascendedplayz/repo.json"]
   ],
     "Natsuki's Outfit": [
     ["sfw", "natsuki_outfits/natsuki.outfit.baka.voidascendedplayz/repo.json"],
