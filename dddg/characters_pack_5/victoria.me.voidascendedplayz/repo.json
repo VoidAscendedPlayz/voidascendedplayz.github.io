@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "FinnTDK", "fabuwhatsoeeverfox"
+        ],
+        "characters": [
+            "Victoria"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/victoria.me.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "victoria.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Victoria [Beta Version]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/victoria.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
