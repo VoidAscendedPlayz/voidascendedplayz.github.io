@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Dr_Aloe"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blackshirt.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "sayori.outfit.blackshirt.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Black Shirt",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blackshirt.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.blackshirt.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
