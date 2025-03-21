@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "hanami.me.voidascendedplayz",
+        "name": "Hanami",
+        "characters": [
+            "Hanami"
+        ],
+        "authors": [
+            "Angon623"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/hanami.me.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/hanami.me.voidascendedplayz/pose1/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/hanami.me.voidascendedplayz/pose1/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
