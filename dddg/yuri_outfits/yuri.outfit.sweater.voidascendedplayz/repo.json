@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Dr_Aloe"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sweater.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "yuri.outfit.sweater.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Sweater",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sweater.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/yuri_outfits/yuri.outfit.sweater.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
