@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "vanessa.me.voidascendedplayz",
+        "name": "Vanessa",
+        "characters": [
+            "Vanessa"
+        ],
+        "authors": [
+            "Lecraftx9"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/vanessa.me.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/vanessa.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/vanessa.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
