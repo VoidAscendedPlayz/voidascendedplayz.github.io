@@ -2,14 +2,14 @@
     "pack": {
         "authors": ["Codex", "Lecraft"],
         "characters": ["MC"],
-        "dddg2Path": "http://localhost:4716/repo/mc.outfit.prom.voidascendedplayz/index.json",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.prom.voidascendedplayz/index.json",
         "description": "[ Created in March 2025 ]",
         "id": "mc.outfit.prom.voidascendedplayz",
         "kind": ["Styles"],
         "name": "Prom Outfit",
         "preview": [
-            "http://localhost:4716/repo/mc.outfit.prom.voidascendedplayz/1l.png",
-            "http://localhost:4716/repo/mc.outfit.prom.voidascendedplayz/1r.png"
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.prom.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/mc_outfits/mc.outfit.prom.voidascendedplayz/1r.png"
         ],
         "searchWords": []
     },
