@@ -1,0 +1,51 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.rapbattle.voidascendedplayz",
+    "styles": [
+        {
+            "name": "natsuki_rapbattle",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "natsuki_rapbattle",
+            "style": "natsuki_rapbattle",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1l.png",
+                "./2l.png",
+                "./krapl.png"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png",
+                "./krapr.png"
+            ]
+        },
+        {
+            "name": "leaned-natsuki_rapbattle",
+            "style": "natsuki_rapbattle",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "headAnchor": [
+                18,
+                22
+            ],
+            "static": "./3.png"
+        }
+    ]
+}

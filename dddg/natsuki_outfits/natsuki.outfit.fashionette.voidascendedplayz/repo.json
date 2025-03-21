@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "ZachmanAwesomeness"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.fashionette.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "natsuki.outfit.fashionette.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Fashionette [Pre-Release]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.fashionette.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.fashionette.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

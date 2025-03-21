@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "DDLC: I'm Alive"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.imalive_hoodie.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "natsuki.outfit.imalive_hoodie.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Hoodie - I'm Alive Style",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.imalive_hoodie.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.imalive_hoodie.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

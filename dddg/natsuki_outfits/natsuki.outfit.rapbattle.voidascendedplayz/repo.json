@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "ZachmanAwesomeness"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.rapbattle.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "natsuki.outfit.rapbattle.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Rap Battle Outfit [Beta Version]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.rapbattle.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.rapbattle.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
