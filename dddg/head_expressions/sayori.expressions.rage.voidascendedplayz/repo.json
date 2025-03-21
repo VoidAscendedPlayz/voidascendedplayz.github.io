@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "LeoDeCraprio"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.rage.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "sayori.expressions.rage.voidascendedplayz",
+        "kind": [
+            "Expressions"
+        ],
+        "name": "Rage Expressions",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/head_expressions/sayori.expressions.rage.voidascendedplayz/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
