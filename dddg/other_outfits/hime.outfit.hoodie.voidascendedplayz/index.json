@@ -1,0 +1,61 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "hime.outfit.hoodie.voidascendedplayz",
+    "version": "2.0",
+    "dependencies": [],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "hime.blackrabbitartworks.edave64:ddlc.oc.hime",
+            "styleGroups": [
+                {
+                    "id": "dress",
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        }
+                                    ],
+                                    "compatibleHeads": [
+                                        "hime.blackrabbitartworks.edave64:default"
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "./1.png"
+                                            ],
+                                            [
+                                                "./2.png"
+                                            ],
+                                            [
+                                                "./3.png"
+                                            ],
+                                            [
+                                                "./4.png"
+                                            ],
+                                            [
+                                                "./5.png"
+                                            ],
+                                            [
+                                                "./6.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
