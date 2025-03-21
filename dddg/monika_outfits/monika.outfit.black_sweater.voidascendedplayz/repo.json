@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "P_Xeno", "LecraftX9"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.black_sweater.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "monika.outfit.black_sweater.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Black Sweater",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.black_sweater.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.black_sweater.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
