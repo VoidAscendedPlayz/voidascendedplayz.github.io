@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "IanSullerBlogger"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.special.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "monika.poses.special.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Special Pose",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.special.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.special.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

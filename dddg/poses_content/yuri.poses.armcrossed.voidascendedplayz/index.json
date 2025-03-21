@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "yuri.poses.armcrossed.voidascendedplayz",
+    "id": "ddlc.yuri",
+    "heads": {},
+    "poses": [
+        {
+            "name": "arm_crossed",
+            "style": "uniform",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "static": "./1.png"
+        }
+    ]
+}

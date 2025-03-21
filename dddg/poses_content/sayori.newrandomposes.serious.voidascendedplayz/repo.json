@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "VoidAscendedPlayz"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/sayori.newrandomposes.serious.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "sayori.newrandomposes.serious.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Serious Pose [New Random Pose Style]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.newrandomposes.serious.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.newrandomposes.serious.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

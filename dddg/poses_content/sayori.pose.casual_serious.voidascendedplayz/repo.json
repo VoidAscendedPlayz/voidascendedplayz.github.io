@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Heli Pro Gamer"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.casual_serious.voidascendedplayz/index.json",
+        "description": "[ Created in October 2024 ]",
+        "id": "sayori.pose.casual_serious.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Casual Serious Pose",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.casual_serious.voidascendedplayz/casual_1l.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/sayori.pose.casual_serious.voidascendedplayz/casual_1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

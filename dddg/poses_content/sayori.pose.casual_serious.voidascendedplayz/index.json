@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "sayori.pose.casual_serious.voidascendedplayz",
+    "id": "ddlc.sayori",
+    "packCredits": "",
+    "heads": {
+
+    },
+    "poses": [
+        {
+            "name": "normal_casual",
+            "style": "casual",
+            "compatibleHeads": [],
+            "left": [
+                "./casual_1l.png",
+                "./casual_2l.png"
+            ],
+            "right": [
+                "./casual_1r.png",
+                "./casual_2r.png"
+            ]
+        }
+    ]
+}

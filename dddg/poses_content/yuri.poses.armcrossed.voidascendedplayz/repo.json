@@ -1,0 +1,22 @@
+{
+    "pack": {
+        "authors": [
+            "???"
+        ],
+        "characters": [
+            "Yuri"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.armcrossed.voidascendedplayz/index.json",
+        "description": "[ Created in March 2025 ]",
+        "id": "yuri.poses.armcrossed.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Arm Crossed",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/yuri.poses.armcrossed.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
