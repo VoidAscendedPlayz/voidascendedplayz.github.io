@@ -1,0 +1,56 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "school_roof_bgs.kimagure_after.prideofthenandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [],
+	"backgrounds": [
+		{
+			"id": "background_1",
+			"variants": [
+				[
+					"./roof.png"
+				],
+				[
+					"./roof_aft.png"
+				],
+				[
+					"./roof_aft_cloudy.png"
+				],
+				[
+					"./roof_aft_rainy.png"
+				],
+				[
+					"./roof_aft_stormy.png"
+				],
+				[
+					"./roof_cloudy.png"
+				],
+				[
+					"./roof_night.png"
+				],
+				[
+					"./roof_night_cloudy.png"
+				],
+				[
+					"./roof_night_rainy.png"
+				],
+				[
+					"./roof_night_stormy.png"
+				],
+				[
+					"./roof_rainy.png"
+				],
+				[
+					"./roof_stormy.png"
+				],
+				[
+					"./roofcorner.png"
+				],
+				[
+					"./roofcorner_fixture.png"
+				]
+			],
+			"label": "School Roof"
+		}
+	]
+}

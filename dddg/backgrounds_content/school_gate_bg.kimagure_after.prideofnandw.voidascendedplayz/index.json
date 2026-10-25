@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "school_gate_bg.kimagure_after.prideofnandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [],
+	"backgrounds": [
+		{
+			"id": "background_1",
+			"variants": [
+				[
+					"./gate.png"
+				],
+				[
+					"./gate_aft.png"
+				],
+				[
+					"./gate_aft_cloudy.png"
+				],
+				[
+					"./gate_aft_rainy.png"
+				],
+				[
+					"./gate_aft_stormy.png"
+				],
+				[
+					"./gate_closed.png"
+				],
+				[
+					"./gate_closed_cloudy.png"
+				],
+				[
+					"./gate_closed_rainy.png"
+				],
+				[
+					"./gate_closed_stormy.png"
+				],
+				[
+					"./gate_cloudy.png"
+				],
+				[
+					"./gate_night.png"
+				],
+				[
+					"./gate_night_cloudy.png"
+				],
+				[
+					"./gate_night_rainy.png"
+				],
+				[
+					"./gate_night_stormy.png"
+				],
+				[
+					"./gate_rainy.png"
+				],
+				[
+					"./gate_stormy.png"
+				]
+			],
+			"label": "School gate"
+		}
+	]
+}
