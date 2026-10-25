@@ -1,0 +1,27 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"zachmanawesomeness": {}
+	},
+	"pack": {
+		"authors": [
+			"zachmanawesomeness",
+			"Packer by prideofn.w. (Discord)",
+			"Publisher by VoidAscendedPlayz"
+		],
+		"characters": [
+			"Natsuki"
+		],
+		"description": "Originally made by zachmanawsomeness, I did some slight alterations to fix some errors some of the parts had before completing the pack [ Created in October 2026 for desc by VoidAscendedPlayz ]",
+		"id": "natsuki_turned_away_expressioned_expanded.zachmanawesomeness.prideofnandw.voidascendedplayz",
+		"name": "Natsuki turned away expression expanded",
+		"kind": [
+			"Expressions"
+		],
+		"preview": [
+			"https://voidascendedplayz.github.io/dddg/head_expressions/natsuki_turned_away_expressioned_expanded.zachmanawesomeness.prideofnandw.voidascendedplayz/openeyeMouthopen1.png"
+		],
+		"source": "https://discord.com/channels/339272843327963136/373669252554686464/968458382979760140",
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/head_expressions/natsuki_turned_away_expressioned_expanded.zachmanawesomeness.prideofnandw.voidascendedplayz/index.json"
+	}
+}

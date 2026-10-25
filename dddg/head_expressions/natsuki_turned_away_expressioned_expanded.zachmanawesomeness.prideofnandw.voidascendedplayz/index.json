@@ -1,0 +1,43 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "natsuki_turned_away_expressioned_expanded.zachmanawesomeness.prideofnandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.base.natsuki"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.base.natsuki:ddlc.natsuki",
+			"heads": {
+				"dddg.buildin.base.natsuki:turnedAway": {
+					"variants": [
+						[
+							"./ClosedeyeMouthopen1.png"
+						],
+						[
+							"./CryeyeMouthopen1.png"
+						],
+						[
+							"./CryeyeMouthopen2.png"
+						],
+						[
+							"./closedeyemouthsmilebrowdown.png"
+						],
+						[
+							"./halfeyemouthfrownbrowdown.png"
+						],
+						[
+							"./halfeyemouthfrownbrowup.png"
+						],
+						[
+							"./halfeyemouthsmilebrowdown.png"
+						],
+						[
+							"./openeyeMouthopen1.png"
+						]
+					]
+				}
+			}
+		}
+	]
+}
