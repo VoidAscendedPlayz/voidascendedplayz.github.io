@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "cylent-nite"
+        ],
+        "characters": [
+            "Dadsuki2"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/dadsuki.cylentnite.voidascendedplayz/index.json",
+        "description": "[ Created in February 2026 ]",
+        "id": "dadsuki.cylentnite.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Dadsuki (Cylent-nite Version)",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/dadsuki.cylentnite.voidascendedplayz/preview.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {}
+}

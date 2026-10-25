@@ -1,0 +1,220 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "dadyori.stormblaze76.voidascendedplayz",
+	"version": "2.0",
+	"folder": "./",
+	"characters": [
+		{
+			"id": "ddlc.oc.dadyori2",
+			"chibi": "./chibi.png",
+			"label": "Dadyori",
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"components": {},
+							"poses": [
+								{
+									"id": "normal",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Noses"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										},
+										{
+											"type": "pose-part",
+											"part": "Poses"
+										}
+									],
+									"positions": {
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Noses": [
+											[
+												"./n1.png"
+											],
+											[
+												"./n2.png"
+											],
+											[
+												"./n3.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./e1.png"
+											],
+											[
+												"./e2.png"
+											],
+											[
+												"./e3.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./b1.png"
+											],
+											[
+												"./b2.png"
+											],
+											[
+												"./b3.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./m1.png"
+											],
+											[
+												"./m2.png"
+											],
+											[
+												"./m3.png"
+											],
+											[
+												"./m4.png"
+											],
+											[
+												"./m5.png"
+											],
+											[
+												"./m6.png"
+											],
+											[
+												"./m7.png"
+											]
+										],
+										"Poses": [
+											[
+												"./turned.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "normal2",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Noses"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										},
+										{
+											"type": "pose-part",
+											"part": "Poses"
+										}
+									],
+									"positions": {
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Noses": [
+											[
+												"./n1.png"
+											],
+											[
+												"./n2.png"
+											],
+											[
+												"./n3.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./e1.png"
+											],
+											[
+												"./e2.png"
+											],
+											[
+												"./e3.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./b1.png"
+											],
+											[
+												"./b2.png"
+											],
+											[
+												"./b3.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./m1.png"
+											],
+											[
+												"./m2.png"
+											],
+											[
+												"./m3.png"
+											],
+											[
+												"./m4.png"
+											],
+											[
+												"./m5.png"
+											],
+											[
+												"./m6.png"
+											],
+											[
+												"./m7.png"
+											]
+										],
+										"Poses": [
+											[
+												"./casual/turned.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"dependencies": []
+}

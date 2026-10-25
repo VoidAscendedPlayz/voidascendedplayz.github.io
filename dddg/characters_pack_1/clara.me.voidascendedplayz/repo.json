@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "clara.me.voidascendedplayz",
+        "name": "Clara",
+        "characters": [
+            "Clara"
+        ],
+        "authors": [
+            "Lecraftx9", "Commission by strigonia"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_1/clara.me.voidascendedplayz/index.json",
+        "description": "[ Created in February 2026 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/clara.me.voidascendedplayz/pose1/1.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_1/clara.me.voidascendedplayz/pose1/a.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
