@@ -1,0 +1,25 @@
+{
+	"pack": {
+		"authors": [
+			"u/-JustDestrier-",
+			"miHoyo/Hoyoverse"
+		],
+		"characters": [
+			"Kohime"
+		],
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kohime.me.voidascendedplayz/index.json",
+		"description": "[ Created in July 2026 ]",
+		"id": "kohime.me.voidascendedplayz",
+		"kind": [
+			"Characters"
+		],
+		"name": "Kohime",
+		"preview": [
+			"https://voidascendedplayz.github.io/dddg/characters_pack_3/kohime.me.voidascendedplayz/preview.png"
+		],
+		"searchWords": [],
+		"source": ""
+	},
+	"authors": {},
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json"
+}

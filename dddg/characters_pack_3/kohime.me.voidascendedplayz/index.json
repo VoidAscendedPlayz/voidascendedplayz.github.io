@@ -1,0 +1,650 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "kohime.me.voidascendedplayz",
+	"version": "2.0",
+	"folder": "./",
+	"characters": [
+		{
+			"id": "ddlc.oc.kohime",
+			"chibi": "./chibi.png",
+			"label": "Kohime",
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"components": {},
+							"poses": [
+								{
+									"id": "normal",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Nose"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Tears"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										},
+										{
+											"type": "pose-part",
+											"part": "Left"
+										},
+										{
+											"type": "pose-part",
+											"part": "Right"
+										}
+									],
+									"positions": {
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Nose": [
+											[
+												"./turned/nose_a.png"
+											],
+											[
+												"./turned/nose_b.png"
+											],
+											[
+												"./turned/nose_c.png"
+											],
+											[
+												"./turned/nose_d.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./turned/b1a.png"
+											],
+											[
+												"./turned/b1b.png"
+											],
+											[
+												"./turned/b1c.png"
+											],
+											[
+												"./turned/b1d.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./turned/e1a.png"
+											],
+											[
+												"./turned/e1b.png"
+											],
+											[
+												"./turned/e1c.png"
+											],
+											[
+												"./turned/e1d.png"
+											],
+											[
+												"./turned/e1e.png"
+											],
+											[
+												"./turned/e1f.png"
+											],
+											[
+												"./turned/e2a.png"
+											],
+											[
+												"./turned/e2b.png"
+											],
+											[
+												"./turned/e2c.png"
+											],
+											[
+												"./turned/e3a.png"
+											],
+											[
+												"./turned/e4a.png"
+											],
+											[
+												"./turned/e4b.png"
+											],
+											[
+												"./turned/e4c.png"
+											],
+											[
+												"./turned/e4d.png"
+											],
+											[
+												"./turned/e4e.png"
+											],
+											[
+												"./turned/e4f.png"
+											],
+											[
+												"./turned/e4g.png"
+											]
+										],
+										"Tears": [
+											[
+												"./turned/t0.png"
+											],
+											[
+												"./turned/t1.png"
+											],
+											[
+												"./turned/t2.png"
+											],
+											[
+												"./turned/t3.png"
+											],
+											[
+												"./turned/t4.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./turned/ma.png"
+											],
+											[
+												"./turned/mb.png"
+											],
+											[
+												"./turned/mc.png"
+											],
+											[
+												"./turned/md.png"
+											],
+											[
+												"./turned/me.png"
+											],
+											[
+												"./turned/mf.png"
+											],
+											[
+												"./turned/mg.png"
+											],
+											[
+												"./turned/mh.png"
+											],
+											[
+												"./turned/mi.png"
+											],
+											[
+												"./turned/mj.png"
+											],
+											[
+												"./turned/mk.png"
+											],
+											[
+												"./turned/ml.png"
+											],
+											[
+												"./turned/mm.png"
+											],
+											[
+												"./turned/mn.png"
+											],
+											[
+												"./turned/mo.png"
+											],
+											[
+												"./turned/mp.png"
+											],
+											[
+												"./turned/mq.png"
+											],
+											[
+												"./turned/mr.png"
+											]
+										],
+										"Left": [
+											[
+												"./1l.png"
+											],
+											[
+												"./2l.png"
+											]
+										],
+										"Right": [
+											[
+												"./1r.png"
+											],
+											[
+												"./2r.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "variant",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Nose"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Tears"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										},
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										}
+									],
+									"positions": {
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Nose": [
+											[
+												"./turned/nose_a.png"
+											],
+											[
+												"./turned/nose_b.png"
+											],
+											[
+												"./turned/nose_c.png"
+											],
+											[
+												"./turned/nose_d.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./turned/b1a.png"
+											],
+											[
+												"./turned/b1b.png"
+											],
+											[
+												"./turned/b1c.png"
+											],
+											[
+												"./turned/b1d.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./turned/e1a.png"
+											],
+											[
+												"./turned/e1b.png"
+											],
+											[
+												"./turned/e1c.png"
+											],
+											[
+												"./turned/e1d.png"
+											],
+											[
+												"./turned/e1e.png"
+											],
+											[
+												"./turned/e1f.png"
+											],
+											[
+												"./turned/e2a.png"
+											],
+											[
+												"./turned/e2b.png"
+											],
+											[
+												"./turned/e2c.png"
+											],
+											[
+												"./turned/e3a.png"
+											],
+											[
+												"./turned/e4a.png"
+											],
+											[
+												"./turned/e4b.png"
+											],
+											[
+												"./turned/e4c.png"
+											],
+											[
+												"./turned/e4d.png"
+											],
+											[
+												"./turned/e4e.png"
+											],
+											[
+												"./turned/e4f.png"
+											],
+											[
+												"./turned/e4g.png"
+											]
+										],
+										"Tears": [
+											[
+												"./turned/t0.png"
+											],
+											[
+												"./turned/t1.png"
+											],
+											[
+												"./turned/t2.png"
+											],
+											[
+												"./turned/t3.png"
+											],
+											[
+												"./turned/t4.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./turned/ma.png"
+											],
+											[
+												"./turned/mb.png"
+											],
+											[
+												"./turned/mc.png"
+											],
+											[
+												"./turned/md.png"
+											],
+											[
+												"./turned/me.png"
+											],
+											[
+												"./turned/mf.png"
+											],
+											[
+												"./turned/mg.png"
+											],
+											[
+												"./turned/mh.png"
+											],
+											[
+												"./turned/mi.png"
+											],
+											[
+												"./turned/mj.png"
+											],
+											[
+												"./turned/mk.png"
+											],
+											[
+												"./turned/ml.png"
+											],
+											[
+												"./turned/mm.png"
+											],
+											[
+												"./turned/mn.png"
+											],
+											[
+												"./turned/mo.png"
+											],
+											[
+												"./turned/mp.png"
+											],
+											[
+												"./turned/mq.png"
+											],
+											[
+												"./turned/mr.png"
+											]
+										],
+										"Variant": [
+											[
+												"./3.png"
+											],
+											[
+												"./5.png"
+											],
+											[
+												"./6.png"
+											],
+											[
+												"./7.png"
+											],
+											[
+												"./8.png"
+											],
+											[
+												"./9.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "special",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Special-Pose"
+										},
+										{
+											"type": "pose-part",
+											"part": "Special-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "S-Nose"
+										},
+										{
+											"type": "pose-part",
+											"part": "S-Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "S-Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "S-Tears"
+										},
+										{
+											"type": "pose-part",
+											"part": "S-Mouth"
+										}
+									],
+									"positions": {
+										"Special-Pose": [
+											[
+												"./4.png"
+											],
+											[
+												"./10.png"
+											]
+										],
+										"Special-Base": [
+											[
+												"./special_base.png"
+											]
+										],
+										"S-Nose": [
+											[
+												"./special/nose_a.png"
+											],
+											[
+												"./special/nose_b.png"
+											],
+											[
+												"./special/nose_c.png"
+											],
+											[
+												"./special/nose_d.png"
+											]
+										],
+										"S-Eyebrows": [
+											[
+												"./special/b1a.png"
+											],
+											[
+												"./special/b1b.png"
+											],
+											[
+												"./special/b1c.png"
+											],
+											[
+												"./special/b1d.png"
+											]
+										],
+										"S-Eyes": [
+											[
+												"./special/e1a.png"
+											],
+											[
+												"./special/e1b.png"
+											],
+											[
+												"./special/e1c.png"
+											],
+											[
+												"./special/e1d.png"
+											],
+											[
+												"./special/e1e.png"
+											],
+											[
+												"./special/e1f.png"
+											],
+											[
+												"./special/e2a.png"
+											],
+											[
+												"./special/e2b.png"
+											],
+											[
+												"./special/e2c.png"
+											],
+											[
+												"./special/e3a.png"
+											],
+											[
+												"./special/e4a.png"
+											],
+											[
+												"./special/e4b.png"
+											],
+											[
+												"./special/e4c.png"
+											],
+											[
+												"./special/e4d.png"
+											],
+											[
+												"./special/e4e.png"
+											]
+										],
+										"S-Tears": [
+											[
+												"./special/t0.png"
+											],
+											[
+												"./special/t1.png"
+											],
+											[
+												"./special/t2.png"
+											],
+											[
+												"./special/t3.png"
+											],
+											[
+												"./special/t4.png"
+											]
+										],
+										"S-Mouth": [
+											[
+												"./special/ma.png"
+											],
+											[
+												"./special/mb.png"
+											],
+											[
+												"./special/mc.png"
+											],
+											[
+												"./special/md.png"
+											],
+											[
+												"./special/me.png"
+											],
+											[
+												"./special/mf.png"
+											],
+											[
+												"./special/mg.png"
+											],
+											[
+												"./special/mh.png"
+											],
+											[
+												"./special/mi.png"
+											],
+											[
+												"./special/mj.png"
+											],
+											[
+												"./special/mk.png"
+											],
+											[
+												"./special/ml.png"
+											],
+											[
+												"./special/mm.png"
+											],
+											[
+												"./special/mn.png"
+											],
+											[
+												"./special/mo.png"
+											],
+											[
+												"./special/mp.png"
+											],
+											[
+												"./special/mq.png"
+											],
+											[
+												"./special/mr.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"dependencies": []
+}
