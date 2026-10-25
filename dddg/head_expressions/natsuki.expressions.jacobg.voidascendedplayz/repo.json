@@ -6,7 +6,7 @@
         "characters": [
             "Natsuki"
         ],
-        "dddg2Path": "./index.json",
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/head_expressions/natsuki.expressions.jacobg.voidascendedplayz/index.json",
         "description": "[ Created in July 2026 ]",
         "id": "natsuki.expressions.jacobg.voidascendedplayz",
         "kind": [
@@ -14,7 +14,7 @@
         ],
         "name": "Jacob G's Extra expressions",
         "preview": [
-            "./1.png"
+            "https://voidascendedplayz.github.io/dddg/head_expressions/natsuki.expressions.jacobg.voidascendedplayz/1.png"
         ],
         "searchWords": [],
         "source": ""
