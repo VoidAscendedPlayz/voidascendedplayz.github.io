@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Lecraftx9", "Commission by Cynical Shinigami"
+        ],
+        "characters": [
+            "Sona"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_5/sona.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2026 ]",
+        "id": "sona.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Sona",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_5/sona.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {}
+}
