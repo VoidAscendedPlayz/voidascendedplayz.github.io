@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Blazestorm76", "MPT by Retronika", "Commission by Codex"
+        ],
+        "characters": [
+            "Miku"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/hatsune_miku.stormblaze.voidascendedplayz/index.json",
+        "description": "[ Created in June 2026 ]",
+        "id": "hatsune_miku.stormblaze.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Hatsune Miku (Stormblaze76 Version)",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_2/hatsune_miku.stormblaze.voidascendedplayz/preview.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {}
+}
