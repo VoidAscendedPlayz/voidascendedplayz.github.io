@@ -1,0 +1,66 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "version": "2.0",
+    "packId": "mio.outfits.dress.springcasual.voidascendedplayz",
+    "dependencies": [
+        "mio.yagamirai10.edave64"
+    ],
+    "folder": "./",
+    "characters": [
+        {
+            "id": "mio.yagamirai10.edave64:ddlc.oc.mio",
+            "styleGroups": [
+                {
+                    "id": "dress",
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        {
+                                            "type": "head"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Variant"
+                                        }
+                                    ],
+                                    "compatibleHeads": [
+                                        "mio.yagamirai10.edave64:default"
+                                    ],
+                                    "positions": {
+                                        "Variant": [
+                                            [
+                                                "./1.png"
+                                            ],
+                                            [
+                                                "./2.png"
+                                            ],
+                                            [
+                                                "./3.png"
+                                            ],
+                                            [
+                                                "./4.png"
+                                            ],
+                                            [
+                                                "./5.png"
+                                            ],
+                                            [
+                                                "./6.png"
+                                            ],
+                                            [
+                                                "./7.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
