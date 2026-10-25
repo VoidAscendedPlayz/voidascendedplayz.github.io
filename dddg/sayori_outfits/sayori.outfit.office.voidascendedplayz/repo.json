@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "BlugiYT"
+        ],
+        "characters": [
+            "Sayori"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.office.voidascendedplayz/index.json",
+        "description": "[ Created in October 2026 ]",
+        "id": "sayori.outfit.office.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Office",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.office.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/sayori_outfits/sayori.outfit.office.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
