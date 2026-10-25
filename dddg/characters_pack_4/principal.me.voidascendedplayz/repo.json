@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "principal.me.voidascendedplayz",
+        "name": "Principal (nhu126d's Version)",
+        "characters": [
+            "Principal"
+        ],
+        "authors": [
+            "nhu126d (Discord)", "Requested by Atazoth"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/principal.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2026 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/principal.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/principal.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
