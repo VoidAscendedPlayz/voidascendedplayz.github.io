@@ -1,0 +1,25 @@
+{
+	"pack": {
+		"authors": [
+			"maydaymayjay (Discord & Reddit)",
+			"Crypton"
+		],
+		"characters": [
+			"Miku_2"
+		],
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_2/hatsune_miku.maydaymayjay.voidascendedplayz/index.json",
+		"description": "[ Created in June 2026 ]",
+		"id": "hatsune_miku.maydaymayjay.voidascendedplayz",
+		"kind": [
+			"Characters"
+		],
+		"name": "Hatsune Miku (Mayjay Version)",
+		"preview": [
+			"https://voidascendedplayz.github.io/dddg/characters_pack_2/hatsune_miku.maydaymayjay.voidascendedplayz/preview.png"
+		],
+		"searchWords": [],
+		"source": ""
+	},
+	"authors": {},
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json"
+}

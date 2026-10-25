@@ -1,0 +1,646 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "hatsune_miku.maydaymayjay.voidascendedplayz",
+	"version": "2.0",
+	"folder": "./",
+	"characters": [
+		{
+			"id": "ddlc.oc.miku_2",
+			"chibi": "./chibi.png",
+			"label": "Hatsune Miku",
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"components": {},
+							"poses": [
+								{
+									"id": "normal",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Hair-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Left"
+										},
+										{
+											"type": "pose-part",
+											"part": "Right"
+										},
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Nose"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										}
+									],
+									"positions": {
+										"Hair-Base": [
+											[
+												"./twint.png"
+											],
+											[
+												"./ponyt.png"
+											]
+										],
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Nose": [
+											[
+												"./b1.png"
+											],
+											[
+												"./b2.png"
+											],
+											[
+												"./b3.png"
+											],
+											[
+												"./s1.png"
+											],
+											[
+												"./s2.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./br1.png"
+											],
+											[
+												"./br2.png"
+											],
+											[
+												"./br3.png"
+											],
+											[
+												"./br4.png"
+											],
+											[
+												"./br5.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./e1.png"
+											],
+											[
+												"./e2.png"
+											],
+											[
+												"./e3.png"
+											],
+											[
+												"./eb1.png"
+											],
+											[
+												"./eb2.png"
+											],
+											[
+												"./ec1.png"
+											],
+											[
+												"./ec2.png"
+											],
+											[
+												"./ed1.png"
+											],
+											[
+												"./ed2.png"
+											],
+											[
+												"./ed3.png"
+											],
+											[
+												"./ef0.png"
+											],
+											[
+												"./ef1.png"
+											],
+											[
+												"./ef2.png"
+											],
+											[
+												"./ef3.png"
+											],
+											[
+												"./ef4.png"
+											],
+											[
+												"./ef5.png"
+											],
+											[
+												"./ef6.png"
+											],
+											[
+												"./ef7.png"
+											],
+											[
+												"./ef8.png"
+											],
+											[
+												"./es0.png"
+											],
+											[
+												"./es1.png"
+											],
+											[
+												"./es2.png"
+											],
+											[
+												"./es3.png"
+											],
+											[
+												"./es4.png"
+											],
+											[
+												"./es5.png"
+											],
+											[
+												"./es6.png"
+											],
+											[
+												"./es7.png"
+											],
+											[
+												"./es8.png"
+											],
+											[
+												"./esilly1.png"
+											],
+											[
+												"./esilly2.png"
+											],
+											[
+												"./esilly3.png"
+											],
+											[
+												"./esilly4.png"
+											],
+											[
+												"./espark1.png"
+											],
+											[
+												"./espark2.png"
+											],
+											[
+												"./espark3.png"
+											],
+											[
+												"./ew0.png"
+											],
+											[
+												"./ew1.png"
+											],
+											[
+												"./ew2.png"
+											],
+											[
+												"./ew3.png"
+											],
+											[
+												"./ew4.png"
+											],
+											[
+												"./ew5.png"
+											],
+											[
+												"./ew6.png"
+											],
+											[
+												"./ew7.png"
+											],
+											[
+												"./ew8.png"
+											],
+											[
+												"./ew9.png"
+											],
+											[
+												"./ewink1.png"
+											],
+											[
+												"./ewink2.png"
+											],
+											[
+												"./ey0.png"
+											],
+											[
+												"./ey1.png"
+											],
+											[
+												"./ey2.png"
+											],
+											[
+												"./ey3.png"
+											],
+											[
+												"./ey4.png"
+											],
+											[
+												"./ey5.png"
+											],
+											[
+												"./ey6.png"
+											],
+											[
+												"./ey7.png"
+											],
+											[
+												"./ey8.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./m1.png"
+											],
+											[
+												"./m2.png"
+											],
+											[
+												"./m3.png"
+											],
+											[
+												"./m4.png"
+											],
+											[
+												"./m5.png"
+											],
+											[
+												"./m6.png"
+											],
+											[
+												"./m7.png"
+											],
+											[
+												"./m8.png"
+											],
+											[
+												"./m9.png"
+											],
+											[
+												"./m10.png"
+											]
+										],
+										"Left": [
+											[
+												"./1l.png"
+											],
+											[
+												"./2l.png"
+											],
+											[
+												"./3l.png"
+											],
+											[
+												"./4l.png"
+											]
+										],
+										"Right": [
+											[
+												"./1r.png"
+											],
+											[
+												"./2r.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "normal2",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Hair-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Variant"
+										},
+										{
+											"type": "pose-part",
+											"part": "Face-Base"
+										},
+										{
+											"type": "pose-part",
+											"part": "Nose"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyebrows"
+										},
+										{
+											"type": "pose-part",
+											"part": "Eyes"
+										},
+										{
+											"type": "pose-part",
+											"part": "Mouth"
+										}
+									],
+									"positions": {
+										"Hair-Base": [
+											[
+												"./twint.png"
+											],
+											[
+												"./ponyt.png"
+											]
+										],
+										"Face-Base": [
+											[
+												"./base.png"
+											]
+										],
+										"Nose": [
+											[
+												"./b1.png"
+											],
+											[
+												"./b2.png"
+											],
+											[
+												"./b3.png"
+											],
+											[
+												"./s1.png"
+											],
+											[
+												"./s2.png"
+											]
+										],
+										"Eyebrows": [
+											[
+												"./br1.png"
+											],
+											[
+												"./br2.png"
+											],
+											[
+												"./br3.png"
+											],
+											[
+												"./br4.png"
+											],
+											[
+												"./br5.png"
+											]
+										],
+										"Eyes": [
+											[
+												"./e1.png"
+											],
+											[
+												"./e2.png"
+											],
+											[
+												"./e3.png"
+											],
+											[
+												"./eb1.png"
+											],
+											[
+												"./eb2.png"
+											],
+											[
+												"./ec1.png"
+											],
+											[
+												"./ec2.png"
+											],
+											[
+												"./ed1.png"
+											],
+											[
+												"./ed2.png"
+											],
+											[
+												"./ed3.png"
+											],
+											[
+												"./ef0.png"
+											],
+											[
+												"./ef1.png"
+											],
+											[
+												"./ef2.png"
+											],
+											[
+												"./ef3.png"
+											],
+											[
+												"./ef4.png"
+											],
+											[
+												"./ef5.png"
+											],
+											[
+												"./ef6.png"
+											],
+											[
+												"./ef7.png"
+											],
+											[
+												"./ef8.png"
+											],
+											[
+												"./es0.png"
+											],
+											[
+												"./es1.png"
+											],
+											[
+												"./es2.png"
+											],
+											[
+												"./es3.png"
+											],
+											[
+												"./es4.png"
+											],
+											[
+												"./es5.png"
+											],
+											[
+												"./es6.png"
+											],
+											[
+												"./es7.png"
+											],
+											[
+												"./es8.png"
+											],
+											[
+												"./esilly1.png"
+											],
+											[
+												"./esilly2.png"
+											],
+											[
+												"./esilly3.png"
+											],
+											[
+												"./esilly4.png"
+											],
+											[
+												"./espark1.png"
+											],
+											[
+												"./espark2.png"
+											],
+											[
+												"./espark3.png"
+											],
+											[
+												"./ew0.png"
+											],
+											[
+												"./ew1.png"
+											],
+											[
+												"./ew2.png"
+											],
+											[
+												"./ew3.png"
+											],
+											[
+												"./ew4.png"
+											],
+											[
+												"./ew5.png"
+											],
+											[
+												"./ew6.png"
+											],
+											[
+												"./ew7.png"
+											],
+											[
+												"./ew8.png"
+											],
+											[
+												"./ew9.png"
+											],
+											[
+												"./ewink1.png"
+											],
+											[
+												"./ewink2.png"
+											],
+											[
+												"./ey0.png"
+											],
+											[
+												"./ey1.png"
+											],
+											[
+												"./ey2.png"
+											],
+											[
+												"./ey3.png"
+											],
+											[
+												"./ey4.png"
+											],
+											[
+												"./ey5.png"
+											],
+											[
+												"./ey6.png"
+											],
+											[
+												"./ey7.png"
+											],
+											[
+												"./ey8.png"
+											]
+										],
+										"Mouth": [
+											[
+												"./m1.png"
+											],
+											[
+												"./m2.png"
+											],
+											[
+												"./m3.png"
+											],
+											[
+												"./m4.png"
+											],
+											[
+												"./m5.png"
+											],
+											[
+												"./m6.png"
+											],
+											[
+												"./m7.png"
+											],
+											[
+												"./m8.png"
+											],
+											[
+												"./m9.png"
+											],
+											[
+												"./m10.png"
+											]
+										],
+										"Variant": [
+											[
+												"./5.png"
+											],
+											[
+												"./6.png"
+											],
+											[
+												"./7.png"
+											],
+											[
+												"./8.png"
+											],
+											[
+												"./9.png"
+											],
+											[
+												"./10.png"
+											],
+											[
+												"./11.png"
+											],
+											[
+												"./12.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"dependencies": []
+}
