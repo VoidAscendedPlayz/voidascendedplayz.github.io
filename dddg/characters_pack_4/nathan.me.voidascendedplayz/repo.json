@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "nathan.me.voidascendedplayz",
+        "name": "Nathan",
+        "characters": [
+            "Nathan"
+        ],
+        "authors": [
+            "Lecraftx9", "Commission by koboldupscale_/Danon"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/nathan.me.voidascendedplayz/index.json",
+        "description": "[ Created in July 2026 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/nathan.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/nathan.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

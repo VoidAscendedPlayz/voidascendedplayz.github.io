@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "mumei.me.voidascendedplayz",
+        "name": "Mumei",
+        "characters": [
+            "Mumei"
+        ],
+        "authors": [
+            "Lecraftx9"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/mumei.me.voidascendedplayz/index.json",
+        "description": "[ Created in February 2026 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mumei.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/mumei.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "id": "oscar.me.voidascendedplayz",
+        "name": "Oscar [ From - Doki Doki Switcheroo Club Mod ]",
+        "characters": [
+            "Oscar"
+        ],
+        "authors": [
+            "Lecraftx9"
+        ],
+        "kind": [
+            "Characters"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_4/oscar.me.voidascendedplayz/index.json",
+        "description": "[ Created in February 2026 ]",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/oscar.me.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/characters_pack_4/oscar.me.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}
