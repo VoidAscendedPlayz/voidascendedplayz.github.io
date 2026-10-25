@@ -1,0 +1,458 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "yurika.me.voidascendedplayz",
+	"version": "2.0",
+	"folder": "./",
+	"characters": [
+		{
+			"id": "ddlc.oc.yurika",
+			"chibi": "./chibi.png",
+			"label": "Yurika",
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"components": {},
+							"poses": [
+								{
+									"id": "normal",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Heads"
+										},
+										{
+											"type": "pose-part",
+											"part": "Left"
+										},
+										{
+											"type": "pose-part",
+											"part": "Right"
+										}
+									],
+									"positions": {
+										"Heads": [
+											[
+												"./monika/a.png"
+											],
+											[
+												"./monika/b.png"
+											],
+											[
+												"./monika/c.png"
+											],
+											[
+												"./monika/d.png"
+											],
+											[
+												"./monika/e.png"
+											],
+											[
+												"./monika/f.png"
+											],
+											[
+												"./monika/g.png"
+											],
+											[
+												"./monika/h.png"
+											],
+											[
+												"./monika/i.png"
+											],
+											[
+												"./monika/j.png"
+											],
+											[
+												"./monika/k.png"
+											],
+											[
+												"./monika/l.png"
+											],
+											[
+												"./monika/m.png"
+											],
+											[
+												"./monika/n.png"
+											],
+											[
+												"./monika/o.png"
+											],
+											[
+												"./monika/p.png"
+											],
+											[
+												"./monika/q.png"
+											],
+											[
+												"./monika/r.png"
+											],
+											[
+												"./yuri/a.png"
+											],
+											[
+												"./yuri/b.png"
+											],
+											[
+												"./yuri/c.png"
+											],
+											[
+												"./yuri/d.png"
+											],
+											[
+												"./yuri/e.png"
+											],
+											[
+												"./yuri/f.png"
+											],
+											[
+												"./yuri/g.png"
+											],
+											[
+												"./yuri/h.png"
+											],
+											[
+												"./yuri/i.png"
+											],
+											[
+												"./yuri/j.png"
+											],
+											[
+												"./yuri/k.png"
+											],
+											[
+												"./yuri/l.png"
+											],
+											[
+												"./yuri/m.png"
+											],
+											[
+												"./yuri/n.png"
+											],
+											[
+												"./yuri/o.png"
+											],
+											[
+												"./yuri/p.png"
+											],
+											[
+												"./yuri/q.png"
+											],
+											[
+												"./yuri/r.png"
+											],
+											[
+												"./yuri/s.png"
+											],
+											[
+												"./yuri/t.png"
+											],
+											[
+												"./yuri/u.png"
+											],
+											[
+												"./yuri/v.png"
+											],
+											[
+												"./yuri/w.png"
+											],
+											[
+												"./yuri/y1.png"
+											],
+											[
+												"./yuri/y2.png"
+											],
+											[
+												"./yuri/y3.png"
+											],
+											[
+												"./yuri/y4.png"
+											],
+											[
+												"./yuri/y5.png"
+											],
+											[
+												"./yuri/y6.png"
+											],
+											[
+												"./yuri/y7.png"
+											]
+										],
+										"Left": [
+											[
+												"./1l.png"
+											],
+											[
+												"./2l.png"
+											],
+											[
+												"./3l.png"
+											],
+											[
+												"./4l.png"
+											]
+										],
+										"Right": [
+											[
+												"./1r.png"
+											],
+											[
+												"./2r.png"
+											],
+											[
+												"./3r.png"
+											],
+											[
+												"./4r.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "casual",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Heads"
+										},
+										{
+											"type": "pose-part",
+											"part": "Left"
+										},
+										{
+											"type": "pose-part",
+											"part": "Right"
+										}
+									],
+									"positions": {
+										"Heads": [
+											[
+												"./monika/a.png"
+											],
+											[
+												"./monika/b.png"
+											],
+											[
+												"./monika/c.png"
+											],
+											[
+												"./monika/d.png"
+											],
+											[
+												"./monika/e.png"
+											],
+											[
+												"./monika/f.png"
+											],
+											[
+												"./monika/g.png"
+											],
+											[
+												"./monika/h.png"
+											],
+											[
+												"./monika/i.png"
+											],
+											[
+												"./monika/j.png"
+											],
+											[
+												"./monika/k.png"
+											],
+											[
+												"./monika/l.png"
+											],
+											[
+												"./monika/m.png"
+											],
+											[
+												"./monika/n.png"
+											],
+											[
+												"./monika/o.png"
+											],
+											[
+												"./monika/p.png"
+											],
+											[
+												"./monika/q.png"
+											],
+											[
+												"./monika/r.png"
+											],
+											[
+												"./yuri/a.png"
+											],
+											[
+												"./yuri/b.png"
+											],
+											[
+												"./yuri/c.png"
+											],
+											[
+												"./yuri/d.png"
+											],
+											[
+												"./yuri/e.png"
+											],
+											[
+												"./yuri/f.png"
+											],
+											[
+												"./yuri/g.png"
+											],
+											[
+												"./yuri/h.png"
+											],
+											[
+												"./yuri/i.png"
+											],
+											[
+												"./yuri/j.png"
+											],
+											[
+												"./yuri/k.png"
+											],
+											[
+												"./yuri/l.png"
+											],
+											[
+												"./yuri/m.png"
+											],
+											[
+												"./yuri/n.png"
+											],
+											[
+												"./yuri/o.png"
+											],
+											[
+												"./yuri/p.png"
+											],
+											[
+												"./yuri/q.png"
+											],
+											[
+												"./yuri/r.png"
+											],
+											[
+												"./yuri/s.png"
+											],
+											[
+												"./yuri/t.png"
+											],
+											[
+												"./yuri/u.png"
+											],
+											[
+												"./yuri/v.png"
+											],
+											[
+												"./yuri/w.png"
+											],
+											[
+												"./yuri/y1.png"
+											],
+											[
+												"./yuri/y2.png"
+											],
+											[
+												"./yuri/y3.png"
+											],
+											[
+												"./yuri/y4.png"
+											],
+											[
+												"./yuri/y5.png"
+											],
+											[
+												"./yuri/y6.png"
+											],
+											[
+												"./yuri/y7.png"
+											]
+										],
+										"Left": [
+											[
+												"./1bl.png"
+											],
+											[
+												"./2bl.png"
+											],
+											[
+												"./3bl.png"
+											],
+											[
+												"./4bl.png"
+											]
+										],
+										"Right": [
+											[
+												"./1br.png"
+											],
+											[
+												"./2br.png"
+											],
+											[
+												"./3br.png"
+											],
+											[
+												"./4br.png"
+											]
+										]
+									}
+								},
+								{
+									"id": "leaned",
+									"renderCommands": [
+										{
+											"type": "pose-part",
+											"part": "Heads"
+										},
+										{
+											"type": "pose-part",
+											"part": "Leaned-Pose"
+										}
+									],
+									"positions": {
+										"Heads": [
+											[
+												"./leaned/a2.png"
+											],
+											[
+												"./leaned/a2a.png"
+											],
+											[
+												"./leaned/b2.png"
+											],
+											[
+												"./leaned/b2a.png"
+											],
+											[
+												"./leaned/c2.png"
+											],
+											[
+												"./leaned/d2.png"
+											],
+											[
+												"./leaned/e2.png"
+											]
+										],
+										"Leaned-Pose": [
+											[
+												"./5.png"
+											],
+											[
+												"./5b.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"dependencies": []
+}
