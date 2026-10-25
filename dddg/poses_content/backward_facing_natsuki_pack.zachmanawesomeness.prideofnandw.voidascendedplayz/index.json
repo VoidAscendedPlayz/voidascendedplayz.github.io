@@ -1,0 +1,90 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "backward_facing_natsuki_pack.zachmanawesomeness.prideofnandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.base.natsuki"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.base.natsuki:ddlc.natsuki",
+			"styleGroups": [
+				{
+					"id": "dddg.buildin.base.natsuki:uniform",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "reversepose",
+									"positions": {
+										"Left": [
+											[
+												"./1lb.png"
+											],
+											[
+												"./2lb.png"
+											]
+										],
+										"Right": [
+											[
+												"./1rb.png"
+											],
+											[
+												"./2rb.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"backward"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "dddg.buildin.base.natsuki:casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "reverseposecasual",
+									"positions": {
+										"Left": [
+											[
+												"./1blb.png"
+											],
+											[
+												"./2blb.png"
+											]
+										],
+										"Right": [
+											[
+												"./1brb.png"
+											],
+											[
+												"./2brb.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"backward"
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"heads": {
+				"backward": {
+					"variants": [
+						[
+							"./natsuki_backhead.png"
+						]
+					]
+				}
+			}
+		}
+	]
+}

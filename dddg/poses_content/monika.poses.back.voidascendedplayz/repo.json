@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Lecraftx9", "Commission by proximacentauric (Discord)"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.back.voidascendedplayz/index.json",
+        "description": "[ Created in October 2026 ]",
+        "id": "monika.poses.back.voidascendedplayz",
+        "kind": [
+            "Poses"
+        ],
+        "name": "Back Poses",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.back.voidascendedplayz/a.png",
+            "https://voidascendedplayz.github.io/dddg/poses_content/monika.poses.back.voidascendedplayz/1.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "sayori.poses.armcrossed.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [
+		"dddg.buildin.sayori"
+	],
+	"characters": [
+		{
+			"id": "dddg.buildin.sayori:ddlc.sayori",
+			"styleGroups": [
+				{
+					"id": "dddg.buildin.sayori:uniform",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "dddg.buildin.sayori:normal"
+								},
+								{
+									"id": "pose_2",
+									"positions": {
+										"Variant": [
+											[
+												"./Cross_Uniform.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"dddg.buildin.sayori:straight"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "dddg.buildin.sayori:casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "pose_1",
+									"positions": {
+										"Variant": [
+											[
+												"./Cross_Casual.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"dddg.buildin.sayori:straight"
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

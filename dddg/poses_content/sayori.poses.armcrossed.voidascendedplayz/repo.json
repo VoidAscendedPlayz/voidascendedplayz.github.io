@@ -1,0 +1,23 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {},
+	"pack": {
+		"authors": [
+			"BlugiYT"
+		],
+		"characters": [
+			"Sayori"
+		],
+		"description": "[ Created in October 2026 ]",
+		"id": "sayori.poses.armcrossed.voidascendedplayz",
+		"name": "Arm Crossed",
+		"kind": [
+			"Poses"
+		],
+		"preview": [
+			"https://voidascendedplayz.github.io/dddg/poses_content/sayori.poses.armcrossed.voidascendedplayz/Cross_Uniform.png"
+		],
+		"source": "",
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/sayori.poses.armcrossed.voidascendedplayz/index.json"
+	}
+}

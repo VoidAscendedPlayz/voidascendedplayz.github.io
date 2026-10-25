@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"staticquit": {}
+	},
+	"pack": {
+		"authors": [
+			"staticquit",
+			"Packer by prideofn.w. (Discord)",
+			"Publisher by VoidAscendedPlayz"
+		],
+		"characters": [
+			"Yuri"
+		],
+		"description": "(Ported to DDDG by Pride of the N&W on discord) [ Created in October 2026 for desc by VoidAscendedPlayz ]",
+		"id": "yuri_tea_pose_pack.staticquit.prideofnandw.voidascendedplayz",
+		"name": "Yuri Tea pose pack",
+		"kind": [
+			"Poses"
+		],
+		"preview": [
+			"",
+			"https://voidascendedplayz.github.io/dddg/poses_content/yuri_tea_pose_pack.staticquit.prideofnandw.voidascendedplayz/yuri_full2.webp"
+		],
+		"source": "https://discord.com/channels/339272843327963136/373669252554686464/1434596231350587532",
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/yuri_tea_pose_pack.staticquit.prideofnandw.voidascendedplayz/index.json"
+	}
+}

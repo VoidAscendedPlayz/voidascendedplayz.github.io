@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"zachmanawesomeness": {}
+	},
+	"pack": {
+		"authors": [
+			"zachmanawesomeness",
+			"Packer by prideofn.w. (Discord)",
+			"Publisher by VoidAscendedPlayz"
+		],
+		"characters": [
+			"Natsuki"
+		],
+		"description": "She doesn't want to look at you right now. Features both school outfit and casual versions. (Ported to DDDG by Pride of the N&W on discord) [ Created in October 2026 for desc by VoidAscendedPlayz ]",
+		"id": "backward_facing_natsuki_pack.zachmanawesomeness.prideofnandw.voidascendedplayz",
+		"name": "Backward facing Natsuki Pack",
+		"kind": [
+			"Poses"
+		],
+		"preview": [
+			"",
+			"./preview.png"
+		],
+		"source": "https://www.reddit.com/r/DDLCMods/comments/1pxihcb/asset_release_back_facing_natsuki_12272025/",
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/poses_content/backward_facing_natsuki_pack.zachmanawesomeness.prideofnandw.voidascendedplayz/index.json"
+	}
+}

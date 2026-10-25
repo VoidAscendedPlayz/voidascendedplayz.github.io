@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "monika.poses.back.voidascendedplayz",
+    "id": "ddlc.monika",
+    "heads": {
+        "turned": [
+            "./1.png"
+        ]
+    },
+    "poses": [
+        {
+            "compatibleHeads": [
+                "turned"
+            ],
+            "name": "crossed",
+            "style": "uniform",
+            "static": "./a.png"
+        }
+    ]
+}
