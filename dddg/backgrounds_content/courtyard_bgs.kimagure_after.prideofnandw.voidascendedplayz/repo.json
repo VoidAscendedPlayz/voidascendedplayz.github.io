@@ -1,0 +1,25 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"kimagure_after": {}
+	},
+	"pack": {
+		"authors": [
+			"kimagure_after",
+			"Packer by prideofn.w. (Discord)",
+			"Publisher by VoidAscendedPlayz"
+		],
+		"characters": [],
+		"description": "(Ported to DDDG by Pride of the N&W on discord) [ Created in October 2026 for desc by VoidAscendedPlayz ]",
+		"id": "courtyard_bgs.kimagure_after.prideofnandw.voidascendedplayz",
+		"name": "School Courtyard BGs",
+		"kind": [
+			"Backgrounds"
+		],
+		"preview": [
+			"https://voidascendedplayz.github.io/dddg/backgrounds_content/courtyard_bgs.kimagure_after.prideofnandw.voidascendedplayz/courtyard.png"
+		],
+		"source": "https://drive.google.com/drive/folders/1FvpXP9NGwDx1JOINxAbAEi9nsoBV77Fl",
+		"dddg2Path": "https://voidascendedplayz.github.io/dddg/backgrounds_content/courtyard_bgs.kimagure_after.prideofnandw.voidascendedplayz/index.json"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "courtyard_bgs.kimagure_after.prideofnandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [],
+	"backgrounds": [
+		{
+			"id": "background_1",
+			"variants": [
+				[
+					"./courtyard.png"
+				],
+				[
+					"./courtyard_aft.png"
+				],
+				[
+					"./courtyard_nolight.png"
+				],
+				[
+					"./courtyard_night.png"
+				]
+			],
+			"label": "School Courtyard"
+		}
+	]
+}
