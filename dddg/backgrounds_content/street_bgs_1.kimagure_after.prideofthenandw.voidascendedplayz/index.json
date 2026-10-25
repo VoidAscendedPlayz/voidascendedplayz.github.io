@@ -1,0 +1,35 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "street_bgs_1.kimagure_after.prideofthenandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [],
+	"backgrounds": [
+		{
+			"id": "background_1",
+			"variants": [
+				[
+					"./street1.png"
+				],
+				[
+					"./street1_aft.png"
+				],
+				[
+					"./street1_cloudy.png"
+				],
+				[
+					"./street1_night.png"
+				],
+				[
+					"./street1_nolight.png"
+				],
+				[
+					"./street1_rainy.png"
+				],
+				[
+					"./street1_stormy.png"
+				]
+			],
+			"label": "Street"
+		}
+	]
+}
