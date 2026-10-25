@@ -1,0 +1,37 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.yuri",
+    "packId": "yuri.outfit.nurse.voidascendedplayz",
+    "styles": [
+        {
+            "name": "nurse_yuri",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-nurse_yuri",
+            "style": "nurse_yuri",
+            "compatibleHeads": [
+                "straight"
+            ],
+            "right": [
+                "./1r.png",
+                "./2r.png"
+            ],
+            "left": [
+                "./1l.png",
+                "./2l.png"
+            ]
+        },
+        {
+            "name": "hairplay-nurse_yuri",
+            "style": "nurse_yuri",
+            "compatibleHeads": [
+                "sideways"
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
