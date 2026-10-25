@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "BlugiYT"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.office.voidascendedplayz/index.json",
+        "description": "[ Created in October 2026 ]",
+        "id": "natsuki.outfit.office.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Office",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.office.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.office.voidascendedplayz/1r.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

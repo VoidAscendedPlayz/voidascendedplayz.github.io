@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "Satchley", "Lecraftx9"
+        ],
+        "characters": [
+            "Natsuki"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.amusement_v1.voidascendedplayz/index.json",
+        "description": "[ Created in July 2026 ]",
+        "id": "natsuki.outfit.amusement_v1.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Amusement Outfit (V1)",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.amusement_v1.voidascendedplayz/1bl.png",
+            "https://voidascendedplayz.github.io/dddg/natsuki_outfits/natsuki.outfit.amusement_v1.voidascendedplayz/1br.png"
+        ],
+        "searchWords": []
+    },
+    "authors": {}
+}

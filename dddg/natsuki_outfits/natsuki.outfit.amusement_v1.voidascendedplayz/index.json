@@ -1,0 +1,49 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "id": "ddlc.natsuki",
+    "packId": "natsuki.outfit.amusement_v1.voidascendedplayz",
+    "styles": [
+        {
+            "name": "amusement_v1_natsuki",
+            "label": "Default"
+        }
+    ],
+    "heads": {},
+    "poses": [
+        {
+            "name": "normal-amusement_v1_natsuki",
+            "style": "amusement_v1_natsuki",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "left": [
+                "./1bl.png",
+                "./2bl.png"
+            ],
+            "right": [
+                "./1br.png",
+                "./2br.png"
+            ]
+        },
+        {
+            "name": "leaned-amusement_v1_natsuki",
+            "style": "amusement_v1_natsuki",
+            "compatibleHeads": [
+                "straight",
+                "straight_nsfw",
+                "sideways",
+                "turnedAway"
+            ],
+            "headInForeground": true,
+            "headAnchor": [
+                18,
+                22
+            ],
+            "static": "./3.png"
+        }
+    ]
+}
