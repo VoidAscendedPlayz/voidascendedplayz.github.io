@@ -1,0 +1,86 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "street_bgs_2.kimagure_after.prideofthenandw.voidascendedplayz",
+	"version": "2.0",
+	"dependencies": [],
+	"backgrounds": [
+		{
+			"id": "background_1",
+			"variants": [
+				[
+					"./street2.png"
+				],
+				[
+					"./street2_aft.png"
+				],
+				[
+					"./street2_aft_cloudy.png"
+				],
+				[
+					"./street2_aft_rainy.png"
+				],
+				[
+					"./street2_aft_stormy.png"
+				],
+				[
+					"./street2_cloudy.png"
+				],
+				[
+					"./street2_night.png"
+				],
+				[
+					"./street2_night_cloudy.png"
+				],
+				[
+					"./street2_night_rainy.png"
+				],
+				[
+					"./street2_night_stormy.png"
+				],
+				[
+					"./street2_nolight.png"
+				],
+				[
+					"./street2_nolight_cloudy.png"
+				],
+				[
+					"./street2_nolight_rainy.png"
+				],
+				[
+					"./street2_nolight_stormy.png"
+				],
+				[
+					"./street2_rainy.png"
+				],
+				[
+					"./street2_stormy.png"
+				],
+				[
+					"./street2icy.png"
+				],
+				[
+					"./street2icy_aft.png"
+				],
+				[
+					"./street2icy_night.png"
+				],
+				[
+					"./street2icy_nolight.png"
+				],
+				[
+					"./street2snowy.png"
+				],
+				[
+					"./street2snowy_aft.png"
+				],
+				[
+					"./street2snowy_night.png"
+				],
+				[
+					"./street2snowy_nolight.png"
+				]
+			],
+			"label": "Street"
+		}
+	]
+}
