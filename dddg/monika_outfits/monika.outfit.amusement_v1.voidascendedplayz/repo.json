@@ -1,0 +1,24 @@
+{
+    "pack": {
+        "authors": [
+            "Satchley", "Lecraftx9"
+        ],
+        "characters": [
+            "Monika"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.amusement_v1.voidascendedplayz/index.json",
+        "description": "[ Created in July 2026 ]",
+        "id": "monika.outfit.amusement_v1.voidascendedplayz",
+        "kind": [
+            "Styles"
+        ],
+        "name": "Amusement Outfit (V1)",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.amusement_v1.voidascendedplayz/1l.png",
+            "https://voidascendedplayz.github.io/dddg/monika_outfits/monika.outfit.amusement_v1.voidascendedplayz/1r.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {}
+}
