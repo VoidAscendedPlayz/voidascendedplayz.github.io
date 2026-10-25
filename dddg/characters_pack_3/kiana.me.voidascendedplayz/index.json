@@ -1,0 +1,225 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+    "packId": "kiana.me.voidascendedplayz",
+    "version": "2.0",
+    "folder": "./",
+    "characters": [
+        {
+            "id": "ddlc.oc.kiana",
+            "chibi": "./chibi.png",
+            "label": "Kiana",
+            "styleGroups": [
+                {
+                    "id": "uniform",
+                    "styles": [
+                        {
+                            "components": {},
+                            "poses": [
+                                {
+                                    "id": "normal",
+                                    "renderCommands": [
+                                        
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Face-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Emote"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyebrows"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Eyes"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Mouth"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Left"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Right"
+                                        }
+                                    ],
+                                    "positions": {
+                                        
+                                        "Face-Base": [
+                                            [
+                                                "./base.png"
+                                            ],
+                                            [
+                                                "./base2.png"
+                                            ],
+                                            [
+                                                "./base3.png"
+                                            ],
+                                            [
+                                                "./base4.png"
+                                            ],
+                                            [
+                                                "./base5.png"
+                                            ],
+                                            [
+                                                "./base6.png"
+                                            ]
+                                        ],
+                                        "Emote": [
+                                            [
+                                                "./i1.png"
+                                            ],
+                                            [
+                                                "./i2.png"
+                                            ],
+                                            [
+                                                "./i3.png"
+                                            ],
+                                            [
+                                                "./i4.png"
+                                            ],
+                                            [
+                                                "./i5.png"
+                                            ]
+                                        ],
+                                        "Eyebrows": [
+                                            [
+                                                "./b1.png"
+                                            ],
+                                            [
+                                                "./b2.png"
+                                            ],
+                                            [
+                                                "./b3.png"
+                                            ],
+                                            [
+                                                "./b4.png"
+                                            ],
+                                            [
+                                                "./b5.png"
+                                            ],
+                                            [
+                                                "./b6.png"
+                                            ]
+                                        ],
+                                        "Eyes": [
+                                            [
+                                                "./e1.png"
+                                            ],
+                                            [
+                                                "./e2.png"
+                                            ],
+                                            [
+                                                "./e3.png"
+                                            ],
+                                            [
+                                                "./e4.png"
+                                            ],
+                                            [
+                                                "./e5.png"
+                                            ],
+                                            [
+                                                "./e6.png"
+                                            ],
+                                            [
+                                                "./e7.png"
+                                            ],
+                                            [
+                                                "./e8.png"
+                                            ]
+                                        ],
+                                        "Mouth": [
+                                            [
+                                                "./m1.png"
+                                            ],
+                                            [
+                                                "./m2.png"
+                                            ],
+                                            [
+                                                "./m3.png"
+                                            ],
+                                            [
+                                                "./m4.png"
+                                            ],
+                                            [
+                                                "./m5.png"
+                                            ],
+                                            [
+                                                "./m6.png"
+                                            ],
+                                            [
+                                                "./m7.png"
+                                            ],
+                                            [
+                                                "./m8.png"
+                                            ]
+                                        ],
+                                        "Left": [
+                                            [
+                                                "./1l.png"
+                                            ],
+                                            [
+                                                "./2l.png"
+                                            ]
+                                        ],
+                                        "Right": [
+                                            [
+                                                "./1r.png"
+                                            ],
+                                            [
+                                                "./2r.png"
+                                            ]
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "point",
+                                    "renderCommands": [
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Point-Pose"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Point-Base"
+                                        },
+                                        {
+                                            "type": "pose-part",
+                                            "part": "Point-Mouth"
+                                        }
+                                        
+                                    ],
+                                    "positions": {
+                                        "Point-Pose": [
+                                            [
+                                                "./point.png"
+                                            ]
+                                        ],
+                                        "Point-Base": [
+                                            [
+                                                "./point_facebase.png"
+                                            ]
+                                        ],
+                                        "Point-Mouth": [
+                                            [
+                                                "./point_m1.png"
+                                            ],
+                                            [
+                                                "./point_m2.png"
+                                            ]
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

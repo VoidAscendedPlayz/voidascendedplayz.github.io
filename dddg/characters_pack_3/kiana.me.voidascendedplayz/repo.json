@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "authors": [
+            "u/-JustDestrier-", "miHoyo/Hoyoverse"
+        ],
+        "characters": [
+            "Kiana"
+        ],
+        "dddg2Path": "https://voidascendedplayz.github.io/dddg/characters_pack_3/kiana.me.voidascendedplayz/index.json",
+        "description": "[ Created in June 2026 ]",
+        "id": "kiana.me.voidascendedplayz",
+        "kind": [
+            "Characters"
+        ],
+        "name": "Kiana",
+        "preview": [
+            "https://voidascendedplayz.github.io/dddg/characters_pack_3/kiana.me.voidascendedplayz/preview.png"
+        ],
+        "searchWords": [],
+        "source": ""
+    },
+    "authors": {}
+}
